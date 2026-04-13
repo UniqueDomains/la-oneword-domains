@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 699792c1-d098-4e01-9b89-d85fcb0d979f,common.la,premium,1954.42,,71,36,6,name.com,,
-bb99fadf-f33f-4643-acb9-eb22856d2012,awakened.la,resell,,,70,15,8,"GoDaddy.com, Inc.",28/10/2015 19:51,28/10/2026 23:59
+bb99fadf-f33f-4643-acb9-eb22856d2012,awakened.la,resell,,,70,14,8,"GoDaddy.com, Inc.",28/10/2015 19:51,28/10/2026 23:59
 2d1b4bee-cb61-452b-a9dd-5c3463ecb562,pretzel.la,premium,,,98,17,7,,,
 77200fdb-2736-46f6-acba-8e9184738bf3,swing.la,resell,,,74,25,5,.LA Founders Premium Program,08/03/2016 01:27,08/03/2027 23:59
 b919b85c-ecf3-4565-a87c-f82d02e71fbf,leak.la,premium,,,58,20,4,,,
@@ -18,10 +18,10 @@ f3714a13-cbd9-404a-9614-96e6ed26799e,darkweb.la,premium,,,48,19,8,,,
 32952976-988e-4c1f-b507-809c68ed0ea2,Instagrammable.la,premium,,,76,2,14,,,
 52217ce6-0039-4402-a3ac-d0550cb623aa,skewwhiff.la,premium,,,44,1,10,,,
 2c639b1e-b1c4-4766-a499-d2dbc1fc304a,merit.la,resell,,,100,28,5,.LA Premium Names Program,,19/02/2027 23:59
-b5267339-7aa4-4a7d-b799-95510f51e9ed,wanted.la,resell,,,70,24,6,LA Domain Names,28/03/2017 13:16,28/03/2027 23:59
+b5267339-7aa4-4a7d-b799-95510f51e9ed,wanted.la,resell,,,70,23,6,LA Domain Names,28/03/2017 13:16,28/03/2027 23:59
 a2e9deb8-bef1-474a-a6da-8a0003d8aa73,GodSavetheKing.la,premium,,,90,2,17,,,
 d1349602-848a-4dcc-bd74-4e3b827e7a1e,lynxeyed.la,premium,,,46,1,9,,,
-9e4e8af3-6cf3-467b-93f5-a0ddd11f5020,center.la,resell,,,78,31,6,"Porkbun, LLC",21/09/2019 08:54,21/09/2026 23:59
+9e4e8af3-6cf3-467b-93f5-a0ddd11f5020,center.la,resell,,,78,30,6,"Porkbun, LLC",21/09/2019 08:54,21/09/2026 23:59
 9ceeb91c-b472-416b-9cd8-1ae40b359f8f,cleverly.la,premium,,,69,8,8,,,
 3776ff7a-87d6-4f05-98e0-5d1418fd4c6b,snakeoil.la,premium,,,,9,9,,,
 4df22cd5-bc45-4b7a-9b9c-b9e927fa264d,childpornography.la,premium,,,52,2,17,,,
@@ -60,7 +60,7 @@ c3e386b5-d6e8-491a-bf39-9718ec4a4ece,biological.la,premium,,,92,9,10,,,
 e371c4b2-90ae-4143-b766-c4b6d35e6f9b,moneylaundering.la,premium,,,58,4,16,,,
 e4d15969-6ef8-4a14-b66f-6131c2f66c0d,happyhour.la,resell,,,72,21,10,LA Domain Names,11/08/2015 02:51,11/08/2026 23:59
 3c0b70ba-d35d-4951-a02c-8cf015f1ea32,exercisebike.la,premium,,,70,2,13,,,
-af89abfb-88e8-4bd6-acb2-35eebfef7476,favored.la,premium,,,76,6,7,,,
+af89abfb-88e8-4bd6-acb2-35eebfef7476,favored.la,premium,,,76,7,7,,,
 6f27ecb4-3e8a-482d-814b-a8748b38ead4,officelandscape.la,premium,,,72,1,16,,,
 e2cab11b-9796-4569-ab84-89617bda58fb,arab.la,resell,,,58,29,4,.LA Premium Names Program,07/05/2016 01:14,07/05/2026 23:59
 66f079c8-8889-4429-82f2-4e108d36ef9d,fiftyfifty.la,premium,,,86,10,11,,,
@@ -78,7 +78,7 @@ a1cfaa38-1553-43c6-b1eb-b7c3f31ac69f,lowly.la,premium,,,54,5,5,,,
 3203a621-2d59-403e-a852-0ccb5ed603e4,generalizeddisease.la,premium,,,34,1,19,,,
 5c36cba5-4f3c-4346-86e0-7554b68e4960,everyyear.la,premium,,,68,3,10,,,
 fdf66cef-0ca3-4049-a1b1-efef92429123,abusive.la,premium,,,52,3,7,,,
-03119e27-f69e-493a-ab45-05f1e907b6f1,bounce.la,resell,,,98,26,6,LA Domain Names,30/06/2023 22:00,30/06/2026 23:59
+03119e27-f69e-493a-ab45-05f1e907b6f1,bounce.la,resell,,,98,25,6,LA Domain Names,30/06/2023 22:00,30/06/2026 23:59
 8b0aa636-87e8-4424-8dff-50f08cddf39b,makeitbig.la,premium,,,58,2,11,,,
 cb7fa026-ca97-4ddf-aea5-4f7c68943ce7,irritating.la,premium,,,36,2,10,,,
 a7d75a42-4246-4a62-a21a-5ba3a2fb9336,crash.la,resell,,,98,32,5,.LA Founders Premium Program,08/03/2016 01:28,08/03/2027 23:59
@@ -90,7 +90,7 @@ a2f6526c-6d49-44c1-8302-34a879f5f96f,aslant.la,premium,,,58,2,6,,,
 ff5c251f-e108-4203-b447-14440127d0ba,hairwax.la,premium,,,72,1,8,,,
 4b63ce8a-0ab5-4bb0-87df-130e18a6e8f9,bang.la,resell,,,126,30,4,LA Domain Names,11/01/2024 20:22,11/01/2027 23:59
 5630660d-b98c-4f39-a996-08ba4c64f4fb,mopeabout.la,premium,,,,1,10,,,
-7123f0a4-7a14-4956-946c-9e6ce9ad4316,fuzzy.la,resell,,,80,26,5,VIPDomains.LA  Founders Program,28/05/2024 16:51,28/05/2026 23:59
+7123f0a4-7a14-4956-946c-9e6ce9ad4316,fuzzy.la,resell,,,80,25,5,VIPDomains.LA  Founders Program,28/05/2024 16:51,28/05/2026 23:59
 83832fb8-0787-4083-b991-d239a730220a,asyetunknown.la,premium,,,58,1,14,,,
 ac6cdc6f-48df-4f61-b6bb-3a66681611fd,coolly.la,premium,,,74,4,6,,,
 1e4cc1db-8ea4-4b61-8de4-d939dc884808,primer.la,premium,,,64,17,6,,,
@@ -108,7 +108,7 @@ ea6e71db-e3e4-4e09-8c8d-cdd36eddf129,deposits.la,premium,,,46,5,8,,,
 446c4a4c-d76d-4d12-afdc-065cd0ebfdb9,inthis.la,premium,,,60,4,7,,,
 a61146cd-9962-4169-85f1-39fbad055851,diskdrive.la,premium,,,72,3,10,,,
 91345adc-e3ce-42d7-834b-b05ab8466ae0,comeupon.la,premium,,,68,1,9,,,
-7f84bf44-42b5-4ccb-873b-55a9c296906b,bluish.la,premium,,,72,6,6,,,
+7f84bf44-42b5-4ccb-873b-55a9c296906b,bluish.la,premium,,,72,5,6,,,
 7e851a33-341d-4b75-ad5b-e24757e3a1e2,continually.la,premium,,,60,2,11,,,
 8d0cd60c-8e48-4382-a0a7-bf125597e44c,footballmatch.la,premium,,,84,2,14,,,
 111ea487-878c-44ba-bd08-a7438972993f,shear.la,premium,,,58,9,5,,,
@@ -244,7 +244,7 @@ e95d1a13-cf6b-41a5-8c56-dca9f669b777,WhiteSox.la,premium,,,66,7,9,,,
 424d96d0-05b1-4ec1-ab83-ef59cab630b0,veteran.la,premium,,,74,25,7,,,
 98fdd32d-7641-4fc5-b89a-01a578a08553,haste.la,premium,,,60,12,5,,,
 6f6f11b4-0b22-4c11-989e-1df919acb49f,damned.la,premium,,,68,7,6,,,
-08a672fd-5e96-47c7-96ad-220652f96ad6,keen.la,resell,,,64,27,4,VIPDomains.LA  Founders Program,29/12/2022 13:57,29/12/2026 23:59
+08a672fd-5e96-47c7-96ad-220652f96ad6,keen.la,resell,,,64,26,4,VIPDomains.LA  Founders Program,29/12/2022 13:57,29/12/2026 23:59
 b64fafab-1659-49c1-ab4c-efb6e411cb89,achaian.la,premium,,,68,2,7,,,
 1afc903a-f7da-4441-a3ed-2f6764229f9c,promising.la,premium,,,93,8,9,,,
 62ac8d86-97b7-405c-adf1-4c3adb8c3bf6,photographicmemory.la,premium,,,70,4,19,,,
@@ -477,7 +477,7 @@ fe286fb3-7425-4313-9304-cb83d89307bc,twentysix.la,available,41.98,,78,8,10,namec
 3cbdcb40-7898-40dd-bf6d-5b688b3cc6a9,mothafugga.la,premium,,,62,1,10,,,
 5562b88d-1f3a-4176-8b29-650d7eadeeb4,addresses.la,resell,,,52,6,9,.LA Founders Premium Program,12/03/2016 04:14,12/03/2026 23:59
 05fc04ba-5b96-45f1-81f4-90dbf378d0a7,expedition.la,resell,,,90,25,10,LA Domain Names,21/09/2023 07:27,21/09/2026 23:59
-046fa4cd-def6-43c3-8d4f-38e9bd351274,augratin.la,premium,,,70,2,9,,,
+046fa4cd-def6-43c3-8d4f-38e9bd351274,augratin.la,premium,,,70,1,9,,,
 2d0182f0-c37e-45a8-b41a-b32f84dc7908,cane.la,resell,,,63,12,4,LA Domain Names,20/01/2023 10:21,20/01/2027 23:59
 a5cdc8cd-214f-4db4-b4b4-aac084988496,nowhile.la,premium,,,,1,8,,,
 ad435849-6d07-4423-bd10-6ff86ff5fa33,wanting.la,premium,,,84,7,7,,,
@@ -537,7 +537,7 @@ acdf2845-8510-4fbd-9daa-259b12eaa99c,substantial.la,premium,,,84,6,11,,,
 d4fbb132-0e26-44a8-92b3-08577f956a5d,jeep.la,resell,,,69,66,4,LA Domain Names,10/09/2021 20:25,10/09/2026 23:59
 c4df504a-0bb9-46f7-b615-d448bef5d04b,NewGlasgow.la,premium,,,,3,11,,,
 f4113751-5a47-41c8-b71e-824f83cf9416,acetylenic.la,premium,,,46,1,10,,,
-0eeb2ce3-d7ea-4edc-be53-4421d5a048ba,builtin.la,premium,,,91,10,8,,,
+0eeb2ce3-d7ea-4edc-be53-4421d5a048ba,builtin.la,premium,,,91,9,8,,,
 b9861201-d668-4249-a2d1-9fdc9ba96eed,saveface.la,premium,,,,5,9,,,
 b3fe20b4-35a5-4fac-af5a-008b5d2708da,appear.la,premium,,,82,11,6,,,
 8a14ee3f-a015-413c-8481-0ed7b1f478ba,bridge.la,resell,,,68,47,6,.LA Premium Names Program,29/07/2015 00:28,29/07/2026 23:59
@@ -551,7 +551,7 @@ af6e8d06-5f3e-4157-8969-81b76806a6a5,interested.la,premium,,,75,13,10,,,
 f1548b6c-cf85-4385-89e0-1ec3de06febe,bearinmind.la,premium,,,72,3,12,,,
 9a7d0b7a-82f5-4e27-a818-5d5a65e78918,size.la,premium,,,96,20,4,,,
 f39faa82-c4e7-4f57-84bb-39e4d43db87d,abdominous.la,available,39,46.99,56,1,10,name.com,,
-7fbaa50c-71eb-4f0b-87f6-5ab03a8915c7,authorized.la,premium,,,70,9,10,,,
+7fbaa50c-71eb-4f0b-87f6-5ab03a8915c7,authorized.la,premium,,,70,10,10,,,
 f6b0f13b-1ea1-496e-bda6-53c44520b8eb,computerlanguage.la,premium,,,78,1,17,,,
 d78ebbda-2193-4674-9815-5cb25756ceed,howso.la,premium,,,58,3,6,,,
 e54d4d5a-c6f1-449e-9ca0-17c19cf6672f,abstainer.la,premium,,,60,1,9,,,
@@ -581,7 +581,7 @@ e9495128-ecce-4b71-b1cc-fade3482b4bb,rated.la,premium,,,66,11,5,,,
 6bf08682-c0a0-451d-a4e8-d8d45df310d7,exit.la,resell,,,74,31,4,.LA Founders Premium Program,17/03/2016 23:55,17/03/2027 23:59
 b7d7b034-d2f9-4a37-8345-2e94d3b5544f,supporter.la,premium,,,60,12,9,,,
 a944c4ee-93be-4fd0-a155-aa15a6340d72,card.la,resell,,,66,42,4,.LA Founders Premium Program,03/03/2016 01:38,03/03/2027 23:59
-60824632-d325-4126-bb85-ee55d4720b27,binding.la,premium,,,92,9,7,,,
+60824632-d325-4126-bb85-ee55d4720b27,binding.la,premium,,,92,8,7,,,
 b7f663ba-e8fa-4c83-90dc-cd1def9ad498,wages.la,premium,,,72,7,5,,,
 4e6beccb-522d-40b2-a39e-3b41066247b6,avascular.la,premium,,,52,1,9,,,
 b1435276-2357-4edc-ac86-7a22511c7407,aphoristic.la,premium,,,47,1,10,,,
@@ -605,7 +605,7 @@ a3b4fb49-f5ac-43f2-929a-35db42e30412,usual.la,premium,,,84,12,5,,,
 1c75d6c7-d875-43c1-957b-53e55cb97c7e,smile.la,resell,,,92,44,5,LA Domain Names,08/10/2025 12:10,08/10/2026 23:59
 eaf1721a-6bb5-40df-a800-29e9eac9f221,maketime.la,premium,,,74,7,9,,,
 34fdc8d0-2865-49cc-9ef6-3c3e9c0c0ea8,astringent.la,premium,,,64,1,10,,,
-327ce66b-400b-4f24-aab1-7f7bff0b3e96,slow.la,resell,,,74,35,4,LA Domain Names,21/10/2025 01:16,21/10/2026 23:59
+327ce66b-400b-4f24-aab1-7f7bff0b3e96,slow.la,resell,,,74,34,4,LA Domain Names,21/10/2025 01:16,21/10/2026 23:59
 e8011ad2-96b8-40fd-a5a0-ecee9821d143,ammoniated.la,premium,,,46,1,10,,,
 b0526bcc-5372-4772-9af5-2b08415a8279,senescent.la,premium,,,52,3,9,,,
 d7c97de6-f872-478e-8821-95f17f21d4aa,whiskered.la,premium,,,50,1,9,,,
@@ -650,7 +650,7 @@ ac4863a5-13ff-4695-9c43-425647ccebd0,sharp.la,resell,,,84,36,5,.LA Founders Prem
 5f0a060b-89e5-4121-98d1-eaf9acf3e0b8,rubbishbin.la,premium,,,64,2,11,,,
 5ac835ee-a755-4bea-942b-843b068f9466,arctic.la,resell,,,82,26,6,VIPDomains.LA  Founders Program,,25/07/2026 23:59
 4bc02ca0-22d8-46b7-a9ac-7ebac644924f,ninetieth.la,premium,,,72,1,9,,,
-9c0cb9af-3973-479d-ac9a-173aa5ccb351,shit.la,resell,,,64,42,4,LA Domain Names,16/06/2017 12:31,16/06/2026 23:59
+9c0cb9af-3973-479d-ac9a-173aa5ccb351,shit.la,resell,,,64,43,4,LA Domain Names,16/06/2017 12:31,16/06/2026 23:59
 caba637b-260f-40b2-a177-a075a8c66e4f,refreshed.la,premium,,,73,8,9,,,
 5cbf8796-d638-4e78-8a0a-556f3e5d760e,colligate.la,premium,,,50,1,9,,,
 f4883e10-c1a3-44eb-afb0-f31b22db5ee9,waters.la,resell,,,66,19,6,VIPDomains.LA  Founders Program,27/08/2020 19:38,27/08/2026 23:59
@@ -665,7 +665,7 @@ bbc886bf-6bc5-4d3b-a8d3-dff5adcd2a86,some.la,resell,,,80,36,4,VIPDomains.LA  Fou
 491b2c99-e6ac-4680-9c11-526e157b8080,sneeze.la,premium,,,86,7,6,,,
 fb96edc3-5a1b-40d4-992a-0c7399548d8d,cipher.la,resell,,,86,29,6,LA Domain Names,27/03/2018 18:33,27/03/2026 23:59
 cd7262e0-8633-45e4-b1bb-f66c3f57688f,laughable.la,available,41.98,,68,4,9,namecheap,,
-cdc1c7d7-bac0-41b6-9669-ec86d4604bf4,awfully.la,premium,,,62,2,7,,,
+cdc1c7d7-bac0-41b6-9669-ec86d4604bf4,awfully.la,premium,,,62,3,7,,,
 73620b88-5833-47c2-a899-47dd68a23c69,line.la,resell,,,74,65,4,.LA Founders Premium Program,12/03/2016 04:10,12/03/2027 23:59
 8eb88c4f-af66-4281-881c-03ee93954677,convinced.la,premium,,,66,3,9,,,
 f6b573e5-1528-46a1-ae94-021199b452f2,underpowered.la,premium,,,54,1,12,,,
@@ -724,7 +724,7 @@ eb21ab96-0651-45cd-951c-9e68db9838bf,placed.la,premium,,,62,8,6,,,
 72cfe484-b0f7-4a29-992b-1c5acc466c86,Wikimedia.la,premium,,,,9,9,,,
 a12cfa72-4fcc-4f75-a103-a033db2a1dd3,inshortpants.la,premium,,,62,1,14,,,
 226e7f98-bd3a-4ab8-a7bd-5cc75c883856,arid.la,premium,,,50,7,4,,,
-c68b428e-4dac-4856-993d-107f1146db61,binary.la,resell,,,96,36,6,VIPDomains.LA  Founders Program,25/07/2025 01:09,25/07/2026 23:59
+c68b428e-4dac-4856-993d-107f1146db61,binary.la,resell,,,96,35,6,VIPDomains.LA  Founders Program,25/07/2025 01:09,25/07/2026 23:59
 9ca48635-7c4b-42fe-acd3-9a7cd6cff18a,animated.la,premium,,,76,11,8,,,
 12512318-bafa-481a-b22f-e75a0d320907,atthesametime.la,premium,,,74,1,16,,,
 fef43dad-f503-4059-bd32-f19d2f4d67cf,confused.la,resell,,,52,11,8,.LA Premium Names Program,29/10/2010 00:17,29/10/2025 23:59
@@ -763,7 +763,7 @@ bf01f68e-4fa0-4c26-bf2e-aa020fdad921,death.la,resell,,,62,28,5,LA Domain Names,0
 c7499ec8-c4e1-4649-9a4c-849bcc447a6a,evacuate.la,premium,,,64,4,8,,,
 c1a01bb3-eac9-494d-b090-a9e38807fe7e,nowornever.la,premium,,,,10,12,,,
 4f669e73-cb14-48fa-96f5-2b6ebadb5db6,Shakespeare.la,premium,,,96,16,11,,,
-642409c6-6d92-41ec-ae01-55c3333c14ff,bouncy.la,premium,,,72,8,6,,,
+642409c6-6d92-41ec-ae01-55c3333c14ff,bouncy.la,premium,,,72,7,6,,,
 9bf17ded-3b49-4f9d-9cc0-349f8da8d37b,tightfitting.la,premium,,,60,1,13,,,
 fdba93a9-4f07-496a-a0d2-7d4141b3b2e7,nostrils.la,premium,,,,1,8,,,
 dc62ab87-96c8-4085-96bb-4be3ec0a9efa,liveblog.la,premium,,,90,4,9,,,
@@ -916,7 +916,7 @@ b6b4ea8d-0885-48df-8bbc-f5762286cd26,Rhoda.la,premium,,,69,4,5,,,
 86824394-8ae7-46e8-9eda-da85b393675e,adiabatic.la,premium,,,72,3,9,,,
 f5b857c7-f5c1-4354-b412-beab7780d46a,correlate.la,available,41.98,,88,8,9,namecheap,,
 861ef166-9075-42e8-b34d-4ed0ca03e394,exercisebicycle.la,premium,,,70,1,16,,,
-a538db89-ac5f-4a3e-b379-baee4502b7dd,amateur.la,resell,,,70,20,7,"eNom, Inc.",27/09/2004 01:00,27/09/2026 23:59
+a538db89-ac5f-4a3e-b379-baee4502b7dd,amateur.la,resell,,,70,19,7,"eNom, Inc.",27/09/2004 01:00,27/09/2026 23:59
 383a89a6-111d-4bc4-916e-05ec8203242d,healthier.la,premium,,,70,15,9,,,
 7f9822d6-05fe-4515-ba34-04282357c166,bacchant.la,premium,,,64,1,8,,,
 d20dedb5-61fe-4618-8c59-5d6e04da59f9,sideways.la,available,39,46.99,70,13,8,name.com,,
@@ -974,6 +974,7 @@ a707d178-aa51-4bb2-ba1c-6a6e916f61b4,spell.la,resell,,,72,23,5,VIPDomains.LA  Fo
 b17fc7bf-951f-45a3-b14d-c424796bc61f,negotiate.la,resell,,,76,12,9,LA Domain Names,25/04/2018 20:22,25/04/2026 23:59
 8217efc5-f33d-43f5-a8d0-0b7ad212cc67,aetiologic.la,premium,,,46,1,10,,,
 1db6c6fc-68e1-4c74-a820-f016e47512d6,soppy.la,premium,,,48,3,5,,,
+0e0426cf-b3f1-4f47-84e2-eee861dad201,built.la,resell,,,103,22,5,VIPDomains.LA  Founders Program,10/04/2015 01:36,10/04/2027 23:59
 4946cc4b-1d07-4d18-bf77-d096e737f8f1,aeolian.la,premium,,,72,7,7,,,
 496bfaa1-cda8-49bd-b6c6-737bad52acc2,omen.la,premium,,,88,21,4,,,
 98bf158a-ab16-43c2-852f-618f917629ab,GermanReich.la,premium,,,52,1,12,,,
@@ -981,7 +982,7 @@ d8a2617d-5c2e-44e3-9302-403776231b09,peremptory.la,premium,,,61,1,10,,,
 16efc8d4-973a-45d1-a0bd-8486ef521aae,makethemostof.la,premium,,,76,1,16,,,
 10707ce5-a02f-4e8d-bb68-247f986c4508,adnate.la,premium,,,60,2,6,,,
 a25086e6-a9b8-40b4-9c7d-504deaa1bce9,helminthic.la,premium,,,68,1,10,,,
-1e6cb580-6220-4c02-b88d-f489878fee2e,animating.la,premium,,,72,3,9,,,
+1e6cb580-6220-4c02-b88d-f489878fee2e,animating.la,premium,,,72,4,9,,,
 f26b03c3-cad9-4266-8da3-f6ee9e40d4e7,arminian.la,premium,,,64,1,8,,,
 46668a1a-f783-4f46-a279-d7cbee9bebc6,laziness.la,premium,,,58,3,8,,,
 9a43478d-709b-4a64-9418-cb96cde5688f,silver.la,premium,,,74,36,6,TLD Registrar Solutions Ltd,29/01/2009 00:18,16/03/2027 23:59
@@ -991,7 +992,7 @@ c7c16227-e499-4121-ba4d-fdffb4af01e8,buirdly.la,premium,,,46,1,7,,,
 e3982c03-5195-4f6d-b562-b1564c5c8fc8,Volvo.la,resell,,,88,18,5,VIPDomains.LA  Founders Program,24/06/2022 23:14,24/06/2026 23:59
 0e90d99c-e575-4b61-94f6-50be37929a2b,visiting.la,resell,,,68,8,8,LA Domain Names,17/08/2023 01:10,17/08/2026 23:59
 a4872929-014e-4e7d-9239-453ac085e823,david.la,resell,,,74,46,5,LA Domain Names,23/11/2018 13:04,23/11/2026 23:59
-2ca9db91-bd5f-4411-9555-e25b2a6f4d0b,commercial.la,resell,,,91,26,10,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59
+2ca9db91-bd5f-4411-9555-e25b2a6f4d0b,commercial.la,resell,,,91,25,10,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59
 c4834ec8-8e44-47ca-9b59-ec2751606593,uraemic.la,premium,,,56,0,7,,,
 e01459da-d23e-44f3-9627-a765b1c0b5ad,starting.la,resell,,,64,11,8,VIPDomains.LA  Founders Program,29/08/2015 16:24,29/08/2026 23:59
 143627d6-3d7f-49a3-a424-11358b082fdf,albuminous.la,premium,,,54,1,10,,,
@@ -1030,7 +1031,7 @@ dc7a4048-1eff-45fa-9b71-bd1a6c5d65af,threatening.la,premium,,,70,2,11,,,
 bae91648-b45c-4a97-8e9e-cbbc42431d88,beatified.la,premium,,,46,1,9,,,
 7ddbe80d-24ae-403e-ad2a-5841d8582338,personally.la,premium,,,62,6,10,,,
 30023ee4-a82c-4c8e-947c-9db62858cbc2,headline.la,resell,,,92,14,8,.LA Founders Premium Program,17/03/2016 23:55,17/03/2027 23:59
-95c92822-566d-4861-abfc-5a6250ccf0a8,punk.la,resell,,,102,32,4,.LA Founders Premium Program,03/03/2016 01:38,03/03/2027 23:59
+95c92822-566d-4861-abfc-5a6250ccf0a8,punk.la,resell,,,102,31,4,.LA Founders Premium Program,03/03/2016 01:38,03/03/2027 23:59
 e3b6d85c-570e-4858-bc6e-add39362aa5b,pepsico.la,premium,,,82,6,10,,,
 e4fd58e2-26a7-4b49-85d7-a5fa327b60a1,frustrated.la,available,39,46.99,54,5,10,name.com,,
 af36fcf3-c82a-486d-a886-d5abab405997,Spanishrice.la,premium,,,,1,12,,,
@@ -1044,7 +1045,7 @@ ac766ae3-4cce-4f2b-8dc0-0d1dc1c1c17c,preceding.la,premium,,,,3,9,,,
 5b5ec4e0-d203-47a7-abb3-9be2e6a5b200,youall.la,premium,,,64,2,7,,,
 ab88c8f3-8b96-495c-892b-220f3cb890a9,keepinmind.la,premium,,,78,2,12,,,
 823d61f0-ee2c-42fd-abe5-e2eabb749df3,beery.la,premium,,,44,4,5,,,
-9b74ff3b-c0e7-45b8-8dda-40b10cd0d5a0,chief.la,resell,,,120,31,5,.LA Founders Premium Program,05/03/2016 01:34,05/03/2027 23:59
+9b74ff3b-c0e7-45b8-8dda-40b10cd0d5a0,chief.la,resell,,,120,30,5,.LA Founders Premium Program,05/03/2016 01:34,05/03/2027 23:59
 741ab7ce-995c-44b1-897a-4d1bfd35ee08,await.la,premium,,,92,10,5,,,
 3682ca7f-5033-4ae4-855b-e5512dbcf7c5,childmolestation.la,premium,,,52,1,17,,,
 7a01fb70-cfbb-417d-a184-6e2732cb9139,aboveabit.la,premium,,,56,1,11,,,
@@ -1271,7 +1272,7 @@ ef2c1e16-cbc9-4a27-a0f3-f10969638b87,suspect.la,premium,,,98,9,7,,,
 2bbd3421-317f-4c1d-bbb2-4789330f8c80,detoxify.la,premium,,,70,6,8,,,
 b140909c-f676-4ec8-9b92-e50c995efee7,desk.la,resell,,,100,30,4,LA Domain Names,26/09/2018 08:21,26/09/2026 23:59
 1d3dcbd4-dfcf-4b51-9fff-de5080d89d89,event.la,resell,,,96,44,5,LA Domain Names,05/04/2017 00:11,05/04/2027 23:59
-4142aafe-4fad-4321-bc42-7914a83390a6,bearing.la,premium,,,86,19,7,,,
+4142aafe-4fad-4321-bc42-7914a83390a6,bearing.la,premium,,,86,17,7,,,
 80aef6d6-d779-4f8b-8234-38c0f3b46eb5,relating.la,premium,,,68,4,8,,,
 5aaf7dd8-9dab-4070-838c-cd93d9f519b0,SouthKorea.la,premium,,,,6,11,,,
 c6c6bd19-2d85-42c5-9621-8cef18bff792,rejection.la,premium,,,58,3,9,,,
@@ -1317,7 +1318,7 @@ cc12e5f6-4923-450e-aa1d-265891d0b70a,lxxvi.la,premium,,,52,1,5,,,
 6b4faf29-fc61-47a6-bce2-1ec456f9d137,gran.la,premium,,,68,15,4,,,
 48aaacce-f248-4a29-ba70-237a5b3ea494,lowpriced.la,premium,,,66,1,10,,,
 1ff3728c-ebae-4719-b9e7-6146a79fc2cc,funds.la,resell,,,78,20,5,VIPDomains.LA  Founders Program,30/12/2015 07:57,30/12/2026 23:59
-2298cde6-5287-43f7-8e63-a2f19309c690,bland.la,premium,,,54,13,5,,,
+2298cde6-5287-43f7-8e63-a2f19309c690,bland.la,premium,,,54,12,5,,,
 4915e6ed-ceb2-4c5c-a19e-185697c3f8ce,leader.la,resell,,,72,29,6,LA Domain Names,08/01/2018 00:02,08/01/2027 23:59
 4393df3f-c92b-4989-9e5f-00a4fdf5a554,modeller.la,premium,,,70,5,8,,,
 54390376-5664-4ff7-8cba-c9c87b61933d,criticise.la,premium,,,66,2,9,,,
@@ -1351,7 +1352,7 @@ e4b8fb74-846c-4b89-a6c4-534e6808dd41,oilpainting.la,premium,,,,5,12,,,
 ad9c7212-766c-4385-ab31-c96730a97734,majorleague.la,premium,,,86,7,12,,,
 6be0e5fb-0a61-485c-8f0b-3e3b89e4ab9c,ataractic.la,premium,,,52,1,9,,,
 fbe65a9b-7eeb-4c8b-9869-46b687dfbe38,dwelling.la,resell,,,68,11,8,LA Domain Names,31/08/2019 08:22,31/08/2026 23:59
-bc410b8a-a906-4013-b4d1-495540aa22be,numb.la,premium,,,74,9,4,,,
+bc410b8a-a906-4013-b4d1-495540aa22be,numb.la,premium,,,74,10,4,,,
 63cbbcb9-fa08-4b55-880f-66bc9d58b99e,thanksabunch.la,premium,,,,2,14,,,
 c7f381e9-9751-4897-a081-781f4ab0938a,agonal.la,premium,,,58,1,6,,,
 c4e90904-2cdd-4828-b130-ad54c28c8d55,words.la,resell,,,86,26,5,LA Domain Names,01/04/2024 13:56,01/04/2027 23:59
@@ -1391,17 +1392,17 @@ e6c445f3-8500-4390-9768-548d3275a33a,ametropic.la,premium,,,50,1,9,,,
 383cce81-2631-477f-a4ba-114bb0fdbd97,intwominds.la,premium,,,62,1,12,,,
 0ef046e5-69b0-4ef4-85a4-7b0860dc213a,taketheknee.la,premium,,,,1,13,,,
 52d1adc2-9b24-4ebd-b62d-f161793fd906,bathe.la,premium,,,94,7,5,,,
-279091a9-c9f4-4eb1-9261-71aa0cba051e,elderly.la,resell,,,94,12,7,LA Domain Names,27/03/2018 18:33,27/03/2027 23:59
+279091a9-c9f4-4eb1-9261-71aa0cba051e,elderly.la,resell,,,94,11,7,LA Domain Names,27/03/2018 18:33,27/03/2027 23:59
 439ff96b-6683-4481-9930-2870be3cd464,loss.la,premium,,,62,14,4,,,
 ffa6a4af-aa54-42d8-a2f7-a0c937c4a695,prioritize.la,premium,,,72,6,10,,,
-76a91ef6-3130-451c-a871-12660bac7fe1,broken.la,premium,,,64,26,6,,,
+76a91ef6-3130-451c-a871-12660bac7fe1,broken.la,premium,,,64,25,6,,,
 f4b70ed9-0a59-4e87-8a26-28edaba71809,appalling.la,premium,,,50,2,9,,,
 8fa0bdc5-fca1-4ca8-a523-2592afba084e,chagrined.la,premium,,,52,2,9,,,
 483f6643-bd6f-4dcd-b755-0c5abdf0fa52,anuran.la,premium,,,63,2,6,,,
 4da7b868-da24-4fa8-8ecc-105ed611d59c,missionaccomplished.la,premium,,,58,3,20,,,
 0bc28697-72ab-4295-865d-4c53767fd9be,anaclinal.la,premium,,,46,1,9,,,
 2ab9370b-aae8-43a5-9c96-de6dc9c06db0,alphameric.la,available,41.98,,62,1,10,namecheap,,
-3669bd1c-7bcd-4456-9435-11d37f001c9a,severe.la,premium,,,56,7,6,,,
+3669bd1c-7bcd-4456-9435-11d37f001c9a,severe.la,premium,,,56,8,6,,,
 d6846a1e-0249-4dd5-bfa8-97fc5ff85dae,grandprix.la,premium,,,72,83,10,,,
 ab67e0c6-eff7-43b3-a829-337040384c9a,speculate.la,premium,,,70,6,9,,,
 6f9349b4-8f33-445f-875a-3db5bc03c84f,economically.la,premium,,,54,2,12,,,
@@ -1458,13 +1459,13 @@ e28dae63-aa79-4f84-acfc-5c38fd28856e,athenian.la,premium,,,54,5,8,,,
 ccee002d-7532-4b7c-a39c-5f277e8cef53,rein.la,premium,,,70,19,4,,,
 358d4e64-f27e-4227-b64f-d11a195a4847,seeingas.la,premium,,,54,1,9,,,
 906f9a65-f101-402c-b447-c0e94af4ac7d,banner.la,resell,,,54,21,6,.LA Founders Premium Program,12/03/2016 04:19,12/03/2026 23:59
-a4183106-060c-45a0-97fa-dd17784aeb8c,tedious.la,premium,,,60,6,7,,,
+a4183106-060c-45a0-97fa-dd17784aeb8c,tedious.la,premium,,,60,5,7,,,
 72c6babf-fc74-41e5-9c2f-09c6d5d76027,dragon.la,resell,,,78,48,6,LA Domain Names,12/03/2018 13:13,12/03/2027 23:59
 3b08385c-86b3-4dbd-89b8-ee0920c9a20a,childlabour.la,premium,,,52,1,12,,,
 e0631fb5-76b1-402b-a9cc-9c956bb37e41,visualise.la,available,39,46.99,78,7,9,name.com,,
-8af7b012-a4d6-4475-9155-e44f4876ce2e,exchange.la,resell,,,98,30,8,LA Domain Names,03/11/2017 08:01,03/11/2026 23:59
+8af7b012-a4d6-4475-9155-e44f4876ce2e,exchange.la,resell,,,98,31,8,LA Domain Names,03/11/2017 08:01,03/11/2026 23:59
 f844abee-cc03-4e0a-bc8f-3bcf5503228b,watermelon.la,resell,,,70,22,10,VIPDomains.LA  Founders Program,15/06/2024 16:38,15/06/2026 23:59
-5621f2d4-cabf-419b-97a0-5693063aaeb1,ambitious.la,resell,,,68,15,9,LA Domain Names,22/03/2024 08:19,22/03/2027 23:59
+5621f2d4-cabf-419b-97a0-5693063aaeb1,ambitious.la,resell,,,68,14,9,LA Domain Names,22/03/2024 08:19,22/03/2027 23:59
 7c940799-d96a-4d20-a0ad-96332c5393eb,overtime.la,resell,,,94,16,8,VIPDomains.LA  Founders Program,26/06/2015 15:15,26/06/2026 23:59
 b8a40bd3-db16-467f-9f33-516292a8ec2c,gaslighter.la,premium,,,64,2,11,,,
 ccf674ff-21f8-497e-8ad7-bc7ef657ae04,enviable.la,available,39,46.99,78,5,8,name.com,,
@@ -1542,8 +1543,8 @@ f12b89bd-5373-490d-b6d2-f1ac4e3bb57b,aliform.la,premium,,,56,3,7,,,
 3ce3a130-62d9-4f2f-8dff-161167287095,Yours.la,resell,,,68,20,5,VIPDomains.LA  Founders Program,30/10/2022 11:20,30/10/2026 23:59
 4e6fabbb-d938-4e43-95b0-20255d823617,aortic.la,premium,,,54,3,6,,,
 f620befb-8798-4ead-808f-f6d34292bc90,abominable.la,premium,,,52,3,10,,,
-d7d8f600-60c9-4f04-adee-687be21b7d41,hooked.la,premium,,,60,17,6,,,
-b202f459-a2b3-400a-8376-b66b0d7561a9,parody.la,available,39,46.99,92,10,6,name.com,,
+d7d8f600-60c9-4f04-adee-687be21b7d41,hooked.la,premium,,,60,18,6,,,
+b202f459-a2b3-400a-8376-b66b0d7561a9,parody.la,available,39,46.99,92,11,6,name.com,,
 10ebc5f8-b4de-405a-850e-c68eb28ea988,authorityfigure.la,premium,,,64,1,16,,,
 29da7a0a-67cc-45ad-ac59-7704d4bb3c05,ataxic.la,premium,,,42,1,6,,,
 896725cf-7afa-4f1c-a606-eb0b997d2d7f,irregular.la,premium,,,78,10,9,,,
@@ -1601,7 +1602,7 @@ fe85cdf9-5512-4e6c-9597-357316b9e2a7,kindly.la,premium,,,84,18,6,,,
 79f30016-03b1-43cd-83b5-da13849b3d1e,increased.la,premium,,,74,4,9,,,
 38c2425b-6eb9-4b6f-9f69-ff04642270ee,NYT.la,premium,,,74,10,3,,,
 485d2d92-c268-48af-b748-03f6f173cb16,placating.la,premium,,,48,1,9,,,
-b43bb2c1-fe75-46a2-b6e8-5b972a457cc2,brandnew.la,premium,,,72,15,9,,,
+b43bb2c1-fe75-46a2-b6e8-5b972a457cc2,brandnew.la,premium,,,72,14,9,,,
 fbed10f6-e650-4157-a000-fcb4790179c1,coverup.la,premium,,,62,6,8,,,
 26c6afa6-e785-455a-84ac-14f79aa1a897,holding.la,premium,,,72,19,7,,,
 fc6a80e0-42e9-45c6-9ad0-380ebf2be6f6,could.la,premium,,,78,8,5,,,
@@ -1661,7 +1662,7 @@ ecfb0c7f-5374-41b5-9ba8-4ad61e7706d3,race.la,resell,,,78,30,4,VIPDomains.LA  Fou
 32f0d2e5-ac39-4c3b-86ed-f5a383105cf7,panoptic.la,premium,,,46,13,8,,,
 b013c6a6-1805-4228-9ffd-bc0f608fcf9b,anthropic.la,premium,,,49,15,9,,,
 c5afc834-e227-49ac-b442-f263032f0046,bull.la,resell,,,62,28,4,LA Domain Names,14/08/2023 01:27,14/08/2026 23:59
-ee726583-e8c9-45dc-a722-ba0025182f4a,authorised.la,premium,,,70,3,10,,,
+ee726583-e8c9-45dc-a722-ba0025182f4a,authorised.la,premium,,,70,4,10,,,
 e33f382d-8e20-43eb-9d3d-56beb1fdac63,quantities.la,premium,,,,2,10,,,
 d87d9695-db57-4ce2-9959-406269dbe368,voicemessage.la,premium,,,72,4,13,,,
 b6b04439-d1e4-496c-87ef-2d25f0eec9fc,lordly.la,premium,,,64,3,6,,,
@@ -1755,7 +1756,7 @@ f0c17281-5098-4f06-ade2-f524a15eb121,arched.la,premium,,,51,3,6,,,
 461f3083-8990-4b02-b9d5-e7c8aaec87b0,club.la,resell,,,94,39,4,LA Domain Names,12/01/2024 23:46,12/01/2027 23:59
 f7767b16-c19f-4207-8deb-311526c3b06b,xxxiv.la,premium,,,56,1,5,,,
 7ff3d34e-a600-4cb2-a0cc-b216aa74adf1,inhale.la,premium,,,94,11,6,,,
-675da42c-3419-406f-8c49-359fbc54bdfa,limited.la,resell,,,82,21,7,VIPDomains.LA  Founders Program,02/12/2022 12:35,02/12/2026 23:59
+675da42c-3419-406f-8c49-359fbc54bdfa,limited.la,resell,,,82,20,7,VIPDomains.LA  Founders Program,02/12/2022 12:35,02/12/2026 23:59
 76801d80-9adc-42e4-9ecc-d8ef2db98c86,duchess.la,premium,,,70,9,7,,,
 375c2b74-698a-4c60-97dd-574476f611a4,their.la,premium,,,,10,5,,,
 a7cbd9f0-039c-4d89-b429-6753e389e41f,hardatit.la,premium,,,70,1,10,,,
@@ -1767,7 +1768,7 @@ cd01a985-d9c8-4cbb-b6b3-916fbc0ee8a2,ducttape.la,premium,,,68,7,9,,,
 1ff54811-1fad-4e78-877c-e5f7294d2aba,gram.la,resell,,,62,26,4,LA Domain Names,26/02/2023 00:02,26/02/2027 23:59
 574bb4a8-d749-4e90-9e6f-c542862b27d8,howaboutno.la,premium,,,66,1,12,,,
 ef6ea101-ef41-4ac1-8013-41a1355607f4,affixed.la,premium,,,54,2,7,,,
-84e43e8e-eb2b-405e-82d6-68f84fd2fa98,alike.la,available,39,46.99,80,12,5,name.com,,
+84e43e8e-eb2b-405e-82d6-68f84fd2fa98,alike.la,available,39,46.99,80,11,5,name.com,,
 4c62a3fc-3017-41f9-9695-732e7eee1b36,length.la,premium,,,92,6,6,,,
 0e45bf37-ede3-4f10-8686-dcfbb540c9da,asymmetric.la,premium,,,44,15,10,,,
 d51649ef-a373-416c-8795-5b3689c705b6,exception.la,premium,,,76,12,9,,,
@@ -1882,7 +1883,7 @@ bc08a46d-e179-419d-91f6-3aa59a0c170a,areolar.la,premium,,,50,1,7,,,
 4fa2fadf-aa3b-4d53-b485-c982b5d9391e,adulterant.la,premium,,,54,1,10,,,
 53cf6319-5b90-41f3-8780-43876f5eb987,uppercase.la,premium,,,104,9,9,,,
 ea31d60e-6823-4e14-b1a1-d904912e20f5,deflation.la,premium,,,60,5,9,,,
-293646e3-5245-4065-9148-1a05fe3e440c,yellow.la,resell,,,116,37,6,LA Domain Names,29/08/2023 08:41,29/08/2026 23:59
+293646e3-5245-4065-9148-1a05fe3e440c,yellow.la,resell,,,116,35,6,LA Domain Names,29/08/2023 08:41,29/08/2026 23:59
 2f91f18c-745b-416f-8653-a67cb6845e10,tried.la,premium,,,76,6,5,,,
 0f61ae0f-74e8-4707-b24d-c381a1c1273f,trend.la,resell,,,76,31,5,.LA Premium Names Program,29/01/2014 00:17,29/01/2027 23:59
 67f240a6-aefb-4bff-9033-de037f399c22,median.la,premium,,,100,12,6,,,
@@ -1940,7 +1941,7 @@ be077d0c-c87a-4c4d-bcf4-f1423f102c8c,gymnastic.la,premium,,,70,4,9,,,
 55901c2f-ee4b-4c4c-b6bc-26964615a146,happybirthday.la,resell,,,116,15,14,LA Domain Names,20/10/2018 08:18,20/10/2026 23:59
 f397a7b4-03ea-44b5-9221-dafcb5e0c3c0,function.la,resell,,,92,25,8,LA Domain Names,16/09/2018 13:14,16/09/2026 23:59
 47f8c762-198f-4667-9b11-25d9c734b670,gratitude.la,resell,,,76,23,9,LA Domain Names,14/05/2021 08:32,14/05/2026 23:59
-b83f8fc4-b25e-40aa-b4b7-edcccdbc8074,secret.la,resell,,,112,44,6,LA Domain Names,08/01/2022 10:13,08/01/2027 23:59
+b83f8fc4-b25e-40aa-b4b7-edcccdbc8074,secret.la,resell,,,112,45,6,LA Domain Names,08/01/2022 10:13,08/01/2027 23:59
 3c894beb-2c1f-4ede-80ad-0b1ee547de5b,likeatrain.la,premium,,,48,1,12,,,
 6ff94ea3-b4b6-4ae3-892e-bedf3bf8cd23,cali.la,resell,,,72,27,4,.LA Founders Premium Program,23/06/2021 23:29,23/06/2026 23:59
 7a8d6737-407f-43af-9ff3-bbf6af34b405,todate.la,premium,,,60,4,7,,,
@@ -1977,7 +1978,7 @@ ed8ad4c6-5020-4387-ade8-51bc1f518bab,cons.la,premium,,,82,8,4,,,
 82f8e44f-791b-48ef-9e55-6bc4fdaaad68,adjuvant.la,premium,,,62,6,8,,,
 c3c12447-3c3c-451c-a727-6bfdc7483d56,walloping.la,premium,,,70,1,9,,,
 08a229fc-cfa9-40fb-a4e7-f9f158d9ec2b,dismissal.la,premium,,,66,4,9,,,
-48f1ceaa-bb94-4fc1-bb57-44678d16dccb,aussie.la,resell,,,96,24,6,VIPDomains.LA  Founders Program,30/10/2022 11:20,30/10/2026 23:59
+48f1ceaa-bb94-4fc1-bb57-44678d16dccb,aussie.la,resell,,,96,25,6,VIPDomains.LA  Founders Program,30/10/2022 11:20,30/10/2026 23:59
 8945173a-126b-4bd1-b5a2-bac98dd2d5c9,propagated.la,premium,,,,2,10,,,
 ff8da385-96fc-4dfe-9227-0d03fd59153b,server.la,resell,,,64,45,6,LA Domain Names,30/11/2019 02:29,30/11/2026 23:59
 677eec32-705d-4ab6-a535-7c2b5e7c76ae,makesure.la,premium,,,78,6,9,,,
@@ -2017,7 +2018,7 @@ bf3017d5-4c01-4d2b-9d4a-b93fdccf7c76,seem.la,premium,,,78,8,4,,,
 52a80f4f-5e69-42c9-8478-d6d2259a6358,aft.la,resell,,,50,14,3,LA Domain Names,25/02/2017 17:02,25/02/2026 23:59
 f17b7161-5e8f-41d0-aa3e-38503dc74807,deep.la,resell,,,72,43,4,"GoDaddy.com, Inc.",04/08/2017 08:02,04/08/2026 23:59
 ebed011c-a06a-4d08-834b-230aa8e6c0b6,popmusic.la,premium,,,,6,9,,,
-54ef44d8-4afd-42ec-90a0-4bef76102e4e,skillful.la,available,41.98,,70,11,8,namecheap,,
+54ef44d8-4afd-42ec-90a0-4bef76102e4e,skillful.la,available,41.98,,70,10,8,namecheap,,
 77663b71-5465-4d9e-b52a-83f029837ce8,closeoneeye.la,premium,,,72,1,13,,,
 c9627e1f-28e7-447a-817d-85cba1c1c869,medicalreport.la,premium,,,64,2,14,,,
 940a8d6d-3c7f-4b9b-ba67-70ec8a38ca1b,chatbot.la,resell,,,82,38,7,VIPDomains.LA  Founders Program,24/06/2022 23:13,24/06/2026 23:59
@@ -2040,7 +2041,7 @@ a569a7c6-1ce2-466d-9047-eb1e0e57a630,walkabout.la,premium,,,,9,10,,,
 f183f114-9a07-4dc1-bf30-1ccc23634682,bacteroid.la,premium,,,60,1,9,,,
 27854145-45c1-4005-b035-681433f7faf3,faith.la,resell,,,78,32,5,Dynadot LLC,12/03/2016 04:12,12/03/2027 23:59
 1b598e8c-b89d-4b9e-90d1-fd4fcb42bb8a,relish.la,premium,,,104,12,6,,,
-4736292a-f8ec-4a5b-8288-8ec4525dd279,best.la,resell,,,82,53,4,Name.com LLC,25/01/2004 01:00,25/01/2027 23:59
+4736292a-f8ec-4a5b-8288-8ec4525dd279,best.la,resell,,,82,52,4,Name.com LLC,25/01/2004 01:00,25/01/2027 23:59
 d408007a-980e-4ca4-b766-059841418977,writedown.la,premium,,,,3,10,,,
 e787f220-b9a4-4031-9c66-238c50b21269,mockturtleneck.la,premium,,,71,2,15,,,
 c7cd22f8-6b7c-45a6-b45d-33b8ec778962,bannerad.la,premium,,,70,2,9,,,
@@ -2244,7 +2245,7 @@ c484a1b7-f245-4378-92ec-987efc60f94e,takebystorm.la,premium,,,,1,13,,,
 a33e2a05-66b9-4001-a004-908dbd9904fa,else.la,premium,,,80,20,4,,,
 b35eeed3-b4ef-41c7-bd13-c3c9dae9e7ac,anaerobic.la,premium,,,50,1,9,,,
 4c9401bd-8a98-48ac-b56b-c03c91b2fac6,judges.la,resell,,,62,7,6,.LA Founders Premium Program,17/03/2016 23:55,17/03/2027 23:59
-ee92e9cd-df54-4bdd-bffa-5dd4c2132cbe,whatever.la,resell,,,116,28,8,LA Domain Names,18/09/2016 00:06,18/09/2026 23:59
+ee92e9cd-df54-4bdd-bffa-5dd4c2132cbe,whatever.la,resell,,,116,29,8,LA Domain Names,18/09/2016 00:06,18/09/2026 23:59
 8e4ccfed-3f8d-497b-aed9-a00b5474f4bd,original.la,resell,,,98,31,8,LA Domain Names,20/06/2017 14:22,20/06/2026 23:59
 10d3f5da-9e00-45a3-ba1f-6a30101e890d,washing.la,resell,,,88,9,7,LA Domain Names,24/06/2017 17:03,24/06/2026 23:59
 6b7b8f90-338d-4db3-b785-3a7326b08267,sagittate.la,premium,,,43,1,9,,,
@@ -2256,7 +2257,7 @@ ee92e9cd-df54-4bdd-bffa-5dd4c2132cbe,whatever.la,resell,,,116,28,8,LA Domain Nam
 b11cb399-07c9-4c5f-8344-3e2b0e623a80,infrontof.la,premium,,,52,1,11,,,
 bec2056e-7459-479b-a986-bb7003f27216,wear.la,resell,,,70,20,4,.LA Founders Premium Program,08/03/2016 01:27,08/03/2027 23:59
 2684c3c2-d659-4fd5-a651-a8f3c30cbb8c,ascendable.la,premium,,,50,3,10,,,
-9d502069-6080-41df-aaf8-8e3fb4108c39,set.la,resell,,,98,31,3,LA Domain Names,06/06/2023 09:15,06/06/2026 23:59
+9d502069-6080-41df-aaf8-8e3fb4108c39,set.la,resell,,,98,30,3,LA Domain Names,06/06/2023 09:15,06/06/2026 23:59
 4b08eeb2-351d-49ce-9f93-62392093d53b,givein.la,premium,,,70,1,7,,,
 e1840309-a65d-4407-a225-50e4f392acf8,diplomatic.la,available,39,46.99,84,10,10,name.com,,
 01da7a6e-a36d-4b27-84f2-a40b693038f3,despotic.la,premium,,,48,1,8,,,
@@ -2325,7 +2326,7 @@ f63153c3-9775-42b5-8422-d1a229a2de60,experimentally.la,premium,,,56,2,14,,,
 768d2fbb-e7bb-4009-a258-8e21f0feae25,airphoto.la,premium,,,70,3,9,,,
 6f129474-fe7f-4f8b-8533-99cc4ef26f4b,onthebrinkof.la,premium,,,44,1,15,,,
 11e922dc-f1f9-4acb-b453-a476fbfa0ebf,aramaic.la,premium,,,78,3,7,,,
-7d246b6d-4383-4c4f-bf65-b3a2b64f864c,deadly.la,premium,,,60,11,6,,,
+7d246b6d-4383-4c4f-bf65-b3a2b64f864c,deadly.la,premium,,,60,12,6,,,
 f5251f81-5e01-4a89-9f66-d674117a8eca,ackack.la,premium,,,58,3,7,,,
 0dfde9cb-7838-4e64-a7bb-d9bfcc7d8652,afflictive.la,premium,,,54,1,10,,,
 1e5f409b-f983-4ae7-a02c-a99943d55311,becauseof.la,premium,,,58,4,10,,,
@@ -2354,7 +2355,7 @@ c55e4421-1b93-455c-9695-564013ccad31,cherry.la,resell,,,86,32,6,LA Domain Names,
 f4499d1c-7235-4010-b35e-8b2587ca80b8,afrikander.la,premium,,,50,1,10,,,
 5d681f58-fbab-4858-9f45-115e16ecf104,alltheway.la,premium,,,60,7,11,,,
 1506507e-9b1a-435b-98fc-28784778b636,attheoutside.la,premium,,,67,1,14,,,
-7011515b-4a1c-4fe2-9627-22e2b3c5245f,austere.la,premium,,,60,7,7,,,
+7011515b-4a1c-4fe2-9627-22e2b3c5245f,austere.la,premium,,,60,6,7,,,
 70e487ce-5add-4359-a132-477b904ab175,IKiribati.la,premium,,,72,1,10,,,
 e6c7869e-5893-4b06-9619-2b02217aa324,avellan.la,premium,,,52,4,7,,,
 8ad77dc9-cf20-495d-b13a-2de21d731b6e,aluminous.la,premium,,,56,3,9,,,
@@ -2409,7 +2410,7 @@ c0baf35b-c374-4f75-832b-88d6795a259f,courtyard.la,premium,,,70,10,9,,,
 09d99c57-706a-4b6b-9a4c-5dc377f7f83d,Istandcorrected.la,premium,,,54,2,17,,,
 2dcb7da2-19fd-48df-82c7-de44e4cde59b,saddening.la,premium,,,70,1,9,,,
 2fe9ccc8-467f-4f19-948a-cff4c6911146,acrosstheboard.la,premium,,,72,4,16,,,
-7c553d7d-f0fa-4cf5-9b98-4b525902fa52,adjustable.la,available,41.98,,84,5,10,namecheap,,
+7c553d7d-f0fa-4cf5-9b98-4b525902fa52,adjustable.la,available,41.98,,84,6,10,namecheap,,
 bab657c4-9eda-4088-a155-44cb4e095d0a,dictator.la,resell,,,52,8,8,VIPDomains.LA  Founders Program,15/06/2024 16:40,15/06/2026 23:59
 14292ac1-eb84-448f-a137-9cf7d9a9066e,wrecked.la,premium,,,60,6,7,,,
 6794e79e-5c60-4750-926c-268cc19b93c8,stone.la,resell,,,62,31,5,LA Domain Names,25/08/2019 09:31,25/08/2026 23:59
@@ -2462,7 +2463,7 @@ ddb83164-f773-4e5c-86c0-4860a3ab0d5d,antenatal.la,premium,,,70,3,9,,,
 0ae2f71e-2748-459b-863e-38235a7bcc5f,executing.la,premium,,,60,3,9,,,
 e535dc5d-c19c-4153-95e9-ccf4ed4f2687,learned.la,available,39,46.99,71,11,7,name.com,,
 1d43891a-8914-4033-aa95-ec8910a02064,frog.la,resell,,,86,37,4,.LA Founders Premium Program,22/02/2021 19:37,22/02/2026 23:59
-dee39215-617b-48b7-89cf-adc307f8923e,famous.la,resell,5621.2,46.99,98,24,6,LA Domain Names,25/07/2025 11:54,25/07/2026 23:59
+dee39215-617b-48b7-89cf-adc307f8923e,famous.la,resell,5621.2,46.99,98,23,6,LA Domain Names,25/07/2025 11:54,25/07/2026 23:59
 70644386-e99d-4cf7-a826-c4f9fc27191e,taxassessment.la,premium,,,62,2,14,,,
 24a97530-ed24-4112-b330-cc5b3b377557,alular.la,premium,,,54,2,6,,,
 fec303f7-bde0-4809-8fed-6b85597edfd7,longitude.la,premium,,,66,11,9,,,
@@ -2509,7 +2510,7 @@ c92a8424-ac8c-46f9-bd23-98882e89e0e4,nettlesome.la,premium,,,41,1,10,,,
 c52b59c3-a53c-4e8e-b9d6-2747fd080d07,affectionate.la,premium,,,98,3,12,,,
 c08a4209-da69-48e3-99f2-031575d8dad0,actually.la,premium,,,70,15,8,,,
 21d1bb70-b003-4262-80cb-6a05267f0745,commonlaw.la,premium,,,64,6,10,,,
-b626cedb-ef63-4d70-98e7-e300cd9d5c95,weather.la,resell,,,118,43,7,LA Domain Names,06/04/2023 08:47,06/04/2027 23:59
+b626cedb-ef63-4d70-98e7-e300cd9d5c95,weather.la,resell,,,118,42,7,LA Domain Names,06/04/2023 08:47,06/04/2027 23:59
 152216c7-458d-4f11-961e-aec56e4a2e87,masterful.la,available,41.98,,74,10,9,namecheap,,
 12e0259c-1210-4f6e-90ed-e105cf36e517,bluegreen.la,premium,,,86,16,10,,,
 45444811-f896-4bf3-b495-f0aa4f27df93,lviii.la,premium,,,56,1,5,,,
@@ -2546,7 +2547,7 @@ eb78cbf7-c26c-480a-848f-7f9d2ae35c35,fling.la,premium,,,62,17,5,,,
 60b39166-93b1-4b30-94b3-58d1027e99ea,nettled.la,premium,,,45,1,7,,,
 d4f47c6f-8dce-4628-b8aa-cd85183f054c,ttyl.la,resell,,,,9,4,LA Domain Names,14/06/2021 08:18,14/06/2026 23:59
 dad4b7ad-81b1-42e4-a361-13da0a3cb536,husbandandwife.la,premium,,,74,1,16,,,
-307526ac-261d-483a-a079-25764687b61a,ancient.la,premium,,,92,21,7,,,
+307526ac-261d-483a-a079-25764687b61a,ancient.la,premium,,,92,22,7,,,
 b701f5e0-6e53-4bda-8b93-4564f1b752ab,arborical.la,premium,,,52,1,9,,,
 90e7d57f-d2c2-4abd-9927-ee3d6e47ae97,possession.la,premium,,,88,6,10,,,
 e203bae1-1791-4de3-bcca-3366b0817000,month.la,premium,,,74,11,5,,,
@@ -2596,11 +2597,11 @@ b25c038b-4532-450c-8b6a-9a88478bade4,roller.la,resell,,,70,18,6,LA Domain Names,
 a9b9b1f5-06f8-43a2-9472-15416df463a8,agrologic.la,premium,,,54,3,9,,,
 3444e814-8e1f-4e70-886e-76e61b3b8212,spoon.la,resell,,,84,24,5,.LA Premium Names Program,06/03/2025 20:02,06/03/2027 23:59
 c97e5942-f282-474e-9dd9-35ac1681b560,generalformula.la,premium,,,72,1,15,,,
-a7c234a0-1e62-4682-9c91-4710062c8a88,before.la,available,39,46.99,84,19,6,name.com,,
+a7c234a0-1e62-4682-9c91-4710062c8a88,before.la,available,39,46.99,84,18,6,name.com,,
 dc71a893-f07a-49ed-ae56-31ae2bf5f60c,allsmiles.la,premium,,,68,5,10,,,
 dead2569-3a0d-4e4d-a33e-c05af6c6afa0,exonerated.la,premium,,,66,3,10,,,
 5b76505a-f74a-4112-bdce-9dc132e8b4e9,disapproval.la,premium,,,50,2,11,,,
-df652135-c871-4f87-a0ed-f0737dd03398,fearless.la,resell,,,72,32,8,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2026 23:59
+df652135-c871-4f87-a0ed-f0737dd03398,fearless.la,resell,,,72,33,8,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2026 23:59
 ac2b7ae6-2477-476f-828c-9bb5140f5810,define.la,resell,,,96,21,6,VIPDomains.LA  Founders Program,25/07/2025 01:06,25/07/2026 23:59
 b68deac4-c0e2-43fb-b121-d1ef0df70e16,risen.la,premium,,,67,16,5,,,
 9a41e1e4-f88b-4599-b1ca-507a47dec5dc,buttocks.la,premium,,,42,2,8,,,
@@ -2683,7 +2684,7 @@ c223fd00-9e80-42c3-b710-7ef3d2052d4d,argent.la,premium,,,46,15,6,,,
 4ea94e89-1203-4341-8982-fff53f50d4fe,write.la,resell,,,98,26,5,Dynadot LLC,06/12/2006 01:00,06/12/2026 23:59
 93acb65b-dcd1-493b-9d56-dac83245a7ed,magnifyingglass.la,premium,,,73,1,16,,,
 3af943cf-d79d-43d4-b737-2cbd2128d8dd,discomfort.la,premium,,,82,4,10,,,
-2f9969e2-543a-44da-97f7-3fb0df077880,bothered.la,premium,,,64,4,8,,,
+2f9969e2-543a-44da-97f7-3fb0df077880,bothered.la,premium,,,64,3,8,,,
 73ccddbb-d795-4c02-887e-a90241927676,redplanet.la,premium,,,,9,10,,,
 79cedb73-47aa-49e4-8f62-cae4db156574,reasonable.la,available,39,46.99,72,14,10,name.com,,
 c2100b1c-ca79-4395-8904-46b5f5f1374e,starred.la,premium,,,48,5,7,,,
@@ -2695,6 +2696,7 @@ cbb93fdd-4876-4f59-9e40-0b445e1b209e,fidgety.la,premium,,,64,2,7,,,
 ab781dd6-0a97-4972-8d67-06065e917499,coldrubber.la,premium,,,58,1,11,,,
 0c1ece29-2613-4880-acfb-b201c8b74147,getrightwith.la,premium,,,51,1,14,,,
 627c9d0b-7ba2-4b67-989b-dc2d26f47d5f,complete.la,resell,,,120,25,8,LA Domain Names,17/08/2016 16:27,17/08/2026 23:59
+e3c9dd79-87a0-4b08-bf07-8c41b68de469,broke.la,resell,,,102,17,5,VIPDomains.LA  Founders Program,10/04/2015 01:36,10/04/2027 23:59
 2ea0b8a1-1f2e-4395-8bee-b701522f2429,drift.la,premium,,,86,28,5,,,
 dbdc0756-8c5c-4c8f-9f0b-42684d8f6f4f,howgoesit.la,premium,,,54,1,11,,,
 a1fcc6c3-827b-4a06-8738-a200966d6e2a,accustomed.la,available,41.98,,72,2,10,namecheap,,
@@ -2712,7 +2714,7 @@ c06ef061-7678-4356-a8b2-5019b8ed9e46,jumping.la,premium,,,88,9,7,,,
 b94ee85b-90d0-42e7-820f-e88704093921,antitrust.la,premium,,,54,6,9,,,
 36baa5ad-4760-47a8-aadc-2651a614c0e3,gobad.la,premium,,,70,3,6,,,
 c3c629b9-d962-4d58-a960-d31103631de4,likehell.la,premium,,,40,1,9,,,
-12872335-baf6-4780-a0e8-a177451ff511,arabic.la,premium,,,96,20,6,,,
+12872335-baf6-4780-a0e8-a177451ff511,arabic.la,premium,,,96,21,6,,,
 f02cb9dd-70ad-47a4-a105-7cbd7a494c27,nutritive.la,premium,,,84,2,9,,,
 da4824c7-5c71-4bba-b4ae-9745fba22cbb,naturalperson.la,premium,,,,1,14,,,
 3cf04564-3aa2-4717-af57-3a523449d892,guilt.la,premium,,,86,7,5,,,
@@ -2731,7 +2733,7 @@ bb3c808f-d5bb-480d-9074-8f9749f0f7dd,abaxial.la,available,39,46.99,54,2,7,name.c
 8f3b491f-bb8e-4f49-b003-26a565c1d240,NewZealand.la,premium,,,,5,11,,,
 9f1391ea-8c28-4d1e-ba15-d985c38e1beb,wondrous.la,resell,,,78,10,8,VIPDomains.LA  Founders Program,25/07/2025 01:02,25/07/2026 23:59
 0e24d88c-023b-4679-a02f-7dd054a4bc8f,armored.la,resell,,,66,11,7,VIPDomains.LA  Founders Program,17/06/2025 10:01,17/06/2026 23:59
-80222673-e4d0-4338-8a2e-5f65db33846c,stamp.la,premium,,,64,22,5,,,
+80222673-e4d0-4338-8a2e-5f65db33846c,stamp.la,premium,,,64,21,5,,,
 8dbbe66e-46c9-433a-b20c-015fe9e5d714,truthordare.la,premium,,,,6,13,,,
 1f43130e-acc1-484c-bf33-5fe2e0ef1f21,inorderto.la,premium,,,,1,11,,,
 4618215b-fa4a-4ec0-8c53-d548f9d508dd,composed.la,available,39,46.99,71,11,8,name.com,,
@@ -2742,7 +2744,7 @@ cf8f7998-c903-417b-baf7-f5719d29283b,rider.la,resell,,,70,23,5,VIPDomains.LA  Fo
 5e747d75-495c-4ea5-a82f-eed774ab968c,eighteen.la,available,39,46.99,76,9,8,name.com,,
 5efea89d-5ecc-475c-935e-2eb7f2b4c99e,revelatory.la,premium,,,62,2,10,,,
 356bcbb9-834f-4f23-bec6-bec77578e0d1,deserter.la,premium,,,49,1,8,,,
-0653c3a3-6b6f-49dd-b84a-cec09860df09,auriferous.la,premium,,,66,3,10,,,
+0653c3a3-6b6f-49dd-b84a-cec09860df09,auriferous.la,premium,,,66,2,10,,,
 eec45a35-375d-4e66-a527-bc0dd3aaab96,borderon.la,premium,,,66,1,9,,,
 57245944-a76e-43f2-91d5-8bab4123d88d,dorightby.la,premium,,,74,1,11,,,
 4f71bf43-a448-4e47-b6c8-587fc82158f8,folicacid.la,premium,,,76,2,10,,,
@@ -2762,6 +2764,7 @@ a29c85d9-03e8-4c90-a219-bd0d82ba12e3,twice.la,premium,,,58,15,5,,,
 f8c38525-ce31-4b62-b581-4c2018674ef1,aplitic.la,premium,,,49,1,7,,,
 b4825116-e207-4c3e-adfc-d10b1a5d9063,assailable.la,premium,,,44,1,10,,,
 8ed9284a-58d0-466e-89c2-e6137ff71bb7,tshirt.la,resell,,,80,24,7,LA Domain Names,20/11/2016 08:09,20/11/2026 23:59
+e6952df8-8872-494c-9b88-e70a90256482,beat.la,resell,,,112,33,4,LA Domain Names,18/04/2023 13:10,18/04/2027 23:59
 23e6f071-102a-4f81-b401-a02b76dd8617,avifaunal.la,premium,,,52,1,9,,,
 e8294e97-d5dd-44e3-98e8-6e630ba850c5,streetcred.la,premium,,,,8,11,,,
 d908c542-5d49-4ad4-aefb-3b95066a6602,OurFather.la,premium,,,,5,10,,,
@@ -2821,12 +2824,12 @@ fd6e2b22-80e4-427a-b63d-f6c28945a755,comedian.la,available,41.98,,80,7,8,nameche
 f713cf16-1354-4f7e-8272-716a0f1d99a6,recorded.la,premium,,,66,9,8,,,
 4707714f-4f3f-41bd-bbdf-2a7ed66089ff,thenandnow.la,premium,,,,5,12,,,
 5ea44788-736e-4373-a5ea-504372bfe3f9,atbest.la,premium,,,67,3,7,,,
-e4f27a84-be5f-46a6-840f-24c59d759255,staring.la,available,39,46.99,64,8,7,name.com,,
+e4f27a84-be5f-46a6-840f-24c59d759255,staring.la,available,39,46.99,64,7,7,name.com,,
 18a4285f-6f9f-4d06-beec-753d9c93f670,destroyed.la,available,39,46.99,52,4,9,name.com,,
 6dbdcf20-a870-402c-8644-e2b0130c843a,howthehell.la,premium,,,44,2,12,,,
 848f0ea1-573e-46a6-b301-e0c67f010378,operose.la,premium,,,54,3,7,,,
 25f0ed26-5efc-4697-b7b1-648f3a678faf,articular.la,premium,,,50,4,9,,,
-9e1c2f99-f20c-4cde-941b-461e0680238d,damn.la,resell,,,140,24,4,LA Domain Names,09/10/2017 08:18,09/10/2026 23:59
+9e1c2f99-f20c-4cde-941b-461e0680238d,damn.la,resell,,,140,23,4,LA Domain Names,09/10/2017 08:18,09/10/2026 23:59
 5998e526-b358-4367-a2e3-446ca3dc490b,russia.la,resell,,,90,43,6,LA Domain Names,30/04/2023 08:46,30/04/2026 23:59
 1140e7f5-87c1-495b-b303-4366ab09d960,sushi.la,resell,,,84,28,5,LA Domain Names,25/01/2020 23:46,25/01/2027 23:59
 e38e035b-3c86-482c-adfd-d63c58c1696a,ache.la,premium,,,58,8,4,,,
@@ -2856,7 +2859,7 @@ d2c9de5c-0a14-4552-9517-93fe9a2b3663,shaper.la,premium,,,80,12,6,,,
 5737558d-4316-4bad-9478-b0b7076c653d,agitating.la,premium,,,54,1,9,,,
 71b1d6ee-dc36-4683-a4de-941bfe211df6,antsy.la,premium,,,53,4,5,,,
 bee0737c-de80-4f0c-a584-c8f56b4005ae,barefaced.la,premium,,,50,3,9,,,
-6a1b92d0-8aa7-44c0-b0be-e82449b1480d,support.la,resell,,,112,48,7,.LA Founders Premium Program,08/03/2016 01:28,08/03/2027 23:59
+6a1b92d0-8aa7-44c0-b0be-e82449b1480d,support.la,resell,,,112,47,7,.LA Founders Premium Program,08/03/2016 01:28,08/03/2027 23:59
 49243d28-04f8-4462-b947-80df43e000c2,sothat.la,premium,,,70,1,7,,,
 13582a6a-2ad0-45ec-8e4d-1821b56d8316,deviate.la,premium,,,84,12,7,,,
 0319d486-583e-44bb-894f-aa6b4e6aacbb,howfar.la,premium,,,58,3,7,,,
@@ -2867,7 +2870,7 @@ e0f9d56a-0586-4cbf-8cd2-f7b815c0a259,obese.la,available,39,46.99,78,6,5,name.com
 2f095bc2-ac66-48a4-b9fe-3cd3eb9ed740,burry.la,premium,,,44,5,5,,,
 c3ab635a-e994-4313-b744-701e63b9507b,allergist.la,resell,,,64,2,9,Dynadot LLC,06/05/2016 11:38,06/05/2026 23:59
 fb8bd3e7-a1ce-45d6-8eb7-ba0dfdb7cd2e,troika.la,premium,,,62,8,6,,,
-aaf0fe04-51d5-4e4d-95ee-c54e96637ac0,bush.la,resell,,,64,18,4,VIPDomains.LA  Founders Program,27/08/2020 19:32,27/08/2026 23:59
+aaf0fe04-51d5-4e4d-95ee-c54e96637ac0,bush.la,resell,,,64,19,4,VIPDomains.LA  Founders Program,27/08/2020 19:32,27/08/2026 23:59
 d5519d25-b625-420f-9027-5068eeeabe09,passon.la,available,39,46.99,72,7,7,name.com,,
 9c732c29-ca07-4713-ac49-6b5e40b998d8,Onions.la,premium,,,56,7,6,,,
 fc6f924c-48ba-425d-8e6f-6848fff49d3d,beamy.la,premium,,,52,5,5,,,
@@ -2907,7 +2910,7 @@ c79b6460-f93c-4d53-a620-76e1f2608a06,knockknock.la,premium,,,86,14,11,,,
 8a0214c1-fc56-4011-bbf5-41ad8b07a881,IndianaJones.la,premium,,,80,4,13,,,
 70e22f10-114a-4508-a34a-0609de310aff,payment.la,resell,,,78,37,7,LA Domain Names,15/05/2023 08:17,15/05/2026 23:59
 dc35f53c-af0a-4e43-b6ab-ba2121ff5e0c,nought.la,premium,39,46.99,92,5,6,name.com,,
-422366a6-dcf2-4afa-96b3-fd37725d327d,endorse.la,premium,,,100,12,7,,,
+422366a6-dcf2-4afa-96b3-fd37725d327d,endorse.la,premium,,,100,11,7,,,
 f23189ae-784e-4940-9ecd-3dc6e1a47df1,memorable.la,premium,,,92,13,9,,,
 89dff2c2-17f0-46ab-b498-d71a76f8283e,UML.la,premium,,,72,9,3,,,
 a92c7e0a-4b3c-40ad-86df-a850b212205d,volatile.la,premium,,,76,10,8,,,
@@ -2923,7 +2926,7 @@ f526678f-85bf-40b2-9192-36d91ac51929,sub.la,resell,,,96,37,3,LA Domain Names,08/
 aa0d1ba9-c24f-4bb7-8fe3-fcdce44f07cd,oriented.la,premium,,,68,6,8,,,
 005ef8e2-fa1c-48fe-9628-44e3bd6bcd48,break.la,resell,,,82,20,5,.LA Founders Premium Program,13/03/2016 02:20,13/03/2027 23:59
 8ec0c582-8b52-4e80-8ca9-3a06346d8780,corrected.la,available,39,46.99,70,4,9,name.com,,
-e9b4e977-3524-4ffb-988a-3eed794a746c,blanket.la,premium,,,100,13,7,,,
+e9b4e977-3524-4ffb-988a-3eed794a746c,blanket.la,premium,,,100,12,7,,,
 96895f28-4d11-47a6-ae6f-c8affe447c4e,stranded.la,premium,,,58,9,8,,,
 e18f665e-fe95-40ef-876a-1924fae28ad2,giveandtake.la,premium,,,70,5,13,,,
 c24df7be-5fb2-4c64-bfe5-9ae9920da3f3,baghdad.la,premium,,,60,13,7,,,
@@ -3040,7 +3043,7 @@ bc1c896e-591a-4527-b504-63dc8e09c2b7,abysmal.la,premium,,,52,4,7,,,
 b45be44a-ba94-44b1-b4bf-6213f321a28e,claimform.la,premium,,,66,3,10,,,
 72235024-533e-49bf-9891-55a4c0a5f6f4,sitabout.la,premium,,,,1,9,,,
 5c616537-3952-44e1-ba93-1345d27ffd14,buddy.la,premium,,,66,37,5,,,
-03dce283-c6c3-4910-81de-b584cc4bf7ab,aerobic.la,resell,,,74,7,7,.LA Founders Premium Program,05/03/2016 01:33,05/03/2027 23:59
+03dce283-c6c3-4910-81de-b584cc4bf7ab,aerobic.la,resell,,,74,6,7,.LA Founders Premium Program,05/03/2016 01:33,05/03/2027 23:59
 0fb9751d-9392-4183-b324-9bdb30742f63,dogtoothgrass.la,premium,,,90,1,14,,,
 a9a7c33e-b84c-4f25-884e-c8a3342e0331,actinoid.la,premium,,,64,2,8,,,
 d5e76ce2-2bb5-4880-b6c9-dffd3d3550fa,closein.la,premium,,,74,1,8,,,
@@ -3069,7 +3072,7 @@ a1dcf20d-b587-4e76-b594-e560ac02f8b6,completely.la,available,39,46.99,66,8,10,na
 667c5ac5-272e-4f94-851d-214de0495f55,acerbic.la,premium,,,50,3,7,,,
 daba0970-7eb3-45ce-9d99-3b96aa25c0ac,tail.la,premium,,,80,21,4,,,
 d32c9dce-5218-4622-9864-7309b655c030,anagogical.la,premium,,,46,1,10,,,
-9ec4a149-ec32-4a4f-9139-b3cb73c8a5fd,chicken.la,resell,,,68,33,7,LA Domain Names,09/02/2020 12:43,09/02/2027 23:59
+9ec4a149-ec32-4a4f-9139-b3cb73c8a5fd,chicken.la,resell,,,68,34,7,LA Domain Names,09/02/2020 12:43,09/02/2027 23:59
 e14f5b2f-d731-4f66-8619-634f7f76f34f,duty.la,resell,,,62,13,4,LA Domain Names,01/08/2025 09:01,01/08/2026 23:59
 f6cb0f80-54b6-4c21-9fba-7b29e7c98b3c,Lions.la,premium,,,72,17,5,,,
 e2feba9f-f187-43fd-9967-96a5d22932aa,indoaryan.la,premium,,,60,3,10,,,
@@ -3096,7 +3099,7 @@ ff215714-3c7e-4a1f-9ea8-9db4384202c7,evaporate.la,premium,,,68,5,9,,,
 df2bbe01-fedc-4d83-949e-eeea23df1a6c,prenominal.la,premium,,,60,1,10,,,
 913eb75a-d30a-4d9d-b466-fab95858c4a7,battler.la,premium,,,48,,7,,,
 5dcdb697-d79e-4c48-be33-9f0694a6196e,least.la,premium,,,106,9,5,,,
-4dee826e-c810-4fd0-8226-41b01c11284d,shining.la,available,41.98,,88,14,7,namecheap,,
+4dee826e-c810-4fd0-8226-41b01c11284d,shining.la,available,41.98,,88,15,7,namecheap,,
 f6355960-5d85-4d9b-846c-d758c0486eb6,showed.la,premium,,,,3,6,,,
 d749a82c-ef43-4805-a6c7-76ae52fb048c,SSI.la,resell,,,78,27,3,.LA Premium Names Program,22/04/2016 08:23,22/04/2026 23:59
 a176d0db-c5a2-4601-9bb4-0d53fa417908,reveal.la,premium,,,96,29,6,,,
@@ -3149,7 +3152,7 @@ b04c1e5e-2066-460b-8cc6-8c1fa44d970d,poll.la,resell,,,80,21,4,TLD Registrar Solu
 c15a6cb4-2826-4864-839d-1503cca72bab,adviseable.la,premium,,,66,1,10,,,
 97dc9ca1-2d55-4d2e-b019-c0915de0c528,rang.la,premium,,,,8,4,,,
 8c062bf1-7c16-4380-bc00-73abc9c50d2a,facts.la,resell,,,88,21,5,.LA Premium Names Program,09/04/2016 01:19,09/04/2026 23:59
-f2bbcbf3-c96b-430b-bb89-f4d51208e499,fused.la,available,39,46.99,66,15,5,name.com,,
+f2bbcbf3-c96b-430b-bb89-f4d51208e499,fused.la,available,39,46.99,66,16,5,name.com,,
 c33b9f33-641a-41a6-a258-070a555bec15,discerning.la,premium,,,72,4,10,,,
 86f13b36-3c6b-43b6-96c6-38e6a5369cfe,dancehall.la,premium,,,70,6,10,,,
 33b4efa1-51c1-43c4-8744-bd746a8f8213,agnostic.la,available,41.98,,84,10,8,namecheap,,
@@ -3251,7 +3254,7 @@ aba099d7-9110-4f17-8391-b0d9da17035e,attheworst.la,premium,,,62,1,12,,,
 3165230c-b144-4f99-81a8-97379e976ff8,bringin.la,premium,,,74,4,8,,,
 6be5bdc8-0ad0-43e2-912c-4a4533ee14d6,quick.la,resell,,,72,41,5,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59
 9e0bbcbf-1073-42d1-a990-9e97d57c57e2,clumsy.la,available,39,46.99,74,10,6,name.com,,
-01968e0b-d32b-4644-9779-8cb974fb65c9,christian.la,resell,,,88,38,9,LA Domain Names,12/11/2020 01:03,12/11/2026 23:59
+01968e0b-d32b-4644-9779-8cb974fb65c9,christian.la,resell,,,88,39,9,LA Domain Names,12/11/2020 01:03,12/11/2026 23:59
 583cfa93-ffbc-4252-9c12-9d3791af82d2,bulbous.la,premium,,,42,,7,,,
 05f9398c-3c11-4ad4-a518-c57a7c94e53b,sincere.la,resell,,,72,22,7,VIPDomains.LA  Founders Program,25/07/2025 01:04,25/07/2026 23:59
 913aca77-a9e6-4f75-871d-b396f924c52b,buying.la,resell,,,74,18,6,LA Domain Names,04/07/2013 16:22,04/07/2027 23:59
@@ -3300,7 +3303,7 @@ d1910701-a2a8-42aa-8ebb-18cc1dda0756,panoplied.la,premium,,,50,1,9,,,
 f824ae50-72fe-402f-bb82-757a60d321af,definite.la,available,39,46.99,84,9,8,name.com,,
 ede2e3b2-3887-4dfb-8fb1-2a194db9d869,doyouknow.la,premium,,,46,5,11,,,
 34db93c3-199a-4293-8be2-333cbeaf8182,sunbeam.la,premium,,,78,14,7,,,
-23fa3829-d385-4b5a-b2ca-1f5400feabe7,enlarged.la,premium,,,66,1,8,,,
+23fa3829-d385-4b5a-b2ca-1f5400feabe7,enlarged.la,premium,,,66,2,8,,,
 3abb86a7-efec-460a-a5b8-47929187620c,essayquestion.la,premium,,,68,1,14,,,
 a9305bce-198d-42cd-be4c-f57595d11ff3,burred.la,premium,,,46,1,6,,,
 899991a2-2e73-45f7-9ecf-e7c4b61b5186,hidden.la,resell,,,65,35,6,VIPDomains.LA  Founders Program,25/07/2025 01:08,25/07/2026 23:59
@@ -3475,7 +3478,7 @@ e3f11466-31a1-45e2-9beb-d4e995c87028,feb.la,premium,,,70,10,3,,,
 fa8f7483-68a3-452c-a6de-f6280576224f,fortyone.la,premium,,,56,5,9,,,
 9f0cc256-0947-4f26-b0e7-e9c8ed0c76a6,likenoother.la,premium,,,74,4,13,,,
 785da758-a31e-4433-9d7e-c672dd9b97a5,athousand.la,premium,,,56,1,10,,,
-922998f3-dc12-40c1-b737-17ad9bfaa71b,totally.la,resell,,,70,18,7,LA Domain Names,26/01/2021 10:48,26/01/2027 23:59
+922998f3-dc12-40c1-b737-17ad9bfaa71b,totally.la,resell,,,70,17,7,LA Domain Names,26/01/2021 10:48,26/01/2027 23:59
 b01baf64-c850-4d8f-8f01-30ea29d7dcc0,bossy.la,premium,,,70,11,5,,,
 630c8800-ed5d-4bb2-9e2a-e6cf13ca26ad,unemployed.la,premium,,,49,13,10,,,
 e3decdce-08e0-49ba-873c-089c98f262df,stan.la,resell,,,82,31,4,.LA Founders Premium Program,21/06/2016 01:51,21/06/2026 23:59
@@ -3506,7 +3509,7 @@ e7fe6d90-d0a3-4cd4-894f-c2f951a44dbc,answerable.la,premium,,,70,3,10,,,
 b7830808-d784-4116-ab81-fa09f01b34f0,ricepaper.la,premium,,,,3,10,,,
 fbde6208-6838-486b-beeb-93336b9b3fd3,toothwork.la,premium,,,,1,9,,,
 932a5653-536a-4338-983e-5ce8f8a93521,makegoodon.la,premium,,,74,1,12,,,
-36325e23-cad2-4395-8b5b-57a130619203,large.la,resell,,,82,24,5,LA Domain Names,04/07/2025 11:03,04/07/2026 23:59
+36325e23-cad2-4395-8b5b-57a130619203,large.la,resell,,,82,23,5,LA Domain Names,04/07/2025 11:03,04/07/2026 23:59
 c6c6cdb1-5450-4597-8c1e-f15bb0832f33,whitebalance.la,premium,,,,3,13,,,
 12b1700e-db68-41ca-8946-7696b1572a57,thirteenth.la,premium,,,76,3,10,,,
 2f0ac5db-b5f2-42c4-96c0-bb667843c460,inthegreen.la,premium,,,50,2,12,,,
@@ -3564,7 +3567,7 @@ f27407a7-eb90-4eda-8927-c9563a46731e,airpressure.la,premium,,,64,2,12,,,
 34ccd542-2d3b-4e7e-8c65-6e1622b34487,zestful.la,premium,,,64,5,7,,,
 91b35d54-c964-41f5-b8a5-284522e436a6,merrymen.la,premium,,,76,2,9,,,
 2594bd79-b29e-40c1-9e44-87b499a95b61,delicate.la,available,39,46.99,84,9,8,name.com,,
-0639844e-5d12-4821-be57-2c5ad21e0000,blurred.la,premium,,,62,10,7,,,
+0639844e-5d12-4821-be57-2c5ad21e0000,blurred.la,premium,,,62,9,7,,,
 31e238a3-0dd1-45f2-b33f-a5bd3fdaf69c,anarmandaleg.la,premium,,,64,1,16,,,
 3d146f34-750a-4ec8-bdac-fb642834c7e3,artesian.la,premium,,,50,6,8,,,
 308bd4bb-5f21-4e81-9027-2c9af8aeec28,camouflage.la,premium,,,90,10,10,,,
@@ -3610,14 +3613,14 @@ adf0c732-1660-4c8d-85d9-01d9a7fde4ab,ColonelSanders.la,premium,,,72,1,15,,,
 9e3399a0-1e01-4ceb-9fd0-3a945774382d,associate.la,premium,,,48,10,9,,,
 fafb8c3d-b6be-4ee0-a074-a0e1cc636457,keepon.la,premium,,,76,11,7,,,
 10919c03-7bc0-4753-ab2e-8f5544615ccf,algonquian.la,premium,,,70,1,10,,,
-3aa9aa52-2a87-4be6-aa8e-87cb1c6aab82,blank.la,resell,,,64,38,5,LA Domain Names,26/07/2023 10:13,26/07/2026 23:59
+3aa9aa52-2a87-4be6-aa8e-87cb1c6aab82,blank.la,resell,,,64,37,5,LA Domain Names,26/07/2023 10:13,26/07/2026 23:59
 558fa930-e601-4a39-868a-587e0f9b2dee,amyloidal.la,premium,,,46,1,9,,,
 425a8cf9-24c5-48ba-b2cd-6226ca2bbb95,receipt.la,premium,,,94,18,7,,,
 c60c2f5d-089f-4ea7-a257-f4768e4a52d3,hitup.la,premium,,,74,5,6,,,
 8a31e2be-b852-4f3b-a738-3509a67756b8,artistry.la,premium,,,78,63,8,,,
 6c66a087-744f-4d1d-a737-d3ff55e2ff8c,getwell.la,premium,,,78,11,8,,,
 6e275110-a5ec-4fea-831a-8c5d24740c9b,extra.la,resell,,,102,27,5,.LA Founders Premium Program,03/03/2016 01:38,03/03/2027 23:59
-1d897a42-a5ea-41a8-9d8f-c8c8478fd22d,conclusion.la,available,39,46.99,78,9,10,name.com,,
+1d897a42-a5ea-41a8-9d8f-c8c8478fd22d,conclusion.la,available,39,46.99,78,10,10,name.com,,
 ef1f8680-f78b-4fff-9129-7b86b0c8ad0a,desired.la,available,39,46.99,78,11,7,name.com,,
 d9589297-9c16-41c3-b2a8-7980bad86d6f,oneman.la,premium,,,,10,7,,,
 930f931f-5cbd-46df-9786-947cfd8d78c2,ourboy.la,premium,,,,1,7,,,
@@ -3712,7 +3715,7 @@ f31da088-0069-4e73-a70a-0cd01a9686e0,pinkelephant.la,premium,,,64,7,13,,,
 f84e6225-39b3-407f-ba2f-3411e317033d,Fla.la,resell,,,64,14,3,VIPDomains.LA  Founders Program,03/04/2024 13:14,03/04/2026 23:59
 9aa6a11c-0c3f-4bb0-bda0-979a107701ba,toothenamel.la,premium,,,,1,12,,,
 6ca4ea9b-d870-4615-a4a0-4ee07e1af919,rump.la,premium,,,36,8,4,,,
-9db4e38b-b83c-47d5-8828-a9d7c96c4572,beast.la,resell,,,64,30,5,VIPDomains.LA  Founders Program,24/02/2020 03:29,24/02/2027 23:59
+9db4e38b-b83c-47d5-8828-a9d7c96c4572,beast.la,resell,,,64,29,5,VIPDomains.LA  Founders Program,24/02/2020 03:29,24/02/2027 23:59
 409fc7e4-a9db-4a6f-8ec4-73972526f882,information.la,resell,,,84,23,11,.LA Founders Premium Program,12/03/2016 04:14,12/03/2026 23:59
 4fb4b645-b846-4618-b095-6b8be0f244dd,missile.la,premium,,,70,10,7,,,
 edfc5f94-fc14-4edf-8baf-24a2fba38764,granddaughterinlaw.la,premium,,,80,1,20,,,
@@ -3822,7 +3825,7 @@ c40eaa89-13d7-4446-9a60-c59e5e9b5fdc,carrier.la,resell,,,64,22,7,.LA Premium Nam
 9bd1b9dc-9918-4e4d-b0d6-17222fc9407b,taxation.la,premium,,,66,9,8,,,
 a96b97a0-8665-435c-afc1-ee94c2da6738,strawberry.la,resell,,,70,28,10,LA Domain Names,28/01/2018 08:10,28/01/2027 23:59
 476b8785-772f-49a2-83a0-8077e103ce1b,prolife.la,premium,,,66,17,8,,,
-5ddc796c-e574-4695-9ddb-7598dc24a8da,prank.la,premium,,,106,13,5,,,
+5ddc796c-e574-4695-9ddb-7598dc24a8da,prank.la,premium,,,106,14,5,,,
 4a840967-d6de-4ccf-8e3e-932feefb9027,spermcell.la,premium,,,62,2,10,,,
 f6638755-24f3-4e09-966a-da513aa45980,again.la,resell,,,76,20,5,LA Domain Names,04/10/2023 23:46,04/10/2026 23:59
 9d2cb306-6f4f-4d27-8d16-5e4c563d98a7,goodandproper.la,premium,,,66,3,15,,,
@@ -3870,7 +3873,7 @@ c698a461-7a1d-407c-ad97-682a1271c709,dispatching.la,premium,,,66,4,11,,,
 ff4d37e4-81cc-4389-bf34-2bad89e8de85,alkaline.la,available,39,46.99,88,11,8,name.com,,
 13075b75-0b17-4fdf-88c2-1f69f4687147,grandniece.la,premium,,,80,1,10,,,
 35b423b2-f504-4710-9b6e-7f656ab6e57d,setabout.la,premium,,,,1,9,,,
-fff292fc-4fde-432d-bff2-a878d7b4af24,forth.la,premium,,,72,17,5,,,
+fff292fc-4fde-432d-bff2-a878d7b4af24,forth.la,premium,,,72,16,5,,,
 20ef1572-afd1-4fba-8a49-286f9a30be41,deepsleep.la,premium,,,76,12,10,,,
 1d1514df-53cb-490b-b6e5-07148696d48c,centesimal.la,premium,,,58,1,10,,,
 3adff7b7-5a75-4d93-9076-34917bf55514,literal.la,premium,,,82,10,7,,,
@@ -3913,7 +3916,7 @@ f0505b01-f9ce-48ed-b74a-02d32a2d04bb,putup.la,available,39,46.99,78,3,6,name.com
 c32a571b-c6fd-424e-ae45-7d32edbf67c6,makethefirstmove.la,premium,,,74,2,19,,,
 a23996b4-e06c-4e82-933c-93e40a246b1a,achromic.la,premium,,,46,2,8,,,
 1a58a41c-8f43-40c5-a893-4102a68168e1,invincible.la,resell,,,93,15,10,LA Domain Names,17/05/2024 08:28,17/05/2026 23:59
-88e0a726-caf5-4027-8245-d198609cd08c,encouraged.la,premium,,,68,6,10,,,
+88e0a726-caf5-4027-8245-d198609cd08c,encouraged.la,premium,,,68,5,10,,,
 1ba4a0d8-2e08-4222-b589-7ca5a860578a,bemused.la,premium,,,48,4,7,,,
 5d699d51-47f0-404a-b342-10cd39257ec5,proved.la,premium,,,73,5,6,,,
 7c333ecc-0d9d-4716-9e8e-484225fccdbe,snake.la,resell,,,56,23,5,LA Domain Names,28/04/2024 02:53,28/04/2026 23:59
@@ -3962,6 +3965,7 @@ d73f1aa0-8e79-450e-a4f8-d595c741ec8c,turnout.la,premium,,,,6,8,,,
 97ec7185-b26e-49a9-823a-275fc164a7ce,giveout.la,premium,,,68,4,8,,,
 221ccc76-d883-4ea6-91f0-f4952de0a885,tailless.la,premium,,,51,2,8,,,
 38539639-3d48-4399-9015-78ae7c466afd,finalyearproject.la,premium,,,70,2,18,,,
+03b25070-1405-4d8d-b934-966180f7f150,boss.la,premium,5750,46.99,76,73,4,LA Domain Names,,08/04/2027 23:59
 c405e3e8-c3c2-4eba-80ac-5ad3506f8122,bellying.la,premium,,,52,,8,,,
 8e2224f8-b79e-40c9-bbb8-58c92f2dde70,His.la,resell,,,78,25,3,.LA Premium Names Program,20/04/2016 16:34,20/04/2026 23:59
 8f697294-2a38-476f-87b7-361fb80887e0,auricular.la,premium,,,78,2,9,,,
@@ -4010,7 +4014,7 @@ f75918ca-637f-4e40-9121-4d01da40f67e,aborticide.la,premium,,,50,1,10,,,
 c6ababae-a31a-4399-8a71-b6f9b4ceaa74,larger.la,premium,,,76,7,6,,,
 25f3fe94-e90a-4ef9-97be-e8e555335cdb,potterabout.la,premium,,,,1,12,,,
 2cbccbff-6cba-4a00-9426-015e2ba10c0c,costs.la,premium,,,70,7,5,,,
-1f3fc7de-3e50-4bb7-bcdf-6b10f2d23a36,dauntless.la,premium,,,66,12,9,,,
+1f3fc7de-3e50-4bb7-bcdf-6b10f2d23a36,dauntless.la,premium,,,66,13,9,,,
 e1a7f060-ee39-4aea-82bb-cb310c3c78e6,SouthCarolina.la,premium,,,,12,14,,,
 6122ebe2-28d9-4628-825a-c5ac1e1314f6,sparkly.la,premium,,,68,12,7,,,
 965feb90-854f-4c76-999e-4746cea10af4,democratic.la,resell,,,66,11,10,LA Domain Names,31/10/2019 01:11,31/10/2026 23:59
@@ -4050,7 +4054,7 @@ d0cc0154-b09c-46e3-8175-79c77fff7198,PlayStation.la,premium,,,80,10,11,,,
 a54cb69f-ba80-447a-9984-af592b2fafe5,discourse.la,available,39,46.99,88,16,9,name.com,,
 863afa07-1717-4af3-a492-6f5d30b522a9,spacious.la,premium,,,67,8,8,,,
 922fcfe8-3f2f-4a44-843d-fb649af37f97,motherfukka.la,premium,,,62,1,11,,,
-cd3337de-dc05-40ad-8fcc-5bd4b82b7a15,off.la,resell,,,128,28,3,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59
+cd3337de-dc05-40ad-8fcc-5bd4b82b7a15,off.la,resell,,,128,29,3,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59
 a225d97f-edcd-40c8-b1fa-e224ce41cca0,realised.la,available,41.98,,71,4,8,namecheap,,
 dba61214-a51c-4ced-93d3-7281787c62c3,bandaged.la,premium,,,44,1,8,,,
 f0b50f73-ee61-4e1a-a5c4-ecc45153c2b8,acropetal.la,premium,,,46,1,9,,,
@@ -4068,12 +4072,12 @@ fd7b5f8a-ede0-44c0-b564-d22ffb67f405,elaborated.la,available,39,46.99,64,1,10,na
 ee729634-f143-4ab8-a6ea-8d8c0209714b,aged.la,available,39,46.99,90,11,4,name.com,,
 2df93deb-0cc8-4664-979a-314666cd9950,MacBook.la,premium,,,90,16,7,,,
 d8907660-b99e-46f1-b8da-e3fc9499be61,puzzled.la,premium,,,64,7,7,,,
-f4bdf823-d34d-41a4-9417-3aed9744ffed,weakened.la,premium,,,52,2,8,,,
+f4bdf823-d34d-41a4-9417-3aed9744ffed,weakened.la,premium,,,52,1,8,,,
 b82b87c5-2a0b-4e99-bdff-3d91d94c4e3b,adept.la,available,39,46.99,92,26,5,name.com,,
 610c9451-43b0-464b-ad2d-352380de2c07,asyoulike.la,premium,,,92,2,11,,,
 63149dce-121a-40e9-8df9-078daa637326,byebye.la,premium,,,98,11,7,,,
 ed02482c-c655-4ca6-9a52-08964d69fe9a,abulic.la,premium,,,70,2,6,,,
-0846ec4a-e8cc-436b-be4a-06a6a7cbeda7,small.la,resell,,,76,31,5,VIPDomains.LA  Founders Program,22/10/2020 14:19,22/10/2026 23:59
+0846ec4a-e8cc-436b-be4a-06a6a7cbeda7,small.la,resell,,,76,32,5,VIPDomains.LA  Founders Program,22/10/2020 14:19,22/10/2026 23:59
 838b84bf-eead-4498-b085-e2c875452682,gaslighting.la,premium,,,64,4,12,,,
 476f9802-7367-476f-acfc-a73179c7975a,awed.la,premium,,,64,4,4,,,
 be0aaf67-2aaa-400f-9c3c-c26babc72d9b,aperiodic.la,premium,,,46,2,9,,,
@@ -4089,7 +4093,7 @@ d91c3c5d-d0c5-49eb-bbd5-9ebc6d918097,bigidea.la,premium,,,62,10,8,,,
 abcc6de2-6718-4bc7-9558-e980d0302ceb,nondrinker.la,premium,,,64,2,10,,,
 1c947796-e82d-4b15-9758-b6df5e2fe3cc,giveahoot.la,premium,,,70,2,11,,,
 ee413996-fbd6-43d6-b4cb-297a9d5e33a5,recovering.la,available,39,46.99,70,6,10,name.com,,
-6cc560ae-c7b2-49de-afbf-19f755c8a3f4,bound.la,premium,,,64,18,5,,,
+6cc560ae-c7b2-49de-afbf-19f755c8a3f4,bound.la,premium,,,64,19,5,,,
 8e3326c2-696b-4530-bc8e-8ed6dd6c7d73,jerky.la,premium,,,94,10,5,,,
 4ec9ba32-c7c3-4378-8af3-32861565bab6,jack.la,resell,,,86,43,4,.LA Founders Premium Program,04/03/2016 01:38,04/03/2027 23:59
 3ad9e51c-f6d2-4a25-8cb7-b202df64f418,vengeful.la,premium,,,51,3,8,,,
@@ -4280,7 +4284,7 @@ c74c358e-ecdc-482b-88d6-aad1f5266348,ring.la,resell,,,66,34,4,LA Domain Names,01
 a19edb97-548d-4811-887a-ca8cd8ab45fc,firetruck.la,premium,,,90,5,10,,,
 3ab81d80-966e-460a-b010-6671d780d37e,agitated.la,premium,,,58,2,8,,,
 2b13b624-1625-4c59-819f-3e2c21b101e9,happiness.la,resell,,,78,34,9,LA Domain Names,27/09/2016 09:20,27/09/2026 23:59
-87b3db3e-4969-4510-8731-963a8fae5782,hopeful.la,resell,,,84,13,7,.LA Premium Names Program,,19/02/2027 23:59
+87b3db3e-4969-4510-8731-963a8fae5782,hopeful.la,resell,,,84,14,7,.LA Premium Names Program,,19/02/2027 23:59
 74d2504e-e5be-4cd7-9185-2238a9fbe8d0,axonal.la,premium,,,56,4,6,,,
 dac08ba4-816b-4863-8cba-5ca940886d55,incompatible.la,premium,,,74,2,12,,,
 a7126370-628b-40a3-998d-374099ebab1f,channels.la,premium,,,68,14,8,,,
@@ -4295,11 +4299,11 @@ d6c3ad6d-9bd2-4e65-815b-95696a2becaa,equivalent.la,available,39,46.99,110,6,10,n
 ed2d44c1-fbe4-4c8b-92e2-bdf477316f5b,themasses.la,premium,,,,3,10,,,
 b4a726a5-e077-4ebb-bbc0-e329474cd2de,advancing.la,available,39,46.99,72,9,9,name.com,,
 d1576973-69f0-4706-bce6-8578fc2d1038,amicable.la,premium,,,70,6,8,,,
-b2e6c2af-25f6-4744-b60c-9897cacb6218,convenient.la,available,39,46.99,78,9,10,name.com,,
+b2e6c2af-25f6-4744-b60c-9897cacb6218,convenient.la,available,39,46.99,78,10,10,name.com,,
 cd79903b-8a08-4924-9119-8cc14901e32c,apostolic.la,premium,,,47,6,9,,,
 01c09562-e1b1-42a6-ab4f-3d165d590f23,negotiable.la,premium,,,62,3,10,,,
 efd45f4f-a35d-491d-b238-9315a7817e5b,howno.la,premium,,,54,1,6,,,
-d756437e-97e4-439c-b0f2-bf5a9931bf73,ruby.la,resell,,,86,35,4,LA Domain Names,12/01/2023 03:55,12/01/2027 23:59
+d756437e-97e4-439c-b0f2-bf5a9931bf73,ruby.la,resell,,,86,34,4,LA Domain Names,12/01/2023 03:55,12/01/2027 23:59
 88dcc82f-ee42-4f56-9b2e-8c6f6c670d45,dothedishes.la,premium,,,66,2,13,,,
 a62c3335-bcde-41c6-950e-61713de2837e,trillionaire.la,resell,,,80,12,12,VIPDomains.LA  Founders Program,17/06/2025 10:00,17/06/2026 23:59
 6340883f-2b3a-4c85-89b8-308001a9fb42,easymark.la,premium,,,64,3,9,,,
@@ -4334,7 +4338,7 @@ bfc8a1af-33ba-46ac-9832-a37c3d06b850,abovetheline.la,premium,,,54,4,14,,,
 58d82911-3d81-401a-a016-3e0b8fe5d1e8,generalquarters.la,premium,,,60,2,16,,,
 cd8af786-88a2-4d8c-9a9b-afc7795d6330,playabout.la,premium,,,,2,10,,,
 1f1a9b73-5803-4b1d-8383-c7496b838ccc,worse.la,premium,,,96,6,5,,,
-5fd210f2-6855-4133-9ad4-bf8b842b008f,futile.la,premium,,,60,6,6,,,
+5fd210f2-6855-4133-9ad4-bf8b842b008f,futile.la,premium,,,60,5,6,,,
 26911bca-a278-4e32-9043-f90d54f95ec6,amidships.la,premium,,,59,1,9,,,
 9d4930de-3cce-46c0-8099-8f75e13b94e2,abactinal.la,available,41.98,,50,1,9,namecheap,,
 90031c80-dba0-4154-b7f7-4bb277de3824,passinggrade.la,premium,,,68,1,13,,,
@@ -4357,7 +4361,7 @@ d91bd19b-18ce-43cf-9008-42215f0f3d10,behaviouralscience.la,premium,,,70,3,19,,,
 2bcda55c-a125-47e4-b3d8-534f71bfcca6,uncomplicated.la,premium,,,72,9,13,,,
 372c4b79-ef2d-4b5d-b766-781a1dafc557,lager.la,premium,,,88,11,5,,,
 984adfef-ada9-4662-b754-9f4d9fd708fc,envisioned.la,available,39,46.99,70,5,10,name.com,,
-0d49509a-5165-4b0f-bf0b-52ee1b611fed,allout.la,resell,39,46.99,84,9,7,.LA Premium Names Program,,19/02/2027 23:59
+0d49509a-5165-4b0f-bf0b-52ee1b611fed,allout.la,resell,39,46.99,84,8,7,.LA Premium Names Program,,19/02/2027 23:59
 931cc372-8536-40fc-9593-46493b6f0bed,muhfuggah.la,premium,,,62,1,9,,,
 6facb4b3-6db5-4cf7-987a-ac09f919657e,remedial.la,available,39,46.99,86,24,8,name.com,,
 bc15ab37-5dd7-412f-b266-2a5c0d9a5733,teetotalism.la,premium,,,,1,11,,,
@@ -4385,7 +4389,7 @@ b1c9e0e5-19c3-48c8-a282-af2c7dbadb94,apogean.la,premium,,,50,3,7,,,
 03b5cdd2-4022-473b-84fc-d8c647bb8ab3,thinkabout.la,premium,,,,7,11,,,
 cfb40278-6fb3-4dd8-8dfd-204b3754c991,adventive.la,premium,,,68,3,9,,,
 95ddb320-6d0a-46aa-b876-19b4f8600e46,incline.la,premium,,,88,10,7,,,
-b77f7c5b-8636-4813-a7be-aa553054d759,subsidiary.la,premium,,,90,3,10,,,
+b77f7c5b-8636-4813-a7be-aa553054d759,subsidiary.la,premium,,,90,4,10,,,
 7dd6f32d-78df-45ca-82a3-da616032c60c,fiftieth.la,premium,,,68,1,8,,,
 6d512794-8e87-4fa9-8afb-920679553670,chance.la,resell,,,76,29,6,LA Domain Names,29/01/2018 08:01,29/01/2027 23:59
 c7bda4cb-3051-4885-bfce-ce2c470550d0,overall.la,premium,,,96,11,7,,,
@@ -4580,7 +4584,7 @@ ccfa147e-6e47-4674-aa0e-85a4fb8dd74c,altogether.la,premium,,,76,6,10,,,
 3c787e36-6235-4c2b-ad29-748f498f3547,briefs.la,premium,,,74,10,6,,,
 cb1af84d-d869-4f4e-861c-bcd4e8f5b0bb,affecting.la,premium,,,62,1,9,,,
 f5b88b17-68fd-4f11-9301-80ea65dd3cd4,grandkid.la,premium,,,80,1,8,,,
-b21eda55-caea-4757-a091-63c921bbf16c,armed.la,premium,,,70,11,5,,,
+b21eda55-caea-4757-a091-63c921bbf16c,armed.la,premium,,,70,10,5,,,
 732b0a34-6189-4fcd-b8d7-ccba7381d914,mainman.la,premium,,,72,3,8,,,
 f73f978d-5b1c-4bba-9554-9b5410964029,butif.la,premium,,,44,1,6,,,
 9b234887-ef5a-4b61-85e1-bff33397804a,humourous.la,premium,,,70,1,9,,,
@@ -4689,7 +4693,7 @@ f74e2eb9-b57c-4639-a69f-4e4e19cc5615,fulgid.la,premium,,,54,2,6,,,
 7fb8cfe1-a045-4827-ac0e-763abbb6b0fb,amygdaloid.la,premium,,,64,1,10,,,
 7a8136d7-634a-4240-a468-ccf558a6a213,fake.la,resell,,,84,32,4,LA Domain Names,07/01/2018 08:09,07/01/2026 23:59
 2ba15a93-dc37-41da-9288-594b8cd8d595,tenth.la,premium,39,46.99,116,8,5,name.com,,
-efa2b388-64cb-4048-b2e2-f39febd0178f,comical.la,available,41.98,,75,6,7,namecheap,,
+efa2b388-64cb-4048-b2e2-f39febd0178f,comical.la,available,41.98,,75,5,7,namecheap,,
 2223f2ff-5537-45e7-a312-9d13b16738e6,preview.la,resell,,,98,28,7,TLD Registrar Solutions Ltd,07/07/2015 00:54,07/07/2026 23:59
 563d77a3-90b9-4532-bacd-d9919e696eb1,listen.la,resell,,,104,29,6,LA Domain Names,06/08/2019 11:47,06/08/2026 23:59
 c78c8fed-b326-4b35-ad4c-81e92665c98f,archosaur.la,premium,,,50,2,9,,,
@@ -4720,7 +4724,7 @@ bb10f873-786b-402d-981e-8489035672c2,attend.la,premium,,,80,17,6,,,
 fba5c3a6-1d22-471d-8be3-149e689cfe62,warishell.la,premium,,,,1,11,,,
 4a9ee548-a217-4371-b461-98eb03cbe26c,watchful.la,premium,,,64,6,8,,,
 6c00b149-8962-4b82-9f06-32e456bee6ad,beaded.la,premium,,,50,3,6,,,
-9482bd65-a05a-46a0-b872-ca468b227fb6,ecological.la,premium,,,74,12,10,,,
+9482bd65-a05a-46a0-b872-ca468b227fb6,ecological.la,premium,,,74,11,10,,,
 71ce3349-16c2-4f9e-b9d3-7d11970c4b91,spring.la,resell,,,66,35,6,.LA Founders Premium Program,09/02/2016 01:24,09/02/2027 23:59
 55662fa4-95a0-4d3c-a665-302a23c6cec0,perceived.la,premium,,,69,4,9,,,
 2a50443e-6ce2-4390-a06a-7daf9dd57167,respondent.la,premium,,,88,4,10,,,
@@ -4764,7 +4768,7 @@ e1516ecb-42f7-4130-9735-10b677b0c7b4,nowfor.la,premium,,,,2,7,,,
 5ab3808e-6296-42c9-b3fc-00a8cd116940,YubaCity.la,premium,,,,2,9,,,
 a6899e55-0955-45aa-a969-97be23d68637,anything.la,resell,,,76,32,8,VIPDomains.LA  Founders Program,15/07/2015 18:02,15/07/2026 23:59
 818adcdc-2206-474b-b3a2-bfae2fe39ba4,befouled.la,premium,,,34,1,8,,,
-558e8f02-923c-4a56-8d58-e6db832e0bc5,auburn.la,premium,,,64,16,6,,,
+558e8f02-923c-4a56-8d58-e6db832e0bc5,auburn.la,premium,,,64,15,6,,,
 c111a818-e19a-4a3b-957f-bb2bff1e93a3,moldy.la,premium,,,52,10,5,,,
 e52bf58f-4c51-47e7-a1e6-4057f4dec5d9,quizbowl.la,premium,,,,3,9,,,
 8065d734-1ea4-4558-bad4-1ef83c85c920,condolences.la,premium,,,76,4,11,,,
@@ -4850,7 +4854,7 @@ ffdf92c8-92d2-4708-8a66-34c03d33b01f,deepest.la,premium,,,56,5,7,,,
 9defd51d-b7d5-4094-b251-c7ad9e295598,apivorous.la,premium,,,41,1,9,,,
 c3b033d1-3820-4206-8a40-f9ba01eedd78,duke.la,resell,,,88,39,4,.LA Founders Premium Program,29/02/2020 19:44,28/02/2027 23:59
 e4ebbc70-59f5-43ac-b08e-58bd80004cbc,toddler.la,premium,,,78,11,7,,,
-341d9338-d9c2-45c5-b9b4-f22ba16b090b,shot.la,resell,,,116,23,4,LA Domain Names,15/10/2021 00:52,15/10/2026 23:59
+341d9338-d9c2-45c5-b9b4-f22ba16b090b,shot.la,resell,,,116,24,4,LA Domain Names,15/10/2021 00:52,15/10/2026 23:59
 64e6b231-3115-4e9a-8ab3-e2c8045ded8a,needy.la,available,39,46.99,58,10,5,name.com,,
 46789313-22a7-4598-a0fa-29aa85ed8ed7,asterismal.la,premium,,,46,1,10,,,
 864f5ae1-664c-4b65-9795-386aa8534a8f,ship.la,resell,,,90,38,4,LA Domain Names,14/02/2025 10:07,14/02/2027 23:59
@@ -4902,7 +4906,7 @@ a23c94dd-ceea-41ae-90ea-28907cb82b57,xciii.la,premium,,,52,1,5,,,
 1bd5cbfa-5aae-4fdc-b1c2-ca642d9af481,allometric.la,premium,,,54,1,10,,,
 592bd1e6-0e0d-47a1-a478-f4098ab434a0,gentle.la,resell,,,62,17,6,LA Domain Names,18/10/2023 10:12,18/10/2025 23:59
 502fe19c-541b-48dd-b996-7de00d84d0ec,standup.la,resell,,,,17,8,LA Domain Names,10/11/2016 15:45,10/11/2026 23:59
-bd1df986-ad0f-4bd8-ad18-469db628e359,still.la,available,39,46.99,76,33,5,name.com,,
+bd1df986-ad0f-4bd8-ad18-469db628e359,still.la,available,39,46.99,76,34,5,name.com,,
 47859a67-722a-42d8-9dad-e67c0efd4e30,extend.la,resell,,,84,19,6,VIPDomains.LA  Founders Program,28/05/2024 16:52,28/05/2026 23:59
 ac149342-7220-42f6-af25-08e0cee5ad81,lxxxv.la,premium,,,52,2,5,,,
 7572758f-d89b-481b-8d9d-04a3f0f8b28b,ultimately.la,premium,,,66,5,10,,,
@@ -4917,7 +4921,7 @@ f391eed8-1496-4da3-a62a-2bef44bed678,dignitary.la,premium,,,90,2,9,,,
 6ff40757-51bb-44a3-aa02-f8968a1464a3,mincepie.la,premium,,,76,1,9,,,
 4f57584b-a115-4a61-a3bd-4360ef6f35f7,Imustsay.la,premium,,,62,1,10,,,
 d3e17f9b-3841-4b32-8cdb-b5bb9adf812b,anarchical.la,premium,,,40,1,10,,,
-89430dd1-c601-412b-9fa4-1607c79b06dd,defend.la,resell,,,76,19,6,VIPDomains.LA  Founders Program,13/12/2015 01:47,13/12/2026 23:59
+89430dd1-c601-412b-9fa4-1607c79b06dd,defend.la,resell,,,76,20,6,VIPDomains.LA  Founders Program,13/12/2015 01:47,13/12/2026 23:59
 675b6074-2169-4de3-8e21-30d31ea1d5a1,birth.la,resell,,,114,18,5,.LA Premium Names Program,18/12/2023 19:19,18/12/2026 23:59
 069cb2cc-e0cd-4aad-bea5-bc30dc689c1d,callfor.la,premium,,,72,3,8,,,
 61b7c75c-d738-4e17-8209-15484122ac1c,wheretheheck.la,premium,,,,1,14,,,
@@ -5025,7 +5029,7 @@ a3d2d1f1-7236-4e7a-bb20-22332c112ec3,StClair.la,premium,,,64,7,9,,,
 a609eebf-712d-49cf-aa26-c3f43286e1c7,normal.la,resell,,,90,82,6,.LA Founders Premium Program,29/02/2020 18:23,28/02/2027 23:59
 924915ec-cb27-439c-91db-8a8a2b0a948a,dyspeptic.la,premium,,,54,1,9,,,
 ac62f657-6bf2-40b0-b2c6-6d67e55d040f,Nicki.la,premium,,,66,8,5,,,
-d60eab2c-f736-4bcb-bb3d-c2af7c9b5e27,prejudice.la,premium,,,86,3,9,,,
+d60eab2c-f736-4bcb-bb3d-c2af7c9b5e27,prejudice.la,premium,,,86,4,9,,,
 830fcbda-b3ad-4c1c-9905-1087a1219b36,askew.la,premium,,,44,8,5,,,
 919cc7e3-39aa-4da1-8c22-d55f51167b81,spend.la,resell,,,92,16,5,LA Domain Names,11/08/2014 11:36,11/08/2027 23:59
 2fad2bad-5ac3-44c6-b1e2-93508cde1f9c,belt.la,premium,,,80,16,4,,,
@@ -5064,7 +5068,7 @@ d470fdba-ceac-4031-966c-33dd511db131,nail.la,resell,,,62,19,4,.LA Founders Premi
 6f7d842f-522b-4a6e-a61d-df360b911ad4,pretence.la,premium,,,64,1,8,,,
 0e52c912-ab7f-4eef-9e52-29a29ff8873a,retracted.la,premium,,,57,3,9,,,
 39b966b8-56d7-45ed-ac84-eaf089619050,absorptive.la,premium,,,78,1,10,,,
-03143159-1bc7-42dc-adbd-3acde4b319a5,alive.la,resell,,,84,30,5,.LA Founders Premium Program,29/02/2020 18:21,28/02/2027 23:59
+03143159-1bc7-42dc-adbd-3acde4b319a5,alive.la,resell,,,84,31,5,.LA Founders Premium Program,29/02/2020 18:21,28/02/2027 23:59
 031d87d6-6f40-410f-9326-5edf4f4e3a25,pace.la,resell,,,68,34,4,.LA Premium Names Program,06/03/2025 20:04,06/03/2027 23:59
 e502f388-9d05-4be3-9265-344a7c329edc,whitearea.la,premium,,,,1,10,,,
 1fbb64bd-108c-4441-ae44-bc7e8f290f86,fallunder.la,premium,,,68,1,10,,,
@@ -5072,9 +5076,9 @@ e502f388-9d05-4be3-9265-344a7c329edc,whitearea.la,premium,,,,1,10,,,
 67c2c50f-7ed5-48cc-ad46-57895726644b,confirming.la,available,39,46.99,73,5,10,name.com,,
 7279adbf-3502-4565-bdda-9b4c8f011a26,treehugger.la,premium,,,,5,11,,,
 99009564-7d73-4311-b32c-44ed62c29ec9,avionic.la,premium,,,58,4,7,,,
-b88d5f50-7913-4e60-8041-eb6737b4cee7,textbook.la,available,39,46.99,84,13,8,name.com,,
+b88d5f50-7913-4e60-8041-eb6737b4cee7,textbook.la,available,39,46.99,84,14,8,name.com,,
 14875b00-4e6f-41bb-9aa0-c8bebc556613,potbellied.la,premium,,,56,1,10,,,
-c44760d6-7db1-4b63-90c9-4e43a7102f33,champion.la,resell,,,72,33,8,LA Domain Names,21/05/2023 08:14,21/05/2026 23:59
+c44760d6-7db1-4b63-90c9-4e43a7102f33,champion.la,resell,,,72,32,8,LA Domain Names,21/05/2023 08:14,21/05/2026 23:59
 a779ef82-0ee1-456f-a77c-7fd4d024ab16,bareassed.la,premium,,,42,1,10,,,
 f427829d-f4d9-4d1a-8ec3-00e6268266d2,admonitory.la,premium,,,54,1,10,,,
 92a2fcf4-871e-4c44-8c3b-f54dbad0e92e,obtain.la,premium,,,84,9,6,,,
@@ -5115,7 +5119,7 @@ d85e1e68-3aa7-4c34-92a5-694a4b55643b,concealed.la,available,39,46.99,59,8,9,name
 8adba132-e868-450e-84a8-4a52558e6279,mahfucka.la,premium,,,62,1,8,,,
 14073884-f35a-4b7b-9957-26c94fa82a45,fucksome.la,premium,,,58,1,8,,,
 31820ee4-9381-43b2-9f44-033867c3f895,shorts.la,resell,,,74,21,6,LA Domain Names,19/10/2017 08:17,19/10/2026 23:59
-0cfc0f6c-902d-47b7-9bb7-52dc4b69703d,courageous.la,resell,,,72,12,10,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2026 23:59
+0cfc0f6c-902d-47b7-9bb7-52dc4b69703d,courageous.la,resell,,,72,11,10,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2026 23:59
 f4e2cc04-6381-4996-bde7-00d1c168e5ff,avoidable.la,premium,,,72,1,9,,,
 be825952-0360-434c-a198-b1e03dcd225d,letterart.la,premium,,,70,2,10,,,
 9358cddb-268d-4b7a-9319-7cde31ec658a,response.la,premium,,,70,23,8,,,
@@ -5158,7 +5162,7 @@ e49d0618-104c-4424-a32e-5ca5745d1d6a,punch.la,resell,,,87,26,5,LA Domain Names,2
 bd79ff34-991c-4810-a65c-526086c4ac58,fruitjuice.la,premium,,,74,3,11,,,
 20ae1e5c-ca38-4ce1-97cb-03fc85033cad,toiletpaper.la,premium,,,88,7,12,,,
 0fbb950a-d39d-4266-bf3c-758f448b5487,egg.la,resell,,,74,31,3,.LA Premium Names Program,16/09/2015 00:24,16/09/2026 23:59
-a5e3f1d6-8059-4ab4-9384-c87701238f3e,teasing.la,premium,,,72,5,7,,,
+a5e3f1d6-8059-4ab4-9384-c87701238f3e,teasing.la,premium,,,72,4,7,,,
 032b12b8-6252-45e8-bbc2-e15a0f3f3308,barky.la,premium,,,48,5,5,,,
 0ae8c321-60d0-4da5-9c41-5051f7f0ebd9,teastrainer.la,premium,,,73,1,12,,,
 2f8187be-b61a-4a71-bb04-bd7357523185,whitehot.la,premium,,,68,3,9,,,
@@ -5192,10 +5196,10 @@ efd18bf4-86b3-4098-986c-88a3e7db6e13,eyeofthebeholder.la,premium,,,70,3,19,,,
 4e1aa1b5-6cd1-41fc-b660-f0dffc061c85,approval.la,premium,,,64,8,8,,,
 6bb8b544-c0e7-4832-bb18-4ee81fa5e0a9,won.la,resell,,,108,21,3,.LA Premium Names Program,15/11/2013 00:18,15/11/2026 23:59
 3bb7c354-cef7-4776-8522-b9bcc5d7957b,stroke.la,resell,,,92,14,6,LA Domain Names,10/01/2018 02:11,10/01/2027 23:59
-08348387-c4e7-4653-8494-29078fee8a74,prenuptial.la,premium,,,88,3,10,,,
+08348387-c4e7-4653-8494-29078fee8a74,prenuptial.la,premium,,,88,2,10,,,
 041f478f-4f17-4f10-b5d9-8b8f1c435413,snapping.la,premium,,,66,2,8,,,
 c53c1724-166f-4fb0-8b7c-16b6c1300938,realized.la,available,41.98,,71,12,8,namecheap,,
-c2918c17-ca1b-423a-bc56-64d57aa70416,auroral.la,premium,,,70,5,7,,,
+c2918c17-ca1b-423a-bc56-64d57aa70416,auroral.la,premium,,,70,6,7,,,
 fa6ba95d-667d-4fac-a2e1-6e3b26c8e787,anurous.la,premium,,,50,1,7,,,
 4aecccf4-5ad9-4a50-ae24-833966ae0684,airtight.la,premium,,,64,8,8,,,
 12714896-f038-47e1-9d45-10286254db88,notfor.la,premium,,,45,5,7,,,
@@ -5339,7 +5343,7 @@ aabde236-f123-4a57-bdc6-5feeb6be5266,atstake.la,premium,,,58,3,8,,,
 e6989461-b443-4723-9df9-7a5621064d65,shh.la,resell,,,68,19,3,VIPDomains.LA  Founders Program,02/12/2022 12:35,02/12/2026 23:59
 3d1cb193-dd8c-49d1-8482-52dd313194a6,intelligent.la,resell,,,96,33,11,LA Domain Names,09/11/2016 08:30,09/11/2026 23:59
 b69000b4-ae46-4969-aeb3-71876d1f4999,antennary.la,premium,,,56,1,9,,,
-93d3ea18-6631-447f-89ee-1bd85488dc63,hunkydory.la,available,41.98,,70,6,10,namecheap,,
+93d3ea18-6631-447f-89ee-1bd85488dc63,hunkydory.la,available,41.98,,70,7,10,namecheap,,
 0c7c0ace-8cb9-4c2e-a189-7d860646822d,workfare.la,premium,,,,2,8,,,
 1cabe6f0-bf74-4516-bb1a-95b1f3e1659a,cheesefood.la,premium,,,64,1,11,,,
 c3d2cec3-ae36-4e5f-979b-58277b674e03,cement.la,resell,,,68,11,6,LA Domain Names,20/02/2007 12:25,24/06/2027 23:59
@@ -5549,9 +5553,9 @@ eadda400-c2e3-41df-95d5-8e1ef8881123,beheaded.la,premium,,,34,2,8,,,
 d344f29a-73e3-4bde-8c6c-9695aa286795,linkup.la,premium,,,52,19,7,,,
 b7f598ca-52ac-41e3-96e8-81cc3841b8e9,blackpanther.la,premium,,,84,9,13,,,
 bdddbd8c-1721-4699-b292-32796b965a56,province.la,premium,,,58,10,8,,,
-c10c7458-3216-42fd-9fb4-06977b26f182,oldtimer.la,premium,,,70,14,9,,,
+c10c7458-3216-42fd-9fb4-06977b26f182,oldtimer.la,premium,,,70,15,9,,,
 2546ce31-1be3-4fcb-a89f-a68348d73f15,aperient.la,premium,,,64,1,8,,,
-0c620ec3-38c1-43df-8d55-018e8662d3ca,back.la,resell,,,76,24,4,LA Domain Names,11/03/2011 19:34,11/03/2027 23:59
+0c620ec3-38c1-43df-8d55-018e8662d3ca,back.la,resell,,,76,25,4,LA Domain Names,11/03/2011 19:34,11/03/2027 23:59
 da105fcc-a6b6-40ef-82af-9a0b768628ac,interesting.la,resell,,,78,18,11,.LA Founders Premium Program,29/02/2020 18:20,28/02/2027 23:59
 ee95c28f-bc22-46bb-a707-c43e55ff47b5,terminating.la,premium,,,,1,11,,,
 5a50d8a0-784d-4c60-a508-4522e8059dfc,except.la,premium,,,88,6,6,,,
@@ -5779,7 +5783,7 @@ b5f49b96-deed-4065-8159-19449f452043,asteroidal.la,premium,,,48,1,10,,,
 5eb071b5-d010-4166-bc25-560bcc8664e2,cafeterrace.la,premium,,,76,1,12,,,
 b6bae440-ae31-4665-8865-69b137b38861,spiceup.la,premium,,,72,6,8,,,
 5bca0e20-f6a3-4a48-b1b8-5d414b8e8cbb,regular.la,resell,,,106,18,7,.LA Founders Premium Program,24/09/2025 12:42,24/09/2026 23:59
-d5a20ef2-e735-45f7-b44c-db6105d168fb,gas.la,resell,,,72,32,3,LA Domain Names,29/11/2023 10:05,29/11/2026 23:59
+d5a20ef2-e735-45f7-b44c-db6105d168fb,gas.la,resell,,,72,31,3,LA Domain Names,29/11/2023 10:05,29/11/2026 23:59
 68564581-5245-41e1-8036-21a7dfed6b10,yoursever.la,premium,,,,1,10,,,
 281e2f75-fb10-42e6-9548-f5e22eab1889,noway.la,premium,,,58,12,6,,,
 5b5c22f9-edf3-4589-8de5-acf7fd0ad05f,ascitic.la,premium,,,54,1,7,,,
@@ -5968,7 +5972,7 @@ fa4c174e-1c9b-4e67-a67f-db2494e783ba,tornadowarning.la,premium,,,62,2,15,,,
 ebcb4080-9447-43d3-a39d-d545be74476a,annoying.la,premium,,,72,9,8,,,
 8363da68-25aa-4edd-8ae5-91d84335bde9,terminal.la,resell,,,104,36,8,VIPDomains.LA  Founders Program,11/02/2020 01:53,11/02/2027 23:59
 7db2d846-4c5d-4a89-a906-ba131290e2e3,septet.la,premium,,,53,2,6,,,
-def7a7f3-d7de-44aa-aced-edfdad70c41b,blurry.la,premium,,,62,9,6,,,
+def7a7f3-d7de-44aa-aced-edfdad70c41b,blurry.la,premium,,,62,10,6,,,
 9f2a353d-72cc-4d01-8b86-36ca839f1f45,domainname.la,resell,,,74,31,11,.LA Premium Names Program,06/08/2015 00:26,06/08/2026 23:59
 a0ae8550-3516-4f36-be56-90aa710f6c4f,ninth.la,premium,,,100,10,5,,,
 1f121541-10b2-4b86-a0af-53e6ed5127d6,despise.la,premium,,,66,3,7,,,
@@ -6001,7 +6005,7 @@ d06aa944-bec9-4131-90bf-86d254fb691e,ADS.la,resell,,,70,40,3,TLD Registrar Solut
 7e640e81-880c-41f2-b323-ef5fae1990db,astronomic.la,premium,,,50,4,10,,,
 844272f7-8c7d-4f9d-918b-b25a2823acf4,isolated.la,premium,,,56,8,8,,,
 44105c7c-4721-41aa-a92b-0d1d5342c4c2,surrounding.la,premium,,,74,4,11,,,
-af37ae10-8c66-4d07-867b-e58152c5b16a,adoring.la,available,41.98,,90,5,7,namecheap,,
+af37ae10-8c66-4d07-867b-e58152c5b16a,adoring.la,available,41.98,,90,4,7,namecheap,,
 5213ef85-0469-4a3e-b435-0acaf26f4c17,chiefjustice.la,premium,,,68,1,13,,,
 631aadef-59c8-446a-b5e6-de4693c04932,spurious.la,premium,,,52,3,8,,,
 aa6e7bc7-2be2-4458-a5fd-1ccfa06174a6,Marco.la,resell,,,76,34,5,.LA Founders Premium Program,25/05/2016 08:22,25/05/2026 23:59
@@ -6071,7 +6075,7 @@ a3884ab8-0b6c-49ab-b9fc-63041c8c8ed4,WhiteCloud.la,premium,,,,11,11,,,
 0040dcb1-a873-4d04-86d1-07f1409ecbf1,turned.la,premium,,,66,5,6,,,
 4ddde8b3-6213-4baf-841e-f5c310613773,mechanic.la,resell,,,62,18,8,TLD Registrar Solutions Ltd,14/07/2015 00:17,14/07/2026 23:59
 767432c8-6246-4d84-ae27-9602cc157776,Californian.la,premium,,,88,5,11,,,
-99e3f6c8-8496-430a-9c02-ed0fd3c3ccee,colored.la,premium,,,72,9,7,,,
+99e3f6c8-8496-430a-9c02-ed0fd3c3ccee,colored.la,premium,,,72,8,7,,,
 938f99b5-4c97-4caa-91c9-172abf91953f,moderately.la,premium,,,56,4,10,,,
 541ec4ec-f729-4ed2-94c0-aeb00e9b9127,bestwishes.la,premium,,,84,6,11,,,
 a5edfd78-3590-42f1-bee8-422fe342bf77,gotobat.la,premium,,,66,1,9,,,
@@ -6215,7 +6219,7 @@ f92cdff2-9ebc-4c92-afab-c0cad7b07474,richmond.la,premium,,,66,26,8,,,
 f0213c56-7bc8-4be5-bc99-9e474b98c2da,worm.la,premium,,,60,21,4,,,
 5d5914a8-47a1-4270-9e5e-b1b5f6c3d796,wakingup.la,premium,,,75,4,9,,,
 435031ed-0fd4-4e41-884e-d2d95ce4cb52,adust.la,premium,,,54,2,5,,,
-2e219f27-5b11-4893-a624-5795251b5877,commanding.la,available,41.98,,87,4,10,namecheap,,
+2e219f27-5b11-4893-a624-5795251b5877,commanding.la,available,41.98,,87,3,10,namecheap,,
 85d12718-1b65-4339-951e-f8636b26a8cd,further.la,available,39,46.99,100,13,7,name.com,,
 48610e50-1ba6-4879-a386-91dfd6b19802,quiteafew.la,premium,,,56,1,11,,,
 30968807-698b-4c29-9d5d-b593ee058af5,assertive.la,premium,,,44,6,9,,,
@@ -6269,13 +6273,13 @@ f782fcf6-e587-4a6e-8bde-226429539bd1,toadfrog.la,premium,,,47,1,9,,,
 6cd71326-aaab-4cf7-b4e9-2748ccebed21,restinpeace.la,premium,,,,5,13,,,
 831d90ca-a8fe-4d19-9d47-a45da9e1ed2d,peel.la,resell,,,64,17,4,LA Domain Names,25/04/2018 23:06,25/04/2026 23:59
 729e5164-7231-4ef7-89dc-4a8e4d2de4ee,careless.la,available,39,46.99,64,8,8,name.com,,
-4b4f9ec6-617c-4c00-bc2d-e03f32826ccd,plain.la,resell,,,62,25,5,.LA Premium Names Program,16/10/2015 09:18,16/10/2026 23:59
+4b4f9ec6-617c-4c00-bc2d-e03f32826ccd,plain.la,resell,,,62,26,5,.LA Premium Names Program,16/10/2015 09:18,16/10/2026 23:59
 b9cdd063-9871-4e7a-a960-054f0a441ce0,unadvisable.la,premium,,,52,1,11,,,
 8d01de63-ab81-49fc-83ea-89cf8afb8f25,cordlesstelephone.la,premium,,,76,1,18,,,
 1952b035-bdbc-4a24-90dd-898429fd8e31,china.la,resell,,,84,98,5,LA Domain Names,11/02/2020 11:45,11/02/2027 23:59
 a6b974d2-a9c3-4f4f-bc47-229afba16c68,ever.la,resell,,,96,40,4,LA Domain Names,13/07/2023 01:09,13/07/2026 23:59
 d2166d07-59e9-4d47-abe1-4caded39644b,entrenched.la,available,41.98,,56,2,10,namecheap,,
-d8e3044a-0370-4488-bce4-6b68dafd0caa,behind.la,premium,,,102,12,6,,,
+d8e3044a-0370-4488-bce4-6b68dafd0caa,behind.la,premium,,,102,13,6,,,
 775dfbb5-d2ce-4ef1-9150-d21d384234b1,stood.la,premium,,,,3,5,,,
 8c82102d-c770-49ad-ac78-212bbfd47624,twothumbsup.la,premium,,,,2,13,,,
 856a7f2d-a647-4ea7-ad07-f97b1da733e6,specification.la,premium,,,,6,13,,,
@@ -6324,7 +6328,7 @@ dd38aaf0-ba38-40e7-8a76-b307b2717f11,cautionary.la,premium,,,60,2,10,,,
 6e45d3c4-0e43-46ab-ad64-47ad2b2f9882,measurement.la,premium,,,64,12,11,,,
 c86c6632-669f-496a-aa80-63a8fbfd98ad,understand.la,premium,,,86,16,10,,,
 93ea6239-f705-42af-b661-384c5a676a44,childendangerment.la,premium,,,52,1,18,,,
-497c53df-a3b9-4172-b8e2-bac397f61ce1,tender.la,resell,,,120,26,6,VIPDomains.LA  Founders Program,22/10/2020 14:20,22/10/2026 23:59
+497c53df-a3b9-4172-b8e2-bac397f61ce1,tender.la,resell,,,120,25,6,VIPDomains.LA  Founders Program,22/10/2020 14:20,22/10/2026 23:59
 c78a0316-0359-4969-8ae5-ac4775b1a024,nationwide.la,available,39,46.99,76,66,10,name.com,,
 c2fd53aa-68c4-459d-b68d-8563c4727637,theboys.la,premium,,,,9,8,,,
 733181b0-1876-4e74-9d96-6c0fcfd8eb00,absolutely.la,premium,,,96,12,10,,,
@@ -6401,7 +6405,7 @@ e1b5bffc-543a-4e46-ab55-7d3227fd6b8a,advanced.la,resell,,,74,28,8,LA Domain Name
 21f35a14-0b05-402d-8f0d-1300acf9ce60,subjects.la,premium,,,,3,8,,,
 4f0bc400-d4ee-48e8-a83e-6a39df14f6b7,alley.la,premium,,,58,13,5,,,
 ac0e5964-e7b8-4002-bea5-6f41029e6a13,reported.la,premium,,,64,5,8,,,
-e0616650-dc53-4972-ae00-cdfc6409cd49,esthetic.la,available,39,46.99,70,8,8,name.com,,
+e0616650-dc53-4972-ae00-cdfc6409cd49,esthetic.la,available,39,46.99,70,9,8,name.com,,
 8a73b319-eb91-4dee-a2fb-1115093300df,bloodsample.la,premium,,,70,1,12,,,
 9db1b91b-9003-4197-861d-bf0cd687cf11,overdue.la,premium,,,62,9,7,,,
 6323e479-112b-4aa1-9ffd-7f4407ff221d,filming.la,resell,,,74,8,7,LA Domain Names,26/07/2023 01:21,26/07/2026 23:59
@@ -6422,7 +6426,7 @@ e6f3982f-52ef-4b3b-bba6-44de517fdd8e,ricefield.la,premium,,,,4,10,,,
 9c49c175-046d-4801-b86d-c0b82d51eecc,albinal.la,premium,,,56,1,7,,,
 1e383091-f93e-4cf0-85b6-1b7d3821323e,soundbar.la,premium,,,74,5,8,,,
 38090e71-703e-4628-b8d5-e88a9cd40e72,thickandthin.la,premium,,,,2,14,,,
-aa031fcd-e41f-4040-8ff0-03478da171bc,infront.la,available,39,46.99,60,10,8,name.com,,
+aa031fcd-e41f-4040-8ff0-03478da171bc,infront.la,available,39,46.99,60,9,8,name.com,,
 e57b1db4-c80a-4bcb-8ea6-d472f2f2fe2a,acetonic.la,premium,,,46,1,8,,,
 972d810f-a74b-440d-b83e-d49df66ab848,archeozoic.la,premium,,,56,1,10,,,
 6c895ac9-bc8b-4641-8257-0a11f42cccde,adrenal.la,premium,,,78,4,7,,,
@@ -6457,7 +6461,7 @@ ca9909f4-97e3-4a9d-ad93-8ce316bb01b7,flickering.la,premium,,,80,2,10,,,
 12bba87c-bf61-4a80-8991-281a1968fa27,academic.la,available,39,46.99,96,21,8,name.com,,
 337d7510-218f-47bf-a4b8-06a0058e8894,ablaze.la,premium,,,72,6,6,,,
 c54f9d47-4373-45f5-974a-de2cfb8dc4be,dieselengine.la,premium,,,70,3,13,,,
-1bbe1de4-c182-4a27-bb94-9aecea527410,answering.la,premium,,,74,6,9,,,
+1bbe1de4-c182-4a27-bb94-9aecea527410,answering.la,premium,,,74,7,9,,,
 204d1a80-8be9-4940-b7e8-0c6ffab93a3a,riled.la,premium,,,44,2,5,,,
 8b00dc58-2503-494a-b030-40ea515d440c,abortive.la,available,34.98,,90,1,8,namecheap,,
 f612e38d-73a7-49e7-998d-02f5cd3dc89f,satisfy.la,premium,,,82,9,7,,,
@@ -6469,7 +6473,7 @@ e5779c33-f909-4363-b888-21327f3f83d4,concourse.la,premium,,,69,13,9,,,
 645b0264-1d7c-427c-9809-5615bb3d6215,LongIsland.la,premium,,,58,18,11,,,
 a4392d94-0e76-4c9f-940b-502e6a4a74aa,sloping.la,premium,,,66,1,7,,,
 b80a77ef-09c3-494a-910e-c2ee31b968b5,seize.la,available,39,46.99,69,10,5,name.com,,
-46633dc2-7f98-4c65-b013-17f95e7de9db,spiral.la,resell,,,112,33,6,VIPDomains.LA  Founders Program,25/07/2025 01:09,25/07/2026 23:59
+46633dc2-7f98-4c65-b013-17f95e7de9db,spiral.la,resell,,,112,34,6,VIPDomains.LA  Founders Program,25/07/2025 01:09,25/07/2026 23:59
 c0b1f771-6668-42c0-a4d7-84a3790b51d0,putaway.la,premium,,,68,2,8,,,
 c99f8ad0-d7e8-4f94-a1b2-22a0d16313f9,plentiful.la,premium,,,70,6,9,,,
 9f065bb8-2ca1-4b65-95c7-a1d9a8e556d3,notatall.la,premium,,,74,2,10,,,
@@ -6501,7 +6505,7 @@ be589a3c-09c4-4906-811b-c24b2c88340b,impractical.la,premium,,,54,7,11,,,
 08a8f775-eaa6-47e1-961b-e120f182f369,oddfish.la,premium,,,,4,8,,,
 97fdaed0-79fc-49f1-9669-e8145933cd67,appoint.la,premium,,,78,10,7,,,
 9c2302fd-27fd-44d2-b10c-e0ef175b100a,asopposedto.la,premium,,,50,1,13,,,
-84113a96-4230-46e0-964a-33ca8606aead,inherent.la,premium,,,68,12,8,,,
+84113a96-4230-46e0-964a-33ca8606aead,inherent.la,premium,,,68,11,8,,,
 0cffb691-3ee1-40c7-ab45-b8d94f4f298a,nearer.la,premium,,,54,3,6,,,
 42d3f401-a019-4580-9db6-ee7bd0df6048,bed.la,resell,,,82,21,3,"GoDaddy.com, Inc.",19/04/2023 09:18,19/04/2027 23:59
 bad4736d-10ad-43e8-8785-aa0f5214c868,musicgame.la,premium,,,81,3,10,,,
@@ -6599,10 +6603,10 @@ fc3dae2c-6f08-4887-92ef-fa7cda22efcf,also.la,premium,,,70,22,4,,,
 e228273f-8746-4579-a9de-4e87978645d6,city.la,resell,,,74,43,4,LA Domain Names,07/02/2025 23:46,07/02/2027 23:59
 7613fa1a-b19b-454c-b890-b32d24e0fa08,getopen.la,premium,,,73,2,8,,,
 9a895313-6855-4bd8-8b8d-1815219cc512,publicised.la,premium,,,67,0,10,,,
-9d0358c7-875e-48e8-9931-d18c8719c98e,red.la,resell,,,80,41,3,LA Domain Names,25/07/2019 00:31,25/07/2026 23:59
+9d0358c7-875e-48e8-9931-d18c8719c98e,red.la,resell,,,80,42,3,LA Domain Names,25/07/2019 00:31,25/07/2026 23:59
 9a7d8ed3-9da8-4572-bbd7-7af306c4f3ae,grocerylist.la,premium,,,66,5,12,,,
 1ae94599-1c5b-443b-aa69-ef810bed7fac,debase.la,premium,,,60,4,6,,,
-4871ed90-4bf7-4a52-bc9e-e35159201c8c,backwards.la,premium,,,70,10,9,,,
+4871ed90-4bf7-4a52-bc9e-e35159201c8c,backwards.la,premium,,,70,9,9,,,
 cb140e99-0cbd-4b87-9b80-67019dc78c4e,various.la,premium,,,82,15,7,,,
 f5f60692-7832-4c82-9056-2411ceff4049,dominating.la,premium,,,46,3,10,,,
 4825b6e3-8478-421e-bb72-f6856e5836cc,nightsky.la,premium,,,72,12,9,,,
@@ -6640,7 +6644,7 @@ bfe010a1-30c9-4f64-a311-b0035c3bb511,takepart.la,premium,,,,5,9,,,
 3c8effb3-d6ef-4b69-8ad9-cf4036c060b2,letthecatout.la,premium,,,71,1,15,,,
 3545266d-0043-4ee9-b06a-fbe38a156b18,joy.la,resell,,,78,41,3,LA Domain Names,25/04/2017 01:01,25/04/2026 23:59
 9683302b-beb9-454c-805a-c32d5d21caa2,modal.la,premium,,,86,33,5,,,
-e003150b-8766-4834-ac38-95e0a7b6032b,boundary.la,premium,,,64,17,8,,,
+e003150b-8766-4834-ac38-95e0a7b6032b,boundary.la,premium,,,64,16,8,,,
 43dd5d2a-b482-4c16-aac3-06915a4c8d73,rulesarerules.la,premium,,,62,1,15,,,
 2cdbb206-2822-4b53-aab3-1c4344d9f73a,StrongCity.la,premium,,,,2,11,,,
 5af2b8e1-f1b2-4f8b-8ab2-20adbf7fb891,Martha.la,premium,,,88,11,6,,,
@@ -6649,7 +6653,7 @@ d513c049-cfb6-4676-85d7-0fb86b5b769a,youknowwhat.la,premium,,,,2,13,,,
 1fbe19d4-e1aa-4fc8-aaf3-80eb9204e7e4,congestion.la,premium,,,60,5,10,,,
 f9575853-44c0-4cb6-b657-b3972430f28f,present.la,resell,,,122,24,7,LA Domain Names,12/09/2014 06:38,12/09/2026 23:59
 29f2f9d1-165d-4438-836b-532056f3b256,bathyal.la,premium,,,40,1,7,,,
-f4df4ea2-a30d-40d2-90a6-b75066a05741,cheap.la,resell,,,110,31,5,LA Domain Names,15/11/2017 08:01,15/11/2026 23:59
+f4df4ea2-a30d-40d2-90a6-b75066a05741,cheap.la,resell,,,110,30,5,LA Domain Names,15/11/2017 08:01,15/11/2026 23:59
 08a916f3-3dbd-414e-b9b1-75c7da027b45,acned.la,premium,,,43,1,5,,,
 eb5808d9-fa40-48aa-838b-945827582c82,lateron.la,premium,,,40,2,8,,,
 bd569959-f330-47c0-968d-a8a71d4f4a79,sailorboy.la,premium,,,,1,10,,,
@@ -6657,10 +6661,10 @@ ba4a394e-e7e2-48db-b636-5bf9d292a2f7,bro.la,resell,,,64,35,3,"GoDaddy.com, Inc."
 55a55324-0ba2-4602-b762-80018ee2e7ad,alimental.la,premium,,,60,2,9,,,
 2b53200d-613b-49d4-8c6a-5aa698996d46,established.la,premium,,,62,15,11,,,
 d37b9231-d7bc-481f-bbd5-c1de924ff95c,backstage.la,resell,,,90,30,9,"GoDaddy.com, Inc.",22/02/2011 00:17,22/02/2026 23:59
-c6890426-1e55-4e75-9fee-000d26cea30d,alpha.la,resell,,,90,54,5,LA Domain Names,22/10/2019 01:06,22/10/2026 23:59
+c6890426-1e55-4e75-9fee-000d26cea30d,alpha.la,resell,,,90,53,5,LA Domain Names,22/10/2019 01:06,22/10/2026 23:59
 fa876b03-e94e-43d1-8e07-187e091f124b,bagshaped.la,premium,,,43,1,10,,,
 61dc98ee-b312-433f-9864-f34d0a0c425f,liv.la,resell,,,72,28,3,LA Domain Names,15/08/2023 23:46,15/08/2026 23:59
-b6ed7e7c-ac61-4786-aa66-5bdbbc8138ae,away.la,resell,,,126,26,4,.LA Founders Premium Program,12/03/2016 04:19,12/03/2027 23:59
+b6ed7e7c-ac61-4786-aa66-5bdbbc8138ae,away.la,resell,,,126,27,4,.LA Founders Premium Program,12/03/2016 04:19,12/03/2027 23:59
 4e03ff7b-aea1-4352-b875-bc93daef3f97,relapse.la,premium,,,85,8,7,,,
 7c2c0b68-6f62-4b97-a6de-3e9fbc24eea3,stealaway.la,premium,,,,1,10,,,
 38390ac1-d29b-4cd2-be41-8edfc2b2aca6,giveofoneself.la,premium,,,72,1,15,,,
@@ -6739,14 +6743,14 @@ e390e932-325f-4c1a-80ec-712b4b7920f9,garbed.la,premium,,,50,1,6,,,
 0de8b8b9-06e9-4e6a-8735-1ebae81724b4,anorthic.la,premium,,,50,1,8,,,
 9d2f7f63-fc07-40df-9984-f058304327d3,anabiotic.la,premium,,,64,1,9,,,
 06f19082-c244-49fb-b68d-513c87ae043b,sighted.la,premium,,,66,4,7,,,
-a17b167b-9ca3-4709-8b25-5e96c9f0eb09,bow.la,resell,,,80,20,3,LA Domain Names,16/11/2022 03:33,16/11/2026 23:59
+a17b167b-9ca3-4709-8b25-5e96c9f0eb09,bow.la,resell,,,80,19,3,LA Domain Names,16/11/2022 03:33,16/11/2026 23:59
 2b04ded8-51d5-44d8-bce5-d95f8e2226ba,credible.la,resell,,,54,13,8,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2026 23:59
 26c61bd4-0082-4f7f-9bfc-f7160003e50f,curtain.la,premium,,,92,12,7,,,
 4bad6b44-3827-47a9-9731-19a86918056d,vicious.la,premium,,,42,9,7,,,
 5e6d9c56-b26e-4277-869c-20a500552bdf,howmuchisit.la,premium,,,52,2,14,,,
 117faf45-c19c-432b-89f6-ef381f11d77a,lower.la,premium,,,64,14,5,,,
 ca64368d-523a-40a7-83b8-49122f3b1eb3,fasttravel.la,premium,,,98,3,11,,,
-0d07f069-ddc7-48ea-9277-a9bf18fa85c1,shrub.la,available,39,46.99,62,9,5,name.com,,
+0d07f069-ddc7-48ea-9277-a9bf18fa85c1,shrub.la,available,39,46.99,62,10,5,name.com,,
 bf973767-d843-490e-8871-c929fd992e93,brighten.la,premium,,,80,9,8,,,
 e391f72d-3445-4e1c-b651-14a32e99ecb5,assiduous.la,premium,,,50,4,9,,,
 90be99da-ef72-4afe-be60-11db9eb3951e,trite.la,premium,,,66,4,5,,,
@@ -6759,7 +6763,7 @@ cab43db5-af7f-431d-810c-a4d76f099c65,anoxemic.la,premium,,,44,1,8,,,
 4ca23afa-122d-4d70-8a48-4036785731e6,baffled.la,premium,,,45,3,7,,,
 47285945-4861-420a-8405-202aa4a3175c,outdated.la,premium,,,58,7,8,,,
 c33b5646-4106-4fd0-95d3-29b8ec5d3303,Europeanhedgehog.la,premium,,,68,1,17,,,
-344acf8f-c39a-465c-bb50-95426d4903c7,awkward.la,premium,,,94,13,7,,,
+344acf8f-c39a-465c-bb50-95426d4903c7,awkward.la,premium,,,94,12,7,,,
 e0884296-8c6c-439a-91d5-6cebf013ccda,dowjones.la,premium,,,76,63,9,,,
 f0a590b4-50fd-4c9f-ad1c-1e66200dfc4e,drawn.la,available,39,46.99,66,9,5,name.com,,
 1f0dc98f-bcb3-4141-9e90-486ed420e922,parkingspot.la,premium,,,70,3,12,,,
@@ -6790,9 +6794,9 @@ aafd790f-e047-4f4f-9aaf-6ce46053ec54,arteriolar.la,premium,,,50,1,10,,,
 4b9811dd-19d6-45bf-affc-5ff2d154deb2,rigorous.la,premium,,,65,4,8,,,
 b86feed6-7d73-46cb-ac8a-d62caa38b4b2,dakar.la,premium,,,66,13,5,,,
 2402282c-7fdb-4985-841b-8dd3151ae1cd,BlackThursday.la,premium,,,48,2,14,,,
-8100c82b-e89f-4cd9-9e41-f62b89cc3b2a,fatal.la,available,39,46.99,76,15,5,name.com,,
+8100c82b-e89f-4cd9-9e41-f62b89cc3b2a,fatal.la,available,39,46.99,76,16,5,name.com,,
 43e68d97-8359-49c3-b28c-18d7f13436dc,scrub.la,premium,,,104,15,5,,,
-412b08b2-1fd0-4452-9c2d-35e54ccc61fb,wing.la,resell,,,62,28,4,LA Domain Names,11/02/2020 22:15,11/02/2027 23:59
+412b08b2-1fd0-4452-9c2d-35e54ccc61fb,wing.la,resell,,,62,29,4,LA Domain Names,11/02/2020 22:15,11/02/2027 23:59
 2f8b92a3-3a23-4b0d-bd7b-4189d58cc636,childofthemanse.la,premium,,,64,1,18,,,
 a60f96cd-869c-4e52-9d3d-1fe7456ffdda,condense.la,premium,,,84,7,8,,,
 2ac19ce3-e322-4c68-b894-eabb9d2174bf,putoff.la,premium,,,66,2,7,,,
@@ -6876,7 +6880,7 @@ be44be45-bb23-4f5d-836c-920a42a37c35,Godforbid.la,premium,,,58,2,10,,,
 e948a204-44b5-4e0b-9952-1eddb57b6564,amnic.la,premium,,,50,4,5,,,
 a7baf279-77fe-46de-867c-54755fa1a79d,icu.la,resell,,,84,30,3,VIPDomains.LA  Founders Program,25/07/2025 01:07,25/07/2026 23:59
 97b0ec7d-9a60-4ce7-bf2f-d7952062435d,anomic.la,premium,,,41,4,6,,,
-3d3cf828-c580-48f3-a3a0-64c1fb41bb03,heavy.la,resell,,,122,24,5,LA Domain Names,27/06/2019 07:13,27/06/2026 23:59
+3d3cf828-c580-48f3-a3a0-64c1fb41bb03,heavy.la,resell,,,122,23,5,LA Domain Names,27/06/2019 07:13,27/06/2026 23:59
 23f4293b-37ca-4b95-bca6-86ef732d9676,competing.la,premium,,,60,4,9,,,
 84e171b4-ad32-47fd-9c9b-91df699053d5,bangup.la,premium,,,58,2,7,,,
 be925e1a-13f3-43a5-b2e5-5f0a842a5163,Trumpian.la,premium,,,72,3,8,,,
@@ -6921,7 +6925,7 @@ bdaabd1c-73d3-4d39-b11c-c089d6e033d8,matched.la,premium,,,78,10,7,,,
 6e6dcd41-fdec-4188-b283-c94c76fa7d68,arresting.la,premium,,,66,1,9,,,
 e7577745-1e9d-47b8-a1f5-043a3ef16ef3,these.la,premium,,,58,12,5,,,
 2764fce0-30c7-4099-a92b-5a7a0f5972e6,avirulent.la,premium,,,52,1,9,,,
-0af08e81-6d09-4b55-9332-2aba6ba5271a,attractive.la,premium,,,82,10,10,,,
+0af08e81-6d09-4b55-9332-2aba6ba5271a,attractive.la,premium,,,82,9,10,,,
 13916929-5e80-4f88-8121-004ed7f6ab3e,brushing.la,premium,,,80,4,8,,,
 30cf8d90-8e1c-4a95-bc08-a59c8644a4bb,copewith.la,premium,,,75,2,9,,,
 dac875ed-ae81-4651-b636-7c5f45c9444f,difficult.la,available,39,46.99,82,8,9,name.com,,
@@ -6945,7 +6949,7 @@ d7c762fb-b0ad-480e-aa20-d264bebeca45,newbie.la,premium,,,68,19,6,,,
 bda6bd20-c9ee-412d-92e1-e25db771c2c4,hiding.la,available,41.98,,70,5,6,namecheap,,
 f99ed881-1227-4c8f-bb46-0d111dd3a85b,proper.la,resell,,,71,35,6,VIPDomains.LA  Founders Program,26/10/2023 01:09,26/10/2026 23:59
 195a3007-96d7-4eb1-b544-3c1e57af4040,tailend.la,premium,,,38,3,8,,,
-f4a1f9c2-50ba-4311-a731-3fdb2be5e213,clown.la,resell,,,98,30,5,LA Domain Names,19/07/2020 20:40,19/07/2026 23:59
+f4a1f9c2-50ba-4311-a731-3fdb2be5e213,clown.la,resell,,,98,31,5,LA Domain Names,19/07/2020 20:40,19/07/2026 23:59
 3cce0cd3-36e8-4d5e-ab8f-e2cfa9837aee,conquer.la,resell,,,87,19,7,LA Domain Names,28/09/2017 23:08,28/09/2026 23:59
 fd0f29c7-e74d-40c5-961d-8482f24838a5,completing.la,available,41.98,,68,4,10,namecheap,,
 de693774-2699-41ef-bc41-e9e7e7f9f9e8,ing.la,resell,,,68,30,3,LA Domain Names,20/05/2018 01:06,20/05/2026 23:59
@@ -6982,17 +6986,17 @@ d4d68ec4-60b4-4338-8853-da6944029881,grueling.la,premium,,,68,2,8,,,
 0907cbe4-6453-4903-ac6f-6cfcb2948b42,classicalguitar.la,premium,,,80,6,16,,,
 7bd9ddb3-f5ea-4f3d-b39f-ddd25aa60a95,whatthe.la,premium,,,,11,8,,,
 14bfe2d6-d0a3-488e-81af-713eb16999e5,Idarebebound.la,premium,,,54,1,15,,,
-d4318e01-6316-4117-8ee1-a79901d07534,avocado.la,resell,,,96,33,7,LA Domain Names,30/11/2025 23:21,30/11/2026 23:59
+d4318e01-6316-4117-8ee1-a79901d07534,avocado.la,resell,,,96,34,7,LA Domain Names,30/11/2025 23:21,30/11/2026 23:59
 a84d7bb0-0a6c-4949-b7db-bbfca630e628,synchronise.la,premium,,,74,3,11,,,
 24307a8e-ee1f-46d1-849b-8a169925fd8f,appetising.la,premium,,,62,1,10,,,
 044b2ed4-e630-4064-8d6b-1937942f7e09,LettersandScience.la,premium,,,75,1,19,,,
-ef99867c-0f2c-43ce-8c5c-9293b12ecbb6,austrian.la,premium,,,82,17,8,,,
+ef99867c-0f2c-43ce-8c5c-9293b12ecbb6,austrian.la,premium,,,82,18,8,,,
 aa58f1a8-5564-4473-9502-2273432394c6,acetabular.la,premium,,,46,1,10,,,
 999b5296-b4df-4c8c-adfb-589518e3d4bf,augean.la,premium,,,52,3,6,,,
 2fb4a29f-0f52-4be9-9c48-b148a5abb8d4,ask.la,resell,,,80,45,3,1API GmbH,27/06/2007 00:32,27/06/2030 23:59
 80744720-e383-41b3-b3fa-937ae0fd330b,roads.la,resell,,,80,15,5,.LA Founders Premium Program,12/03/2016 04:12,12/03/2027 23:59
 b623d954-2b3e-4dc8-aff6-58f8ce06e39a,agnatic.la,premium,,,58,1,7,,,
-4320f40c-e70c-4b96-96ed-ce263c9648a3,born.la,resell,,,116,24,4,.LA Founders Premium Program,08/03/2016 01:27,08/03/2027 23:59
+4320f40c-e70c-4b96-96ed-ce263c9648a3,born.la,resell,,,116,23,4,.LA Founders Premium Program,08/03/2016 01:27,08/03/2027 23:59
 157649cb-a181-4ae4-989b-9c3635a32847,certainly.la,premium,,,66,7,9,,,
 34ea64e8-fc43-4e04-a8e3-aca77f28a83e,algebraic.la,premium,,,52,5,9,,,
 53101792-5587-46d0-bfc5-9f4190bf3899,grandpa.la,premium,,,78,10,7,,,
@@ -7182,7 +7186,7 @@ d0ed7e59-139a-4353-a87a-2f9ce1718041,allopathic.la,premium,,,54,1,10,,,
 ec08af97-513a-4bbd-a6f0-f799c48431c9,wondered.la,premium,,,66,3,8,,,
 ea34a21a-8c0b-43f9-b17b-3128f827ad8d,bce.la,premium,,,62,13,3,,,
 8df327c7-7856-46d3-bba9-9e60e0bed57b,thisinstant.la,premium,,,,1,12,,,
-be4daed8-51d7-40c6-b78d-d931cd64de53,aujus.la,premium,,,68,3,6,,,
+be4daed8-51d7-40c6-b78d-d931cd64de53,aujus.la,premium,,,68,2,6,,,
 ff35bfc3-aef4-45a8-8a7b-f6e0b226ff00,knockitoff.la,premium,,,86,4,12,,,
 ddac6bd3-bbc5-4aba-9c37-934904a1f26b,enter.la,resell,,,80,31,5,LA Domain Names,26/10/2017 17:22,26/10/2026 23:59
 52a327a3-bdf2-4229-84eb-ce3b37d94f84,australian.la,premium,,,92,22,10,,,
@@ -7201,13 +7205,13 @@ d1abd8b0-4a9c-43b3-b5ef-99c9e9229404,greet.la,premium,,,72,12,5,,,
 f5dda93f-d1db-4c84-b0ce-40ea17f752d3,gotowork.la,premium,,,68,3,10,,,
 87cf3b8d-fe24-44c0-8139-1042a0d0008d,thus.la,premium,,,80,9,4,,,
 494d24bd-3b50-4b67-990f-9248c2e1c839,halfdozen.la,premium,,,56,1,10,,,
-3c34da14-fa94-46b6-9ae0-0a0e0faaf327,terrible.la,premium,,,72,22,8,,,
+3c34da14-fa94-46b6-9ae0-0a0e0faaf327,terrible.la,premium,,,72,23,8,,,
 d7ce7498-3008-4635-9e77-d20ba7bf7efe,streetcrime.la,premium,,,,2,12,,,
 437217e9-b3b7-415f-b037-b3d6e2ac4fd0,suck.la,premium,,,84,16,4,,,
 a3d2f58d-06f1-41cc-8f2d-eaf234723c68,ogdoad.la,premium,,,50,2,6,,,
 3622c1a8-6353-40a0-9427-78bac7387dc8,adequate.la,available,39,46.99,94,11,8,name.com,,
 51ba1e7c-28ef-4bf1-a5fe-84f59e091688,bringon.la,premium,,,70,3,8,,,
-53bc6ba2-0fde-4ccf-81cd-e1f2dcb38f4b,dock.la,premium,,,70,24,4,,,
+53bc6ba2-0fde-4ccf-81cd-e1f2dcb38f4b,dock.la,premium,,,70,23,4,,,
 7c018dfc-7375-4e96-b4ff-fc6769f215a0,boost.la,resell,,,96,39,5,LA Domain Names,25/12/2020 23:46,25/12/2026 23:59
 56912105-13d6-4631-9d87-3f1e9b375930,pete.la,resell,,,76,28,4,.LA Founders Premium Program,17/03/2016 23:55,17/03/2026 23:59
 9c548b14-4485-487b-889c-93357dcbc697,assorted.la,premium,,,44,5,8,,,
@@ -7221,7 +7225,7 @@ c5a3f81e-5d24-4067-8a42-ee32e43ba917,musiccenter.la,premium,,,72,4,12,,,
 002c3aa9-f860-48ae-b8fc-eea256909c0d,atrophied.la,premium,,,38,1,9,,,
 3629aaaa-121e-48d2-b180-bab2a4a0504f,pointy.la,premium,,,84,7,6,,,
 cb8d42b9-c71e-4443-a617-44077e22fcbc,cook.la,resell,,,72,30,4,LA Domain Names,15/11/2017 08:01,15/11/2026 23:59
-b090951e-9fa3-4ef3-abf9-ef08c33e75a9,bouncing.la,premium,,,90,7,8,,,
+b090951e-9fa3-4ef3-abf9-ef08c33e75a9,bouncing.la,premium,,,90,6,8,,,
 ce826176-d618-4963-a1e8-999daffa2094,abdominal.la,available,39,46.99,82,3,9,name.com,,
 5f64fe34-38eb-4a08-8a96-add41c24d562,fillout.la,premium,,,68,3,8,,,
 c7c4097d-fae6-433e-ad4b-6756913388ef,release.la,resell,,,98,25,7,LA Domain Names,22/06/2017 21:08,22/06/2026 23:59
@@ -7436,7 +7440,7 @@ c3c44438-5bef-42c2-947e-22dcd66ea9cc,Nicky.la,premium,,,66,11,5,,,
 e353d17b-fd5f-4166-97f3-8a5b3e7feeaa,howlong.la,premium,,,54,4,8,,,
 cff639bf-3881-4565-a120-62fe5074d0d0,succinct.la,available,41.98,,69,9,8,namecheap,,
 baac03bb-4e4b-4680-95c2-89720352528b,business.la,resell,,,100,53,8,Dynadot LLC,21/02/2008 01:00,21/02/2027 23:59
-3f8dbbc0-9203-4d9d-ba66-2d03dc6af30c,apart.la,premium,,,78,16,5,,,
+3f8dbbc0-9203-4d9d-ba66-2d03dc6af30c,apart.la,premium,,,78,17,5,,,
 12dba2e2-40b5-4f49-8f8d-7f243eee3050,lip.la,resell,,,72,15,3,VIPDomains.LA  Founders Program,29/11/2014 18:33,29/11/2026 23:59
 27467762-556d-4bd7-8d64-e3384ed48e82,bumpinto.la,premium,,,68,1,9,,,
 4244a413-9efb-4be3-89e6-11081590c4e1,ontheroad.la,premium,,,,11,11,,,
@@ -7493,7 +7497,7 @@ e909c9d7-1920-4c42-91d7-bdbf9b54af16,awry.la,premium,,,64,5,4,,,
 65580668-ceb3-4a8a-8cf0-5cf947597d72,setfree.la,premium,,,,6,8,,,
 fd66b3ba-4906-4dad-bbef-4208bc338b8b,appressed.la,premium,,,56,1,9,,,
 c3aae46b-33a0-4e8e-8c55-6a0e36ccbe56,passalong.la,premium,,,75,3,10,,,
-51affdc7-aa17-4420-86ad-1ab0982e0e13,marginal.la,premium,,,74,10,8,,,
+51affdc7-aa17-4420-86ad-1ab0982e0e13,marginal.la,premium,,,74,9,8,,,
 c755a743-2e3c-45a6-8214-d367873dcb16,canoe.la,premium,,,98,13,5,,,
 2c1ec1e9-03d4-4ef3-9628-e11702cd5375,Goodwin.la,resell,,,66,18,7,VIPDomains.LA  Founders Program,27/08/2020 19:36,27/08/2026 23:59
 92629330-4176-4913-862f-c238d6ce8cf7,aphasic.la,premium,,,68,2,7,,,
@@ -7551,7 +7555,7 @@ fbe20ad9-c22a-4710-b6ab-1c9c0c691f57,selfconfident.la,premium,,,68,1,14,,,
 539c8a0f-14ed-4886-b160-8d360e72b6df,midFebruary.la,premium,,,98,1,12,,,
 23c8d45d-d8c8-420b-944e-5d028751ea4f,IsaidwhatIsaid.la,premium,,,54,2,18,,,
 242b7874-50c4-42c2-a0d5-100119f8f93d,airheaded.la,premium,,,48,1,9,,,
-c4e9d5f2-a5ef-47fb-91a0-a54ad3aa9191,amenable.la,premium,,,68,3,8,,,
+c4e9d5f2-a5ef-47fb-91a0-a54ad3aa9191,amenable.la,premium,,,68,2,8,,,
 57e3c49a-30f5-47e3-8b6e-9d3857c732e2,refundable.la,premium,,,84,3,10,,,
 9f3a8569-41fb-4b6f-8f0d-f35db909fb82,occupy.la,available,39,46.99,62,11,6,name.com,,
 84316c50-4b50-4e72-9289-8e3cca63b335,steppingstone.la,premium,,,74,10,14,,,
@@ -7595,7 +7599,7 @@ f9799c11-5b10-49eb-a6c2-db78275af6c7,apelike.la,premium,,,60,2,7,,,
 3a7f26b3-8f4a-4ee7-b808-726089ebabc5,ohreally.la,premium,,,60,3,9,,,
 70fcaddf-ad04-4d81-bcd7-f2759b8e1706,twentyfour.la,premium,,,,9,11,,,
 8d9dae05-85b4-4647-9aa0-06a28fc4d785,acidulous.la,premium,,,44,1,9,,,
-07399b89-581c-4299-8948-8c85fb74eb65,individual.la,resell,,,92,16,10,.LA Founders Premium Program,29/02/2020 18:22,28/02/2027 23:59
+07399b89-581c-4299-8948-8c85fb74eb65,individual.la,resell,,,92,17,10,.LA Founders Premium Program,29/02/2020 18:22,28/02/2027 23:59
 48a03fdf-c729-4403-bc84-addf3da90f45,angular.la,premium,,,86,21,7,,,
 3ff44fdb-6c30-446f-89c9-2ef44e2537c6,improve.la,resell,,,88,25,7,LA Domain Names,10/11/2017 15:47,10/11/2026 23:59
 a958250b-8104-4bac-b7a5-163379b18a93,bats.la,premium,,,54,11,4,,,
@@ -7603,7 +7607,7 @@ a958250b-8104-4bac-b7a5-163379b18a93,bats.la,premium,,,54,11,4,,,
 d47573ca-542c-4740-ba06-977453076b09,packed.la,premium,,,64,10,6,,,
 53a99b37-fed3-48f5-8504-e520bb49972d,approving.la,premium,,,54,2,9,,,
 98c82218-2634-4323-825d-7c7da817bf52,unacceptable.la,premium,,,70,4,12,,,
-8af75fd3-a8f8-4908-a382-dd05307f8934,sheer.la,premium,,,70,13,5,,,
+8af75fd3-a8f8-4908-a382-dd05307f8934,sheer.la,premium,,,70,12,5,,,
 7ff3c292-e80d-477f-962d-01b1e28ec463,compound.la,available,39,46.99,105,26,8,name.com,,
 01c90a1f-5252-4af1-8b62-16b04124d22d,StPetersburgh.la,premium,,,64,1,15,,,
 5b7257f7-97c7-4f1e-9899-97934d750ceb,NewGuinea.la,premium,,,,2,10,,,
@@ -7694,7 +7698,7 @@ e83d992a-ad7e-4b59-9379-24668c1c9aad,terminalhair.la,premium,,,,1,13,,,
 88c6a21f-fa5f-4127-b6c6-72ffc55b5daf,belong.la,premium,,,80,21,6,,,
 489b5482-6959-4dba-a772-4e8237ea561c,skilled.la,premium,,,74,15,7,,,
 9dcb24aa-56f1-4cc1-8ae7-1126e978c9f0,annoyed.la,premium,,,58,7,7,,,
-6c14b351-32dc-4dbc-89a5-f46202f96ccd,middle.la,resell,,,116,19,6,"GoDaddy.com, Inc.",18/08/2023 23:58,18/08/2026 23:59
+6c14b351-32dc-4dbc-89a5-f46202f96ccd,middle.la,resell,,,116,22,6,"GoDaddy.com, Inc.",18/08/2023 23:58,18/08/2026 23:59
 02d2c869-7cc6-4d88-9755-dd43be5f6995,stigmatic.la,premium,,,64,1,9,,,
 7b8284a8-ca50-4eb2-b9d8-8c8145d99785,confide.la,premium,,,77,10,7,,,
 ad69d565-8d12-4544-9855-dde657810866,asof.la,premium,,,56,3,5,,,
@@ -7749,17 +7753,17 @@ ce401464-5f16-4606-867c-7df602b8e553,setsail.la,premium,,,,9,8,,,
 97cbfac4-14cf-43e2-a502-f95f50149f02,clipthewingsof.la,premium,,,72,1,17,,,
 3b118b00-8eca-46e7-afd6-8a8ca118ed5a,beaten.la,premium,,,50,2,6,,,
 c5a924b2-2dee-4f4e-8baa-0792e7974d7f,tohellwith.la,premium,,,,1,12,,,
-5b4b8f68-170f-41cb-927a-b726604522b9,canadian.la,available,39,46.99,88,26,8,name.com,,
+5b4b8f68-170f-41cb-927a-b726604522b9,canadian.la,available,39,46.99,88,28,8,name.com,,
 12640b70-8847-4800-81ce-b590a0076e83,salt.la,resell,,,70,41,4,.LA Founders Premium Program,05/10/2023 15:18,05/10/2026 23:59
-2cdc54dd-abbc-489a-94ff-ae4ec1ed0b3f,careful.la,resell,,,82,11,7,.LA Founders Premium Program,29/02/2020 18:20,28/02/2027 23:59
+2cdc54dd-abbc-489a-94ff-ae4ec1ed0b3f,careful.la,resell,,,82,12,7,.LA Founders Premium Program,29/02/2020 18:20,28/02/2027 23:59
 5c1813d8-7ac7-49e0-b5a2-ad9fa17ed145,baggagecheck.la,premium,,,70,1,13,,,
 63830a22-d245-4e38-881c-b47fbb43f65d,invented.la,premium,,,70,5,8,,,
 cf3cac16-d24f-40cf-a94d-665ce59bb79c,bucketlist.la,resell,,,76,21,11,LA Domain Names,23/10/2021 08:15,23/10/2026 23:59
 91c9d469-756a-4825-b9f4-83f81900ea06,internationallaw.la,premium,,,74,4,17,,,
-f0ecd925-5dae-432f-a348-52fda326e30c,ago.la,resell,,,66,18,3,LA Domain Names,22/08/2023 08:18,22/08/2026 23:59
+f0ecd925-5dae-432f-a348-52fda326e30c,ago.la,resell,,,66,19,3,LA Domain Names,22/08/2023 08:18,22/08/2026 23:59
 9dd6a850-9939-4d36-81c9-9f229ebd24ed,infant.la,premium,,,104,10,6,,,
 33f5c33c-98d6-4e35-96a0-ff9f51398cad,papal.la,premium,,,52,3,5,,,
-31315baf-b61f-4429-9b9a-76fbd90e4b18,responsive.la,premium,,,78,18,10,,,
+31315baf-b61f-4429-9b9a-76fbd90e4b18,responsive.la,premium,,,78,19,10,,,
 846a6724-d3b4-43f6-9930-bfcc556b20d2,inspiring.la,premium,,,92,14,9,,,
 531d7507-355d-48c2-96e2-12b61b045414,Ilikepie.la,premium,,,54,2,10,,,
 d829a37a-86da-4257-86d1-76981b16fd57,mouthtomouth.la,premium,,,,1,14,,,
@@ -7786,13 +7790,13 @@ ed376c08-c314-4b67-8f0e-1761c3c199e3,aestival.la,premium,,,46,2,8,,,
 d050dc57-8f5f-4b8b-b27d-ebaca5a143ac,wounded.la,premium,,,62,4,7,,,
 f8ff0cb9-49ac-40cd-8064-943a213455b0,heat.la,resell,,,88,27,4,LA Domain Names,30/11/2017 08:01,30/11/2026 23:59
 6abd84a2-568b-4adc-812a-0ef89abc8428,whitetea.la,premium,,,,4,9,,,
-849b1827-2b93-4506-a6f0-c11e313d3f14,skilful.la,available,41.98,,74,4,7,namecheap,,
+849b1827-2b93-4506-a6f0-c11e313d3f14,skilful.la,available,41.98,,74,3,7,namecheap,,
 d2161b46-a7f8-4b48-9f59-f53591f695c2,legalheir.la,premium,,,67,1,10,,,
 ddaa8751-82ec-4f60-9657-9f3f3a937af3,emotive.la,premium,,,84,10,7,,,
 1c7c589b-9021-4483-afd6-833527d6cba5,sitloose.la,premium,,,,1,9,,,
 cb21e2d6-1b7e-4135-8ccf-49e38dd423fd,commenting.la,premium,,,66,2,10,,,
 1dc0f1db-fb84-4871-8848-0989336d801b,roman.la,resell,,,100,29,5,.LA Founders Premium Program,29/02/2020 01:41,28/02/2027 23:59
-1c00e62d-bb83-44a4-b245-0c46077fd355,converted.la,premium,,,64,7,9,,,
+1c00e62d-bb83-44a4-b245-0c46077fd355,converted.la,premium,,,64,6,9,,,
 31d0a033-7b23-4273-8ec8-58ef40843353,banal.la,premium,,,54,5,5,,,
 7e17e65b-c037-4bfe-b660-0066f29bb94d,amalgamate.la,available,39,46.99,82,4,10,name.com,,
 0d19d4d3-088d-4280-a6c3-04fe4ea14f09,antiguan.la,premium,,,74,1,8,,,
@@ -7811,7 +7815,7 @@ d1bcca25-502f-46ac-873f-9febc70f6144,antitumor.la,premium,,,88,2,9,,,
 9751be29-2fe6-413d-81bd-aff27fde6ae5,modern.la,resell,,,94,37,6,.LA Premium Names Program,10/11/2015 00:28,10/11/2026 23:59
 ffd12e2c-d996-4c95-93f1-ea0f2e126b7a,tracy.la,resell,,,68,18,5,.LA Founders Premium Program,05/03/2016 01:33,05/03/2027 23:59
 f6dd6635-a3a2-4e93-93a2-2a4685867b97,woodsy.la,premium,,,66,7,6,,,
-7a5132f2-4390-4566-9203-dd720492c9da,bright.la,resell,,,74,39,6,VIPDomains.LA  Founders Program,02/12/2022 12:36,02/12/2026 23:59
+7a5132f2-4390-4566-9203-dd720492c9da,bright.la,resell,,,74,38,6,VIPDomains.LA  Founders Program,02/12/2022 12:36,02/12/2026 23:59
 392ace4e-380a-4b6c-8bd7-7dc0bf3bb6bd,justyet.la,premium,,,50,1,8,,,
 625d08e3-beed-4f30-b7cf-59cb14d52533,ensure.la,premium,,,80,12,6,,,
 f26c2056-01e4-49d8-9a02-02c09e8a3c7e,someone.la,premium,,,92,16,7,,,
@@ -7822,7 +7826,7 @@ d40c9280-0e27-4352-96b2-1f7db30beec4,categorically.la,premium,,,54,2,13,,,
 ab0a1db7-fe66-4cf1-8dd1-bc3cd1303933,virtuoso.la,available,39,46.99,94,19,8,name.com,,
 0cfb55d6-6d6f-41e1-92cc-94ad87b96bb3,auric.la,premium,,,60,10,5,,,
 f055d78e-5436-455d-8ef7-198078267968,antennal.la,premium,,,56,1,8,,,
-446022fd-7b03-406f-9782-7f039d1c1c44,ethereal.la,resell,,,88,32,8,"GoDaddy.com, Inc.",26/10/2013 03:09,26/10/2026 23:59
+446022fd-7b03-406f-9782-7f039d1c1c44,ethereal.la,resell,,,88,31,8,"GoDaddy.com, Inc.",26/10/2013 03:09,26/10/2026 23:59
 eee9e653-0ce0-4023-a3b6-a73fc642f27a,close.la,resell,,,72,22,5,.LA Founders Premium Program,29/02/2020 18:22,28/02/2027 23:59
 1feea52c-f439-4234-b314-414ea97e65c8,ripe.la,resell,,,67,34,4,.LA Premium Names Program,20/02/2024 13:36,20/02/2027 23:59
 4c9f43e1-760d-4fcb-aceb-bb12145f5145,decumbent.la,premium,,,52,1,9,,,

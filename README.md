@@ -1,22 +1,22 @@
-# Available .LA One-Word Domains (7,891)
+# Available .LA One-Word Domains (7,888)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C888%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C891%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C892%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C888%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .la one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .la one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,888-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,891 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,888 rows · **Live catalog:** 7,891 domains
+**Public extract:** 7,892 rows · **Live catalog:** 7,888 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/la`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LA one-word domain ca
 
 ### Files
 
-- `la.csv` — public CSV extract (7,888 rows)
-- `la.json` — public JSON extract (7,888 rows)
+- `la.csv` — public CSV extract (7,892 rows)
+- `la.json` — public JSON extract (7,892 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,23 +66,23 @@ print(df.head())
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------- |
 | nationwide.la | available | $39        | $46.99        | 76             | 66     | 10     | name.com                    |
 | thunder.la    | resell    | $10,247.65 | $46.99        | 63             | 26     | 7      | LA Domain Names             |
-| log.la        | premium   | $235.72    | —             | 72             | 37     | 3      | 1API GmbH                   |
+| boss.la       | premium   | $5,750     | $46.99        | 76             | 73     | 4      | LA Domain Names             |
 | even.la       | available | $39        | $46.99        | 98             | 64     | 4      | name.com                    |
-| famous.la     | resell    | $5,621.20  | $46.99        | 98             | 24     | 6      | LA Domain Names             |
-| common.la     | premium   | $1,954.42  | —             | 71             | 36     | 6      | name.com                    |
+| famous.la     | resell    | $5,621.20  | $46.99        | 98             | 23     | 6      | LA Domain Names             |
+| log.la        | premium   | $235.72    | —             | 72             | 37     | 3      | 1API GmbH                   |
 | seventeen.la  | available | $39        | $46.99        | 84             | 62     | 9      | name.com                    |
-| allout.la     | resell    | $39        | $46.99        | 84             | 9      | 7      | .LA Premium Names Program   |
-| loft.la       | premium   | $20,728.75 | —             | 64             | 28     | 4      | GoDaddy.com, Inc.           |
+| allout.la     | resell    | $39        | $46.99        | 84             | 8      | 7      | .LA Premium Names Program   |
+| common.la     | premium   | $1,954.42  | —             | 71             | 36     | 6      | name.com                    |
 | athletics.la  | available | $41.98     | —             | 69             | 52     | 9      | namecheap                   |
 | gay.la        | resell    | —          | —             | 122            | 99     | 3      | TLD Registrar Solutions Ltd |
-| woman.la      | premium   | $8,625     | $8,625        | 112            | 23     | 5      | GoDaddy.com, Inc.           |
+| loft.la       | premium   | $20,728.75 | —             | 64             | 28     | 4      | GoDaddy.com, Inc.           |
 | goon.la       | available | $39        | $46.99        | 80             | 35     | 5      | name.com                    |
 | singapore.la  | resell    | —          | —             | 76             | 99     | 9      | LA Domain Names             |
+| woman.la      | premium   | $8,625     | $8,625        | 112            | 23     | 5      | GoDaddy.com, Inc.           |
+| still.la      | available | $39        | $46.99        | 76             | 34     | 5      | name.com                    |
+| australia.la  | resell    | —          | —             | 66             | 99     | 9      | LA Domain Names             |
 | abundant.la   | premium   | $39        | $46.99        | 80             | 21     | 8      | name.com                    |
 | shiny.la      | available | $39        | $46.99        | 90             | 33     | 5      | name.com                    |
-| australia.la  | resell    | —          | —             | 66             | 99     | 9      | LA Domain Names             |
-| twentyone.la  | premium   | $39        | $46.99        | 84             | 15     | 10     | name.com                    |
-| still.la      | available | $39        | $46.99        | 76             | 33     | 5      | name.com                    |
 | china.la      | resell    | —          | —             | 84             | 98     | 5      | LA Domain Names             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,888-row public sample | 7,891 live domains                               |
+| 7,892-row public sample | 7,888 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
