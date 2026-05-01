@@ -1,10 +1,10 @@
-# Available .LA One-Word Domains (10,053)
+# Available .LA One-Word Domains (10,551)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C053%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C551%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .la one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,053 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,551 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,053 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,551 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/la`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | IsleofMan.la | available | $41.98    | —             | 62             | 91     | 11     | namecheap                    |
 | las.la       | resell    | —         | —             | 48             | 98     | 3      | LA Domain Names              |
-| common.la    | premium   | $1,954.42 | —             | 71             | 36     | 6      | name.com                     |
-| RedSox.la    | available | $41.98    | —             | 72             | 60     | 7      | namecheap                    |
-| farmers.la   | resell    | —         | —             | 54             | 59     | 7      | LA Domain Names              |
 | regions.la   | available | $39       | —             | 64             | 59     | 7      | name.com                     |
-| robots.la    | resell    | —         | —             | 62             | 47     | 6      | LA Domain Names              |
-| gods.la      | available | $39       | —             | 72             | 27     | 4      | name.com                     |
+| farmers.la   | resell    | —         | —             | 54             | 59     | 7      | LA Domain Names              |
+| prompts.la   | available | $27.99    | $27.99        | 54             | 39     | 7      | namesilo                     |
 | lets.la      | resell    | —         | —             | 77             | 39     | 4      | LA Domain Names              |
-| Iknow.la     | available | $41.98    | —             | 58             | 26     | 6      | namecheap                    |
+| gods.la      | available | $39       | —             | 72             | 27     | 4      | name.com                     |
 | spectra.la   | resell    | —         | —             | 62             | 34     | 7      | .LA Founders Premium Program |
-| reports.la   | available | $39       | —             | 58             | 24     | 7      | name.com                     |
+| Iknow.la     | available | $41.98    | —             | 58             | 26     | 6      | namecheap                    |
 | etc.la       | resell    | —         | —             | 58             | 34     | 3      | .LA Founders Premium Program |
-| echoes.la    | available | $27.99    | $27.99        | 56             | 24     | 6      | namesilo                     |
+| reports.la   | available | $39       | —             | 58             | 24     | 7      | name.com                     |
 | Cats.la      | resell    | —         | —             | 59             | 33     | 4      | .LA Founders Premium Program |
-| products.la  | available | $39       | —             | 60             | 23     | 8      | name.com                     |
+| echoes.la    | available | $27.99    | $27.99        | 56             | 24     | 6      | namesilo                     |
 | partners.la  | resell    | —         | —             | 61             | 32     | 8      | LA Domain Names              |
+| products.la  | available | $39       | —             | 60             | 23     | 8      | name.com                     |
+| slots.la     | resell    | —         | —             | 49             | 31     | 5      | LA Domain Names              |
 | CapeCod.la   | available | $41.98    | —             | 78             | 22     | 8      | namecheap                    |
 | spaces.la    | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, Inc.            |
 | brothers.la  | available | $39       | —             | 60             | 22     | 8      | name.com                     |
+| SanDiego.la  | resell    | —         | —             | 74             | 29     | 9      | LA Domain Names              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,053 live domains                              |
+| 1,000-row public sample | 10,551 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
