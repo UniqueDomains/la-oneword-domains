@@ -72,17 +72,17 @@ print(df.head())
 | lets.la      | resell    | —         | —             | 77             | 39     | 4      | LA Domain Names              |
 | gods.la      | available | $39       | —             | 72             | 27     | 4      | name.com                     |
 | spectra.la   | resell    | —         | —             | 62             | 34     | 7      | .LA Founders Premium Program |
-| Iknow.la     | available | $41.98    | —             | 58             | 26     | 6      | namecheap                    |
-| etc.la       | resell    | —         | —             | 58             | 34     | 3      | .LA Founders Premium Program |
 | reports.la   | available | $39       | —             | 58             | 24     | 7      | name.com                     |
-| Cats.la      | resell    | —         | —             | 59             | 33     | 4      | .LA Founders Premium Program |
+| etc.la       | resell    | —         | —             | 58             | 34     | 3      | .LA Founders Premium Program |
 | echoes.la    | available | $27.99    | $27.99        | 56             | 24     | 6      | namesilo                     |
-| partners.la  | resell    | —         | —             | 61             | 32     | 8      | LA Domain Names              |
+| Cats.la      | resell    | —         | —             | 59             | 33     | 4      | .LA Founders Premium Program |
 | products.la  | available | $39       | —             | 60             | 23     | 8      | name.com                     |
-| slots.la     | resell    | —         | —             | 49             | 31     | 5      | LA Domain Names              |
+| partners.la  | resell    | —         | —             | 61             | 32     | 8      | LA Domain Names              |
 | CapeCod.la   | available | $41.98    | —             | 78             | 22     | 8      | namecheap                    |
-| spaces.la    | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, Inc.            |
+| slots.la     | resell    | —         | —             | 49             | 31     | 5      | LA Domain Names              |
 | brothers.la  | available | $39       | —             | 60             | 22     | 8      | name.com                     |
+| spaces.la    | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, Inc.            |
+| Iknow.la     | available | $41.98    | —             | 58             | 21     | 6      | namecheap                    |
 | SanDiego.la  | resell    | —         | —             | 74             | 29     | 9      | LA Domain Names              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
