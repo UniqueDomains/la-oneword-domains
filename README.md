@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .la one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,227 domains · **Median ask:** $75.76 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/la`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                       |
 | --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| great.la  | resell    | —          | —             | high           | low    | 5      | LA Domain Names                 |
 | cot.la    | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
 | high.la   | resell    | $2,309.78  | —             | medium         | low    | 4      | .LA Founders Premium Program    |
 | her.la    | premium   | $1,124.09  | —             | medium         | low    | 3      | name.com                        |
@@ -84,6 +83,7 @@ print(df.head())
 | coming.la | resell    | $1,125.28  | —             | high           | low    | 6      | VIPDomains.LA  Founders Program |
 | smell.la  | premium   | $27.99     | $27.99        | high           | low    | 5      | namesilo                        |
 | arid.la   | available | $32.98     | $41.98        | low            | low    | 4      | namecheap                       |
+| purple.la | resell    | $2,309.78  | —             | medium         | medium | 6      | VIPDomains.LA  Founders Program |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
