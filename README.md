@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .la one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,939 domains · **Median ask:** $58.97 · **High-demand under $2,500:** 49
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/la`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                       |
-| --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| great.la  | resell    | —          | —             | high           | low    | 5      | LA Domain Names                 |
-| bang.la   | resell    | —          | —             | high           | low    | 4      | LA Domain Names                 |
-| cot.la    | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
-| high.la   | resell    | $2,309.78  | —             | medium         | low    | 4      | .LA Founders Premium Program    |
-| her.la    | premium   | $1,124.09  | —             | medium         | low    | 3      | name.com                        |
-| Eid.la    | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
-| line.la   | resell    | $1,776.75  | —             | medium         | medium | 4      | .LA Founders Premium Program    |
-| xxv.la    | premium   | $39        | $46.99        | medium         | low    | 3      | name.com                        |
-| MMR.la    | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
-| built.la  | resell    | $1,776.75  | —             | high           | low    | 5      | VIPDomains.LA  Founders Program |
-| loft.la   | premium   | $20,728.75 | —             | medium         | low    | 4      | GoDaddy.com, Inc.               |
-| NWO.la    | available | $41.98     | —             | medium         | low    | 3      | namecheap                       |
-| proud.la  | resell    | $1,006.82  | —             | high           | low    | 5      | VIPDomains.LA  Founders Program |
-| sort.la   | premium   | $27.99     | $27.99        | high           | low    | 4      | namesilo                        |
-| xci.la    | available | $32.98     | $41.98        | low            | low    | 3      | namecheap                       |
-| center.la | resell    | $1,762.54  | —             | high           | low    | 6      | Porkbun, LLC                    |
-| veer.la   | premium   | $27.99     | $27.99        | high           | low    | 4      | namesilo                        |
-| xcv.la    | available | $32.98     | $41.98        | low            | low    | 3      | namecheap                       |
-| coming.la | resell    | $1,125.28  | —             | high           | low    | 6      | VIPDomains.LA  Founders Program |
-| smell.la  | premium   | $27.99     | $27.99        | high           | low    | 5      | namesilo                        |
+| domain     | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                       |
+| ---------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| great.la   | resell    | —          | —             | high           | low    | 5      | LA Domain Names                 |
+| bang.la    | resell    | —          | —             | high           | low    | 4      | LA Domain Names                 |
+| special.la | resell    | —          | —             | high           | low    | 7      | .LA Founders Premium Program    |
+| wrong.la   | resell    | —          | —             | high           | low    | 5      | .LA Founders Premium Program    |
+| skill.la   | resell    | —          | —             | high           | medium | 5      | LA Domain Names                 |
+| cot.la     | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
+| high.la    | resell    | $2,309.78  | —             | medium         | low    | 4      | .LA Founders Premium Program    |
+| her.la     | premium   | $1,124.09  | —             | medium         | low    | 3      | name.com                        |
+| Eid.la     | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
+| line.la    | resell    | $1,776.75  | —             | medium         | medium | 4      | .LA Founders Premium Program    |
+| xxv.la     | premium   | $39        | $46.99        | medium         | low    | 3      | name.com                        |
+| MMR.la     | available | $27.99     | $27.99        | high           | low    | 3      | namesilo                        |
+| built.la   | resell    | $1,776.75  | —             | high           | low    | 5      | VIPDomains.LA  Founders Program |
+| loft.la    | premium   | $20,728.75 | —             | medium         | low    | 4      | GoDaddy.com, Inc.               |
+| NWO.la     | available | $41.98     | —             | medium         | low    | 3      | namecheap                       |
+| proud.la   | resell    | $1,006.82  | —             | high           | low    | 5      | VIPDomains.LA  Founders Program |
+| sort.la    | premium   | $27.99     | $27.99        | high           | low    | 4      | namesilo                        |
+| xci.la     | available | $32.98     | $41.98        | low            | low    | 3      | namecheap                       |
+| center.la  | resell    | $1,762.54  | —             | high           | low    | 6      | Porkbun, LLC                    |
+| veer.la    | premium   | $27.99     | $27.99        | high           | low    | 4      | namesilo                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LA One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LA One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
