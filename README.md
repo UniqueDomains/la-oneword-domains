@@ -1,10 +1,10 @@
-# Available .LA One-Word Domains (22,408)
+# Available .LA One-Word Domains (24,270)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C408%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C270%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .la one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,408 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,270 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,408 domains · **Median ask:** $44.68 · **High-demand under $2,500:** 105
+**Public extract:** 1,000 rows · **Live catalog:** 24,270 domains · **Median ask:** $43.50 · **High-demand under $2,500:** 121
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/la`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
 | ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | apr.la  | available | $32.98    | $41.98        | high           | low    | 3      | namecheap                    |
-| high.la | resell    | $2,309.78 | —             | high           | low    | 4      | .LA Founders Premium Program |
-| faa.la  | available | $27.99    | $27.99        | high           | low    | 3      | namesilo                     |
-| bar.la  | resell    | —         | —             | high           | low    | 3      | .LA Premium Names Program    |
-| nrl.la  | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap                    |
 | ceo.la  | resell    | —         | —             | high           | low    | 3      | .LA Founders Premium Program |
-| rca.la  | available | $27.99    | $27.99        | high           | medium | 3      | namesilo                     |
+| efl.la  | available | $32.98    | $41.98        | high           | low    | 3      | namecheap                    |
 | crt.la  | resell    | —         | —             | high           | low    | 3      | —                            |
-| uhf.la  | available | $27.99    | $27.99        | high           | low    | 3      | namesilo                     |
+| faa.la  | available | $27.99    | $27.99        | high           | low    | 3      | namesilo                     |
 | die.la  | resell    | —         | —             | high           | low    | 3      | LA Domain Names              |
-| afrl.la | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                    |
+| kda.la  | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap                    |
 | eve.la  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, Inc.            |
-| amun.la | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                    |
+| nac.la  | available | $27.34    | $27.94        | high           | low    | 3      | porkbun                      |
 | gum.la  | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                  |
-| amyl.la | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo                     |
+| nrl.la  | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap                    |
 | imo.la  | resell    | —         | —             | high           | high   | 3      | —                            |
-| anpu.la | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                    |
+| rca.la  | available | $27.99    | $27.99        | high           | medium | 3      | namesilo                     |
 | nap.la  | resell    | —         | —             | high           | low    | 3      | LA Domain Names              |
-| auld.la | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo                     |
+| uhf.la  | available | $27.99    | $27.99        | high           | low    | 3      | namesilo                     |
 | otc.la  | resell    | —         | —             | high           | low    | 3      | LA Domain Names              |
+| afrl.la | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                    |
+| pla.la  | resell    | —         | —             | high           | low    | 3      | —                            |
+| amun.la | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                    |
+| sco.la  | resell    | —         | —             | high           | high   | 3      | —                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,408 live domains                        |
+| 1,000-row public sample | 24,270 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 105 high-demand names under $2,500         |
+| Basic exported fields   | 121 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LA One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LA One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
