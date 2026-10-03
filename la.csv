@@ -1,13 +1,16 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e8576af6-f8f8-4c6e-ba32-65167f66c88d,recommends.la,available,27.99,27.99,medium,low,10,namesilo,,,02/10/2026 03:44
 417d9eeb-9396-4290-9064-b5bded42b11c,lincoln.la,resell,,,high,medium,7,LA Domain Names,14/02/2018 09:59,14/02/2027 23:59,26/09/2026 07:14
+89ab68dc-dd01-4663-a37e-02e96f4b8462,odin.la,resell,,,high,medium,4,,,,02/10/2026 16:14
 583b9d96-77d3-4d85-a584-2a073279309b,redheaded.la,available,27.99,27.99,high,medium,9,namesilo,,,09/09/2026 12:21
 33e1f44d-451e-4995-9347-05304b612d66,bedder.la,available,27.99,27.99,medium,low,6,namesilo,,,22/09/2026 23:13
 02c68522-aa16-44ad-b6ac-66b80214db85,assessing.la,available,27.99,27.99,high,low,9,namesilo,,,02/10/2026 02:39
 1314d3ee-4378-4413-b38e-ad1b39da9fb5,sparely.la,available,27.99,27.99,medium,low,7,namesilo,,,16/09/2026 05:49
+ee5164de-bf93-4672-b359-80e35c19ec4f,cagayan.la,available,27.95,27.95,medium,low,7,dynadot,,,03/10/2026 06:20
 dacb5f7a-2c86-4099-8620-a43731028343,agrypnia.la,available,32.98,41.98,medium,low,8,namecheap,,,17/09/2026 20:02
 d1dd72fb-ce64-4c24-ab67-ae157b5e469c,protozoan.la,available,27.99,27.99,medium,low,9,namesilo,,,09/09/2026 04:12
 4d97c2d1-c5b3-4e7a-9966-a60131e4c091,conjoint.la,available,27.99,27.99,medium,low,8,namesilo,,,12/08/2026 22:05
+c4623d0d-0c0c-450f-a55f-1c782cdec218,embroidered.la,available,27.99,27.99,medium,low,11,namesilo,,,02/10/2026 22:17
 6d373d68-cc21-4391-a277-0f9ad1bb233b,jenks.la,available,27.99,27.99,medium,low,5,namesilo,,,30/09/2026 13:40
 803118a6-9f63-43d9-86d2-4604f45b6186,anorak.la,available,27.99,27.99,medium,low,6,namesilo,,,19/09/2026 11:41
 bc63c98f-429b-4253-bf89-4b4969191af6,hissing.la,available,32.98,41.98,medium,low,7,namecheap,,,02/10/2026 04:52
@@ -27,9 +30,11 @@ a9de5e97-f080-4083-8c74-e1ec1dd193e0,touchy.la,available,27.99,27.99,medium,low,
 c33fdce1-4765-4369-abf3-8519d5eaa466,syrian.la,available,27.99,27.99,high,low,6,namesilo,,,11/09/2026 06:43
 1444026a-22f0-4277-b892-c5516a7d79bf,fatigue.la,available,27.99,27.99,high,low,7,namesilo,,,25/09/2026 11:36
 47859a67-722a-42d8-9dad-e67c0efd4e30,extend.la,resell,,,high,low,6,VIPDomains.LA  Founders Program,28/05/2024 16:52,28/05/2027 23:59,30/09/2026 19:37
+9eee7783-7f7d-4342-8e28-4bf768e788b3,icrc.la,available,27.34,27.94,high,high,4,porkbun,,,02/10/2026 19:25
 465d4910-0d3d-4043-9e78-764b8a6acea9,intestines.la,available,27.95,27.95,low,low,10,dynadot,,,30/09/2026 22:51
 93877960-b3b3-4527-8f4a-1d2a98a50a2d,precocial.la,available,27.99,27.99,high,medium,9,namesilo,,,09/09/2026 01:15
 cae621e6-56b5-4285-811a-f6f43cd70f88,concoct.la,available,27.34,27.94,high,low,7,porkbun,,,30/09/2026 17:42
+4675f14b-2a86-454e-8d3d-2fa41cc803bd,constituted.la,available,27.99,27.99,medium,low,11,namesilo,,,02/10/2026 22:01
 19ffc5c1-9f58-437a-b0d3-412ddc6b7cc8,munchausen.la,available,27.99,27.99,medium,low,10,namesilo,,,22/09/2026 07:14
 8d9acd7a-fb14-41e9-9df6-9e89df308cef,licenced.la,available,27.99,27.99,medium,low,8,namesilo,,,21/09/2026 15:56
 ce62ef58-59dc-4dc1-a702-3bff430eb197,smarmy.la,available,27.99,27.99,medium,low,6,namesilo,,,11/08/2026 11:46
@@ -38,10 +43,12 @@ ce62ef58-59dc-4dc1-a702-3bff430eb197,smarmy.la,available,27.99,27.99,medium,low,
 ce126623-9b85-4cf4-8583-c2361435076d,bias.la,available,27.99,27.99,medium,low,4,namesilo,,,09/08/2026 18:35
 c346c7d9-d26c-4d2f-b91e-10cb5b98cad8,boyne.la,available,27.99,27.99,medium,low,5,namesilo,,,22/09/2026 14:51
 591c94e5-2fa7-4205-ad6c-cf3a19d57d88,sidon.la,available,27.34,27.94,high,low,5,porkbun,,,30/09/2026 18:35
+c2e8742a-fbf5-4d9a-b10c-8919294633d1,clarified.la,available,27.34,27.94,medium,low,9,porkbun,,,02/10/2026 21:44
 a9328687-fbaf-4eb2-b85f-a729284d65e8,acrid.la,available,27.99,27.99,medium,low,5,namesilo,,,
 8395fe5d-8e68-48eb-ab42-5f856154d6c8,pigeon.la,available,32.98,41.98,high,low,6,namecheap,,,28/09/2026 02:55
 06fb8f37-42c4-4df3-8cba-f31548fd8575,westerly.la,available,27.99,27.99,medium,low,8,namesilo,,,13/09/2026 10:53
 f43b68ce-afcb-48e5-a1c2-8f55e4afe4bc,dabbler.la,available,27.99,27.99,medium,low,7,namesilo,,,14/08/2026 07:42
+0584e714-6ebe-4826-a545-d648ebc1b0d5,wednesdays.la,available,27.95,27.95,high,low,10,dynadot,,,02/10/2026 21:05
 306538a0-dae4-4f0d-8642-bf2ccbd660ac,frown.la,available,27.34,27.94,high,low,5,porkbun,,,02/10/2026 04:58
 7ec65554-e5cc-4954-93ed-9ff6aba04514,charitably.la,available,27.99,27.99,medium,low,10,namesilo,,,14/09/2026 06:19
 a29e7a35-bac0-4b05-8bdb-896b0c81989a,user.la,resell,,,high,medium,4,LA Domain Names,01/02/2018 08:10,01/02/2027 23:59,26/09/2026 09:55
@@ -49,6 +56,7 @@ a29e7a35-bac0-4b05-8bdb-896b0c81989a,user.la,resell,,,high,medium,4,LA Domain Na
 62b4ab91-c969-469c-9a67-c856f3bf7629,annelid.la,available,27.99,27.99,medium,low,7,namesilo,,,
 446e376b-2e6a-4e2b-bd97-9ebbabc93c55,kirchner.la,available,27.99,27.99,medium,low,8,namesilo,,,30/09/2026 09:34
 636feb25-17d2-4db9-a625-8bd8460c63a9,crowd.la,resell,,,high,low,5,LA Domain Names,10/08/2013 01:44,10/08/2028 23:59,29/09/2026 12:13
+a5bdddb9-1884-4b05-a3ac-4c7efaacda41,stettin.la,available,27.34,27.94,medium,low,7,porkbun,,,02/10/2026 20:03
 5f42771e-68a8-4918-98e5-43eb75676b06,filmy.la,available,27.99,27.99,high,low,5,namesilo,,,12/08/2026 14:28
 72cda309-0368-4c27-bd8d-8eb3dab23996,coleridge.la,available,32.98,41.98,medium,low,9,namecheap,,,28/09/2026 09:24
 ff307aba-fdf3-445d-9915-b5ef2584de8d,macomb.la,available,27.99,27.99,medium,low,6,namesilo,,,30/09/2026 05:38
@@ -56,6 +64,8 @@ ff307aba-fdf3-445d-9915-b5ef2584de8d,macomb.la,available,27.99,27.99,medium,low,
 a405c8ed-62d4-434a-be15-5eb85c9b28e4,debased.la,available,27.99,27.99,medium,low,7,namesilo,,,
 8e9892a4-e825-4ff5-9213-ec3198b31406,mistreated.la,available,27.99,27.99,medium,low,10,namesilo,,,21/08/2026 19:35
 6be5bdc8-0ad0-43e2-912c-4a4533ee14d6,quick.la,resell,,,high,medium,5,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59,26/09/2026 08:27
+abf4538c-0023-425d-b97a-6f6d71bcc00a,hersey.la,available,27.99,27.99,medium,low,6,namesilo,,,03/10/2026 05:47
+3885d0d6-0a4d-4a94-bc56-058ec6702862,unrestricted.la,available,27.34,27.94,high,low,12,porkbun,,,02/10/2026 18:09
 9d177ab0-3039-44f2-8995-bdd9bc9a5645,retaliate.la,available,32.98,41.98,high,low,9,namecheap,,,02/10/2026 06:16
 51affdc7-aa17-4420-86ad-1ab0982e0e13,marginal.la,available,27.99,27.99,high,low,8,namesilo,,,23/09/2026 00:04
 0f40e552-c590-4496-aa03-cab94c56af26,profiles.la,resell,,,high,low,8,,,,30/09/2026 15:45
@@ -69,6 +79,7 @@ a405c8ed-62d4-434a-be15-5eb85c9b28e4,debased.la,available,27.99,27.99,medium,low
 5a3937c1-3ed2-4e3a-9a6a-cedaaad1fe37,chequered.la,available,27.99,27.99,medium,low,9,namesilo,,,12/08/2026 03:40
 f2f5a880-54ac-41e4-9699-ab63dfe30ef4,rubin.la,available,27.99,27.99,high,low,5,namesilo,,,02/10/2026 01:41
 b2fa091a-d53d-40fb-81a8-c88f3925edb3,likable.la,available,27.99,27.99,high,low,7,namesilo,,,23/08/2026 06:14
+b208eac8-334f-4a4d-961a-13b460ac5b8a,becca.la,available,27.99,27.99,high,low,5,namesilo,,,03/10/2026 05:08
 c8db0140-3741-45f3-b8ef-be4ae78343db,nonsuch.la,available,32.98,41.98,medium,low,7,namecheap,,,03/09/2026 20:15
 e46e4b77-4d45-4f5b-a708-b132ba6d5752,nlrb.la,available,27.34,27.94,medium,low,4,porkbun,,,29/09/2026 13:32
 8b59512a-a250-47b5-8663-73283548b0fb,numbered.la,available,27.34,27.94,medium,low,8,porkbun,,,29/09/2026 10:20
@@ -92,6 +103,7 @@ e4fd58e2-26a7-4b49-85d7-a5fa327b60a1,frustrated.la,available,27.99,27.99,medium,
 af89abfb-88e8-4bd6-acb2-35eebfef7476,favored.la,available,32.98,41.98,high,low,7,namecheap,,,22/09/2026 20:01
 74b6b051-296a-4359-9113-e694d044ddc6,miracle.la,resell,,,high,low,7,.LA Founders Premium Program,17/03/2016 23:55,17/03/2027 23:59,30/09/2026 04:39
 37e5c630-3687-4937-8c0e-9efcc5808559,audibly.la,available,27.99,27.99,medium,low,7,namesilo,,,13/09/2026 22:44
+7ff55ef2-cf21-4c3f-ae79-54b22920323c,scapegoat.la,available,27.95,27.95,medium,low,9,dynadot,,,02/10/2026 16:42
 6547b168-fc7d-4c3d-8d31-7600b676e66c,peril.la,available,27.99,27.99,high,low,5,namesilo,,,30/09/2026 17:11
 8644b529-fe19-47aa-9e8e-11191fb3dbe5,excellency.la,available,27.99,27.99,medium,low,10,namesilo,,,29/09/2026 00:51
 7d398579-854c-47d2-a900-6953361f0e0e,absorb.la,available,32.98,41.98,high,low,6,namecheap,,,10/09/2026 19:56
@@ -115,17 +127,22 @@ e9fb9c54-696e-47b2-b9d0-b5c8c3a16301,ablated.la,available,27.99,27.99,medium,low
 24f7351c-b727-4f6d-aab1-a35421cf3589,asiatic.la,available,27.99,27.99,medium,low,7,namesilo,,,07/08/2026 02:29
 bd3ef7d1-1a3f-48d3-bfc6-b55ed51f5c0a,suny.la,available,27.99,27.99,medium,low,4,namesilo,,,28/09/2026 16:53
 6c5e56d4-fe26-4bec-b0ca-ea0004aeae5f,originated.la,available,27.99,27.99,medium,low,10,namesilo,,,29/09/2026 23:39
+8bf6a4c0-c6f0-4c0a-a780-9c6a0e5c0073,charlevoix.la,available,27.34,27.94,high,low,10,porkbun,,,03/10/2026 06:00
+2b14d143-0bba-434d-93bc-d8729fa75abb,riverton.la,available,32.98,41.98,high,low,8,namecheap,,,02/10/2026 20:22
 08d508f7-1bd0-4b29-8437-c81ed5dff35e,recess.la,available,27.95,27.95,medium,low,6,dynadot,,,28/09/2026 13:53
 8a8682a8-0621-45e9-8e54-94d7a808ecf6,apologia.la,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 18:44
 7b182cbd-448c-454f-a3c4-5bcbacd10b01,dwight.la,resell,,,medium,low,6,,,,28/09/2026 07:54
 55130a0e-fcd4-408d-84a2-2c30ad7f28d5,virginia.la,available,32.98,41.98,high,low,8,namecheap,,,25/09/2026 09:38
 48c387a2-4e1f-4ea4-a28c-f7d8a89cdeac,caisson.la,available,32.98,41.98,medium,low,7,namecheap,,,18/09/2026 22:17
 232f7e55-8cbf-42e7-9288-8b416f297f6d,dizzy.la,available,27.99,27.99,medium,low,5,namesilo,,,
+c48236ed-7140-4088-89ab-7dd85e186731,renard.la,available,27.99,27.99,high,low,6,namesilo,,,02/10/2026 10:18
+456c1f97-54c7-4352-9945-53ebb44af582,kovacs.la,available,27.99,27.99,medium,low,6,namesilo,,,02/10/2026 20:40
 d0c55924-50cb-4333-90ca-b2d7ce5778ad,attainable.la,available,32.98,41.98,high,low,10,namecheap,,,19/09/2026 04:15
 e601e825-3d8e-4df1-9e1d-1ffb4855585b,dusky.la,available,32.98,41.98,high,low,5,namecheap,,,14/08/2026 21:32
 935baef8-be55-4c7c-b2f7-c8f499c58d1a,pva.la,available,27.95,27.95,medium,low,3,dynadot,,,30/09/2026 18:22
+68834c56-792a-45a8-b61e-b2bcac24d180,halifax.la,available,27.99,27.99,high,medium,7,namesilo,,,03/10/2026 01:07
 c5628071-53cf-4582-a0cb-599894aa6ba0,stuck.la,available,49.99,49.99,medium,low,5,godaddy,,,28/09/2026 01:42
-e692e355-ea3e-4324-b330-70c01dbe08e6,wintertime.la,available,27.99,27.99,high,low,11,namesilo,,,
+e692e355-ea3e-4324-b330-70c01dbe08e6,wintertime.la,available,27.95,27.95,high,low,11,dynadot,,,02/10/2026 19:07
 3ec7b84e-ef3a-47f9-8895-614615dd32b5,analyzable.la,available,27.99,27.99,medium,low,10,namesilo,,,
 8146565b-fbe1-4349-a0a0-84f81d2b43bc,dactylic.la,available,39,46.99,medium,low,8,name.com,,,13/08/2026 15:27
 e0b38b40-c0c6-47a6-94aa-6be3ce249219,advantage.la,resell,,,high,low,9,LA Domain Names,23/02/2018 01:00,23/02/2027 23:59,28/09/2026 18:56
@@ -157,8 +174,10 @@ c9a214de-8ce4-4507-899c-4d641c32317d,honest.la,resell,,,high,low,6,LA Domain Nam
 7a88f7f7-8c5c-4505-990b-85b51a2ce506,tally.la,resell,,,high,medium,5,,,,28/09/2026 18:48
 11fb3b68-cf30-4b6f-8465-64232cb5e79b,valet.la,resell,,,high,low,5,,,,29/09/2026 19:00
 00eb8484-b403-4357-a8dd-44c863d81ad5,cacophonic.la,available,27.99,27.99,low,low,10,namesilo,,,11/08/2026 12:33
+348bcb09-8985-4102-b33c-d54acc8dc0c2,spoons.la,available,27.99,27.99,high,low,6,namesilo,,,02/10/2026 10:24
 4fc6b630-8763-4f52-89c1-a1cce687276b,healthful.la,available,27.99,27.99,high,low,9,namesilo,,,21/08/2026 02:02
 0d562c23-9c4b-41fb-83e5-42d90045386e,susanne.la,available,27.99,27.99,high,low,7,namesilo,,,30/09/2026 13:21
+dc4f3a91-ac3a-452f-a3a8-870cfdc7b9f9,shilling.la,available,27.99,27.99,medium,low,8,namesilo,,,02/10/2026 23:37
 fa07d2ac-cb7b-4a28-bf7a-1a9a038a814a,freiburg.la,available,27.99,27.99,high,low,8,namesilo,,,28/09/2026 03:48
 89fba8b1-3ebb-47f6-83c0-6bb32d9f4bc5,propertied.la,available,27.99,27.99,medium,low,10,namesilo,,,09/09/2026 03:34
 bbc2a12e-fdfa-493b-939e-cde3783c5d50,invariant.la,available,27.99,27.99,high,low,9,namesilo,,,12/08/2026 22:54
@@ -169,15 +188,18 @@ b63eafe2-5389-4983-a1e9-2117bb48d4fd,biface.la,available,32.98,41.98,medium,low,
 74a352d3-5b6f-4826-992b-352b8afe0e77,mathematical.la,available,32.98,41.98,medium,low,12,namecheap,,,28/09/2026 21:06
 5389f734-7869-4bd8-87c8-106ab28f19de,mata.la,resell,,,medium,low,4,,,,28/09/2026 21:09
 6a607f67-bf47-4af0-b02a-4aed4c3ea78e,ebony.la,available,27.99,27.99,high,low,5,namesilo,,,14/08/2026 23:09
+63f001da-41f9-464b-964d-a16bff93e124,sondheim.la,available,27.99,27.99,high,low,8,namesilo,,,03/10/2026 02:09
 17b5c560-e44d-4b1e-bfea-28f799103de7,subdued.la,available,27.99,27.99,medium,low,7,namesilo,,,14/08/2026 07:54
 e7dbd04d-9ccb-438e-b061-4ccb4ae0f128,dias.la,resell,,,high,low,4,LA Domain Names,12/01/2017 14:33,12/01/2027 23:59,26/09/2026 05:33
 4a82b03e-08a6-4c61-88f3-156c86932863,unloose.la,available,27.99,27.99,medium,low,7,namesilo,,,18/08/2026 14:34
 b5354049-6240-453d-9495-988ff088d85a,adopter.la,available,32.98,41.98,medium,low,7,namecheap,,,17/09/2026 09:39
 3c8b1221-6716-4439-b107-4944b0767025,kindled.la,available,27.99,27.99,medium,low,7,namesilo,,,17/08/2026 09:33
 8dc5f7c9-90b8-4d34-a05f-d78a08717f73,avery.la,available,27.99,27.99,high,low,5,namesilo,,,25/09/2026 15:31
-16239af3-98af-47c0-a1e7-fd069994a145,worked.la,available,27.99,27.99,high,low,6,namesilo,,,
+16239af3-98af-47c0-a1e7-fd069994a145,worked.la,available,27.99,27.99,high,low,6,namesilo,,,03/10/2026 04:37
+69dc6899-85d8-4b46-8d83-13e237039090,polarity.la,available,27.99,27.99,high,low,8,namesilo,,,03/10/2026 01:39
 43371018-b8b2-472e-a2b8-ffb06223e409,nrl.la,available,32.98,41.98,medium,low,3,namecheap,,,28/09/2026 10:31
 50e9dcad-662e-4bb7-828a-0e0ef08851b4,notebooks.la,available,32.98,41.98,medium,low,9,namecheap,,,20/09/2026 11:51
+e647f884-14b3-405e-b587-097dd81d682a,thrips.la,available,27.99,27.99,medium,low,6,namesilo,,,02/10/2026 16:58
 1697eb3f-1a61-4f8e-b4c8-d3ed4f957640,consul.la,available,27.99,27.99,high,low,6,namesilo,,,24/09/2026 17:37
 17f68a15-9a12-48d6-8ede-739737425371,homer.la,available,27.99,27.99,high,low,5,namesilo,,,30/09/2026 17:38
 f2d1e9eb-a93c-4803-8dfa-3942e42011de,ungrateful.la,available,27.99,27.99,medium,low,10,namesilo,,,11/09/2026 12:26
@@ -205,6 +227,7 @@ d157ec64-b5ea-403a-8778-8832416be9d5,edirne.la,available,27.99,27.99,medium,low,
 96287bff-0c8b-4191-a045-c73c2d15f10a,twenty.la,available,27.99,27.99,high,low,6,namesilo,,,21/09/2026 12:24
 8f295418-b1e0-497e-ab37-2754ac4a95d8,kane.la,available,32.98,41.98,high,low,4,namecheap,,,27/09/2026 07:59
 22dd4971-c7cd-454a-b471-b424eed27256,anasarca.la,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 03:14
+ebaaf8d4-d362-4823-a635-150d50913dbf,petaluma.la,available,27.99,27.99,high,low,8,namesilo,,,03/10/2026 06:18
 d3f8f90e-4a62-451c-b6e3-cd89f1d434b8,edmond.la,available,39,46.99,medium,low,6,name.com,,,27/09/2026 01:39
 8f0233bb-5f40-4408-814d-c9e14b5522ed,destitute.la,available,27.99,27.99,medium,low,9,namesilo,,,14/08/2026 04:32
 78a15b3b-eb75-455d-857a-dd5a36068d91,higgins.la,available,27.99,27.99,high,low,7,namesilo,,,25/09/2026 13:27
@@ -223,6 +246,7 @@ ae29f538-c42c-4667-9f89-63a32dd0acf1,sevastopol.la,available,32.98,41.98,medium,
 221e4c04-256e-4f76-b165-3a68b28e2364,becky.la,resell,,,high,low,5,,,,28/09/2026 00:14
 f5b88b17-68fd-4f11-9301-80ea65dd3cd4,grandkid.la,available,27.99,27.99,high,low,8,namesilo,,,01/10/2026 07:59
 b472f81d-2747-438e-93f1-b7af2d929b5c,upstanding.la,available,27.99,27.99,high,low,10,namesilo,,,12/09/2026 23:22
+26c8b800-a667-4d8a-8e55-02f82936b361,ticker.la,resell,,,high,low,6,,,,02/10/2026 16:51
 442a32e3-71dc-4cd1-8c3b-10d5d7eea692,bigotry.la,available,32.98,41.98,medium,low,7,namecheap,,,23/09/2026 15:23
 7a46ed03-132f-43c2-9fa2-de2be37b35d9,olympic.la,resell,,,high,high,7,.LA Premium Names Program,09/04/2016 01:19,09/04/2027 23:59,26/09/2026 07:53
 9e0bbcbf-1073-42d1-a990-9e97d57c57e2,clumsy.la,available,27.99,27.99,medium,low,6,namesilo,,,23/09/2026 11:20
@@ -237,8 +261,10 @@ fda293dd-18a9-4afc-a07b-fea17a49a57b,writing.la,resell,,,high,low,7,VIPDomains.L
 f686706c-0409-4434-b706-289a34ab5df8,encircled.la,available,27.99,27.99,medium,low,9,namesilo,,,16/08/2026 22:19
 88d58455-db31-4e7c-98c1-97cc4015bf52,swart.la,available,27.99,27.99,low,low,5,namesilo,,,11/09/2026 05:22
 a95861ae-834b-4009-802e-5ee2002d2eb9,bamboo.la,resell,,,high,medium,6,LA Domain Names,05/04/2019 23:46,05/04/2027 23:59,26/09/2026 04:14
+de350888-c784-4e5e-98d3-07f68ad665b5,pellets.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 21:59
 4718538a-cc94-4902-a6eb-0f23bb5741f6,tipped.la,available,27.99,27.99,high,low,6,namesilo,,,07/08/2026 13:33
 fe60af77-87a5-4f7c-9dee-038efcc124a6,corinthian.la,available,27.99,27.99,high,low,10,namesilo,,,13/08/2026 01:16
+72755f24-c132-4328-9b4a-a84825164232,yoder.la,available,27.99,27.99,medium,low,5,namesilo,,,02/10/2026 12:22
 79a84700-078a-4b6a-9213-3555f929bb1e,appetence.la,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 20:44
 5a767121-6c7f-4ff2-a4f4-7863081f155f,entirely.la,available,27.99,27.99,high,low,8,namesilo,,,
 cbc3797b-810f-4604-81fe-19b8408ad3b2,compliant.la,available,27.99,27.99,high,low,9,namesilo,,,23/09/2026 17:44
@@ -246,11 +272,13 @@ cbc3797b-810f-4604-81fe-19b8408ad3b2,compliant.la,available,27.99,27.99,high,low
 c6233d89-a684-4620-a084-73c8d9869fce,hedonistic.la,available,27.99,27.99,medium,low,10,namesilo,,,21/08/2026 05:56
 fbf61bf7-a5e9-40bb-ac02-a3b252c0a46d,attar.la,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 19:21
 9a58cebb-8d84-4ecf-b5ce-1e90462d94c9,wastebin.la,available,32.98,41.98,medium,low,8,namecheap,,,20/09/2026 13:38
-bfbb538c-e065-422a-9037-a4fb97d78822,industry.la,resell,,,high,medium,8,LA Domain Names,30/04/2021 02:00,30/04/2027 23:59,30/09/2026 15:58
+bfbb538c-e065-422a-9037-a4fb97d78822,industry.la,resell,,,high,medium,8,LA Domain Names,30/04/2021 02:00,30/04/2027 23:59,02/10/2026 18:53
 fecbc5ab-7726-4e8c-beb3-03f4332ebc92,tearful.la,available,27.99,27.99,medium,low,7,namesilo,,,14/08/2026 15:35
 2ec127a8-0a77-44b2-a2fc-2d41a8bb3b20,nobelium.la,available,27.99,27.99,medium,low,8,namesilo,,,20/09/2026 21:58
 27a62382-62a8-4f4e-993c-be61fa6557c5,perinatal.la,available,27.99,27.99,medium,low,9,namesilo,,,08/09/2026 17:07
+bade74b5-273d-4494-b612-32c4d1183c8c,giggling.la,available,27.34,27.94,medium,low,8,porkbun,,,03/10/2026 03:06
 82cd1b3a-c416-485b-9326-037e3c2a3f07,commonweal.la,available,27.99,27.99,high,low,11,namesilo,,,
+ad9e235c-870d-4b73-9f01-dc8b6b7cb9ac,pajamas.la,available,27.95,27.95,high,low,7,dynadot,,,02/10/2026 21:16
 648936c2-ff12-46da-bc62-ee1b5ff77394,apostles.la,available,27.99,27.99,medium,low,8,namesilo,,,01/10/2026 15:28
 eeb8b545-93fe-4740-84dc-72729209973a,lunatic.la,available,39,46.99,medium,low,7,name.com,,,13/08/2026 17:47
 09715aa7-7c6d-4118-80e4-2bd417b7bbec,gothic.la,resell,,,high,low,6,LA Domain Names,01/04/2025 08:23,01/04/2027 23:59,26/09/2026 06:27
@@ -269,8 +297,11 @@ eb753bec-d3f5-437d-ade6-d54eb5c67dc4,tempered.la,available,27.99,27.99,high,low,
 12e46ec9-189b-40f0-9242-a326d013acd8,thornton.la,resell,,,high,low,8,VIPDomains.LA  Founders Program,19/11/2015 00:26,19/11/2026 23:59,26/09/2026 09:36
 4572c6b3-2acf-43d3-82dc-0b4971cdd615,loeb.la,available,27.95,27.95,high,low,4,dynadot,,,28/09/2026 02:11
 5231508e-70a3-457c-a32e-aef9a8c1eb35,lump.la,available,27.99,27.99,medium,low,4,namesilo,,,29/09/2026 00:25
+6956948a-4a51-448a-a9cd-49c06be4ebd8,advocated.la,available,27.95,27.95,medium,low,9,dynadot,,,02/10/2026 21:39
+29e17208-437b-4775-8c62-83f2a77d29d9,southend.la,available,27.99,27.99,high,low,8,namesilo,,,02/10/2026 10:49
 110a365d-4c42-427f-a949-f997d73783c9,loneliness.la,available,27.99,27.99,high,low,10,namesilo,,,18/09/2026 13:13
 4932fd24-96eb-4e8f-ab7a-9beaa6119bf2,risked.la,available,27.99,27.99,medium,low,6,namesilo,,,30/09/2026 00:38
+12311c62-0a61-4b6e-bd2f-c0d0c8751753,cassini.la,available,27.95,27.95,high,low,7,dynadot,,,02/10/2026 20:31
 01b43f47-19e3-4bb3-80a7-c3e963569ab8,deformed.la,available,27.99,27.99,medium,low,8,namesilo,,,13/08/2026 23:37
 d924b410-d014-4af9-be05-2761e023312f,teaspoons.la,available,27.99,27.99,medium,low,9,namesilo,,,19/09/2026 22:48
 ffa7e74f-4182-45f5-86ab-aeaf39605a74,paine.la,available,27.99,27.99,medium,low,5,namesilo,,,29/09/2026 13:38
@@ -296,9 +327,11 @@ acdf2845-8510-4fbd-9daa-259b12eaa99c,substantial.la,available,27.99,27.99,high,l
 53279688-5d50-49b1-8f17-25ba5e3f99b6,phonic.la,available,32.98,41.98,medium,low,6,namecheap,,,08/09/2026 19:06
 f255745f-310d-466f-b323-150639f111b0,myotic.la,available,27.99,27.99,medium,low,6,namesilo,,,25/08/2026 01:02
 155e3994-204d-483b-a18f-579c028ce343,ackerman.la,available,27.95,27.95,medium,low,8,dynadot,,,28/09/2026 18:14
+9ae023d7-042c-47aa-a817-a280f30b38cc,rosemont.la,available,27.95,27.95,high,low,8,dynadot,,,02/10/2026 20:54
 e0b1e976-44db-4500-8191-4d88927e58b2,derriere.la,available,27.99,27.99,low,low,8,namesilo,,,09/08/2026 11:55
 f88c80f9-47c3-46ed-8db6-fd314e4282dc,fleming.la,resell,,,high,low,7,VIPDomains.LA  Founders Program,27/08/2020 19:30,27/08/2027 23:59,26/09/2026 06:08
 ecb5db90-01ad-419d-a69b-3d2f14b6a5c1,argonon.la,available,32.98,41.98,medium,low,7,namecheap,,,20/09/2026 04:42
+5a15d236-461c-4470-9eb1-97520d52ce88,eck.la,available,27.99,27.99,medium,low,3,namesilo,,,02/10/2026 14:57
 f6b06358-8bd9-4cba-ae7d-9e60cd52dd43,industrialize.la,available,27.99,27.99,medium,low,13,namesilo,,,01/10/2026 08:51
 48558b85-9074-4627-a33b-60ecc1e157a2,sympathy.la,available,27.95,27.95,high,low,8,dynadot,,,29/09/2026 19:11
 5a326f80-24cb-497f-88d9-016785a7efc5,aimlessly.la,available,32.98,41.98,medium,low,9,namecheap,,,13/09/2026 18:28
@@ -313,6 +346,7 @@ d1e203c2-a0eb-4c81-bd43-83dd193467c6,annulated.la,available,27.99,27.99,medium,l
 63d7135f-5743-478e-8203-991170b98c30,wandered.la,available,27.99,27.99,medium,low,8,namesilo,,,18/09/2026 02:36
 d749a82c-ef43-4805-a6c7-76ae52fb048c,ssi.la,resell,,,high,low,3,.LA Premium Names Program,22/04/2016 08:23,22/04/2027 23:59,01/10/2026 18:32
 b91b0788-8a82-433a-88a0-31f294db0748,vintage.la,resell,,,high,low,7,,,,28/09/2026 20:39
+46672459-15b5-4797-91a1-62e4854c6a4e,swaying.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 12:08
 bc154f6a-9ee7-4109-8163-e8f851f1e26f,disputes.la,available,27.99,27.99,medium,low,8,namesilo,,,01/10/2026 17:25
 10ecba79-7bb6-40bc-b2af-a338afcdf376,plummet.la,available,27.99,27.99,medium,low,7,namesilo,,,08/09/2026 21:42
 40863b6f-433a-49d8-8088-836b4b086e37,carmel.la,resell,,,high,low,6,,,,01/10/2026 08:48
@@ -326,6 +360,7 @@ a076d9dd-27ed-410a-a433-418542074155,croat.la,available,27.99,27.99,medium,low,5
 f8b8298f-92ee-4163-981f-b4d768ed97db,holdup.la,available,27.99,27.99,medium,low,6,namesilo,,,20/09/2026 06:37
 f8239fd5-775f-4576-aa34-376c46a3a224,chamomile.la,available,27.99,27.99,high,low,9,namesilo,,,19/09/2026 13:01
 6e673421-cde1-4c92-9b0a-4586faad9ac8,hybrids.la,resell,,,medium,low,7,,,,30/09/2026 14:39
+29dfa2f7-8aee-402c-986e-68deef4e9cab,reit.la,available,27.99,27.99,high,low,4,namesilo,,,02/10/2026 16:30
 6a4cadbe-11b6-4f75-ba4f-7937c92b0ff2,conduit.la,resell,,,high,low,7,VIPDomains.LA  Founders Program,03/04/2024 13:14,03/04/2027 23:59,26/09/2026 05:11
 f56f246a-2a30-47cb-9ab0-bfecc7445255,handicap.la,available,32.98,41.98,high,low,8,namecheap,,,24/09/2026 07:39
 748593d3-b34f-42fe-aff6-4f91d619192b,challenges.la,available,27.99,27.99,medium,low,10,namesilo,,,29/09/2026 11:27
@@ -353,7 +388,9 @@ bb0cc7a5-00fa-4ddb-9d4b-ffe766e5062b,mahon.la,available,32.98,41.98,high,low,5,n
 b0e73d08-704f-4dba-8f0c-66e3de6b88cc,honduran.la,available,27.99,27.99,high,low,8,namesilo,,,21/08/2026 13:17
 b93ab456-391b-44c7-a382-8d200d84f484,prefixed.la,available,27.99,27.99,medium,low,8,namesilo,,,30/09/2026 23:59
 10e0746a-48a8-457a-be11-178323479c98,notification.la,available,27.99,27.99,high,low,12,namesilo,,,30/09/2026 06:07
+18e7cb92-00d2-42a4-ac17-d615ff123d2d,crutch.la,available,27.99,27.99,high,low,6,namesilo,,,03/10/2026 00:22
 45fe2d05-c08f-4ead-8f01-8c3a21540609,presto.la,resell,,,high,medium,6,LA Domain Names,14/05/2021 08:32,14/05/2027 23:59,26/09/2026 08:18
+d9ad3215-8596-4a2d-bb1e-a01e2bdc5076,cursing.la,available,27.99,27.99,medium,low,7,namesilo,,,03/10/2026 03:02
 28506fc1-7ae4-47d9-b989-f4d6bdf6c401,anaphase.la,available,27.99,27.99,medium,low,8,namesilo,,,19/09/2026 02:09
 e4b74d96-63b1-4e0a-b20b-9d283731d826,basil.la,available,27.99,27.99,high,low,5,namesilo,,,22/09/2026 10:43
 ce1e307c-8560-4159-89f5-26b0707a5921,offering.la,available,32.98,41.98,high,low,8,namecheap,,,25/09/2026 09:37
@@ -362,6 +399,8 @@ f28fe52a-f508-4a7f-8cb9-e9e0dfe72339,manifested.la,available,27.99,27.99,medium,
 39a8ee6c-666a-496c-862a-bdafe3d73c74,mussolini.la,available,32.98,41.98,medium,low,9,namecheap,,,23/09/2026 08:12
 d64e2d6b-f779-4d04-b0f5-11c174b50611,igneous.la,available,32.98,41.98,medium,low,7,namecheap,,,21/08/2026 18:16
 5a8bf1af-591d-4cfb-93d4-9e9129893af6,wolverhampton.la,available,27.99,27.99,medium,low,13,namesilo,,,29/09/2026 21:58
+287a0ffe-7554-4887-87f8-c494f44c21ff,expenditure.la,available,27.34,27.94,high,low,11,porkbun,,,02/10/2026 11:07
+2114e74b-f938-4e1e-913a-354291ee713e,imperialist.la,available,32.98,41.98,medium,low,11,namecheap,,,02/10/2026 17:57
 1c49aaed-f301-42f6-b9cf-4e33b68e59d4,azonic.la,available,27.99,27.99,medium,low,6,namesilo,,,08/08/2026 02:32
 46633dc2-7f98-4c65-b013-17f95e7de9db,spiral.la,resell,,,high,low,6,VIPDomains.LA  Founders Program,25/07/2025 01:09,25/07/2027 23:59,26/09/2026 09:13
 98e1dbce-7444-4d88-8cb9-9e3aa6d40193,ravens.la,available,27.99,27.99,medium,low,6,namesilo,,,30/09/2026 07:01
@@ -391,6 +430,7 @@ c4f069bf-13ee-46a5-abe6-e7b113af7ee5,epileptic.la,available,27.99,27.99,medium,l
 78c40451-49d4-4081-8410-53e8ba617733,aegina.la,available,27.99,27.99,medium,low,6,namesilo,,,17/09/2026 12:15
 3a8b7c9a-3396-4d3a-9fa5-c971dbf2e263,andros.la,available,27.34,27.94,high,low,6,porkbun,,,30/09/2026 20:49
 d5dedfad-01d4-48e9-8b7a-6a58e0abd237,pumpkin.la,resell,,,high,low,7,.LA Premium Names Program,20/02/2024 13:36,20/02/2027 23:59,26/09/2026 08:25
+8be030dc-0da1-4aae-9d49-9c7378f2d01c,dagestan.la,available,27.99,27.99,medium,low,8,namesilo,,,02/10/2026 08:53
 a0edbac9-093d-487d-922e-f623dd4b9085,idyl.la,available,27.99,27.99,high,low,4,namesilo,,,08/09/2026 10:13
 57b6e9e9-554a-414c-987c-5786ce40aa69,shouting.la,available,27.99,27.99,medium,low,8,namesilo,,,12/08/2026 03:49
 1b802b9b-fae4-4478-b707-5bc92ac4fec3,banking.la,resell,,,high,low,7,LA Domain Names,05/06/2023 08:46,05/06/2027 23:59,29/09/2026 01:02
@@ -405,16 +445,21 @@ b7c1ac3d-850d-44a3-a0c0-680bd2f798ed,imitate.la,available,27.95,27.95,high,low,7
 07774451-f242-4d58-bcfd-2db3b857c545,marat.la,available,27.99,27.99,high,low,5,namesilo,,,02/10/2026 05:28
 e18060ab-10c1-40f4-b507-99aaf89457ef,momentum.la,resell,,,high,medium,8,LA Domain Names,22/02/2021 02:01,22/02/2027 23:59,30/09/2026 04:55
 b6674922-6a1d-4d44-8052-af3ff15a2210,https.la,resell,,,high,high,5,,,,30/09/2026 20:53
+1f505fc9-1f68-4926-b642-7bc838acc1fd,ris.la,available,32.98,41.98,high,low,3,namecheap,,,02/10/2026 19:00
 0d241b1f-11c5-4645-b684-62e17da3bf47,auld.la,available,27.99,27.99,medium,low,4,namesilo,,,07/08/2026 17:21
 aea3eed4-1688-491d-a7bc-d83b060d91b7,sprinkled.la,available,49.99,49.99,medium,low,9,godaddy,,,01/10/2026 00:34
 6f9349b4-8f33-445f-875a-3db5bc03c84f,economically.la,available,27.95,27.95,medium,low,12,dynadot,,,01/10/2026 20:26
 3574569d-994a-4f69-a50f-4b074cdf8d91,alcoholics.la,available,27.99,27.99,low,low,10,namesilo,,,18/09/2026 22:27
 81f2b39d-01e6-451b-9941-fe96a1e0bf89,williamsport.la,available,27.99,27.99,medium,low,12,namesilo,,,29/09/2026 15:53
+5a990829-c1ca-456d-9b07-049ff41efeaf,carrara.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 11:43
 6ffc8578-d37b-4203-84e8-f413e9a56257,trusting.la,available,27.99,27.99,high,low,8,namesilo,,,11/09/2026 20:47
 d6396b3f-b737-427a-9346-7df68ecd70db,blackpoll.la,available,27.99,27.99,medium,low,9,namesilo,,,24/09/2026 02:54
 5b0773a8-5491-4916-88b2-ec101fd96bf6,tightly.la,available,27.99,27.99,medium,low,7,namesilo,,,16/09/2026 09:06
+50670148-4b14-4d91-9fd4-56205cd9f671,trott.la,available,27.95,27.95,medium,low,5,dynadot,,,03/10/2026 05:38
+23f5c64e-1294-4665-a03c-5879a76384b2,dentists.la,resell,,,medium,low,8,,,,02/10/2026 23:29
 eb21ab96-0651-45cd-951c-9e68db9838bf,placed.la,available,27.99,27.99,high,low,6,namesilo,,,25/09/2026 14:13
 e809f407-5495-4e2a-bf7a-df856f1bfc95,alcibiades.la,available,27.99,27.99,medium,low,10,namesilo,,,18/09/2026 04:00
+1c990538-be99-4f15-b5a4-db574d066511,rolla.la,available,27.95,27.95,medium,low,5,dynadot,,,02/10/2026 10:01
 cf419de1-9c8c-419b-afc6-caecd981cc9c,extensile.la,available,32.98,41.98,medium,low,9,namecheap,,,17/08/2026 19:01
 d24583ec-d63b-4554-b437-e461ec6d60fa,peal.la,available,32.98,41.98,medium,low,4,namecheap,,,09/09/2026 18:22
 45ba8212-f72d-4cb6-979d-fa1260883520,apoplexy.la,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 19:09
@@ -437,7 +482,7 @@ eb6c757c-66a5-4380-a623-8346a2c7261b,carboxyl.la,available,27.99,27.99,medium,lo
 d9f9962b-f0db-4151-9c06-0b4a1b654a92,plea.la,available,27.99,27.99,high,low,4,namesilo,,,28/09/2026 06:36
 200a070c-a192-49a2-8fc5-977ef61c6576,beograd.la,available,27.99,27.99,high,low,7,namesilo,,,23/09/2026 05:12
 b9a56a17-7f88-4e00-b3cb-7103c31c20cd,babbitt.la,available,27.99,27.99,medium,low,7,namesilo,,,21/09/2026 12:17
-8fae7f96-e864-4f0d-a9ea-eb890b37755e,guys.la,resell,,,high,low,4,LA Domain Names,18/12/2014 23:41,18/12/2026 23:59,26/09/2026 06:32
+8fae7f96-e864-4f0d-a9ea-eb890b37755e,guys.la,resell,,,high,low,4,LA Domain Names,18/12/2014 23:41,18/12/2026 23:59,02/10/2026 13:18
 902c635a-7748-45c3-8861-d1748d5e889c,rhenish.la,available,27.99,27.99,medium,low,7,namesilo,,,09/09/2026 16:29
 7300509a-4616-412e-b029-af390a13c45b,blocking.la,available,27.95,27.95,high,low,8,dynadot,,,28/09/2026 00:53
 fc33df1d-a60c-469b-8873-ba804c30819c,proximate.la,available,27.99,27.99,high,low,9,namesilo,,,09/09/2026 04:46
@@ -454,6 +499,8 @@ b139b0a1-ca23-40f3-b8c8-1b41a20f3f2f,johnstown.la,available,27.99,27.99,medium,l
 a8361f0b-1480-48ae-9aea-32668f49a598,activeness.la,available,32.98,41.98,medium,low,10,namecheap,,,17/09/2026 05:11
 e7359810-5f88-4124-9713-c48c663a3871,unassuming.la,available,32.98,41.98,high,low,10,namecheap,,,27/09/2026 13:26
 9a726a71-cba1-4e0a-8326-01f33f0b0d53,estimated.la,available,27.99,27.99,medium,low,9,namesilo,,,17/09/2026 13:47
+87372164-540e-4969-bc6c-252f05cbe623,derry.la,available,27.99,27.99,high,low,5,namesilo,,,02/10/2026 22:10
+4b29b80a-f441-46b1-a95e-6d1053c181e9,commoner.la,available,32.98,41.98,high,low,8,namecheap,,,03/10/2026 00:04
 8e5daf1d-7a18-439e-bed2-c700baed3f31,demonic.la,available,27.99,27.99,medium,low,7,namesilo,,,14/08/2026 01:26
 8e14dc69-acd9-443b-932a-8acbc5e91234,banishment.la,available,27.99,27.99,medium,low,10,namesilo,,,22/09/2026 02:06
 bb74d64a-da00-4f6f-a223-e89c9f38684d,precise.la,resell,,,high,low,7,LA Domain Names,31/12/2025 08:04,31/12/2026 23:59,27/09/2026 04:53
@@ -479,17 +526,20 @@ bc615226-19ed-49a1-b6d1-498d6d465a98,diderot.la,available,27.99,27.99,high,low,7
 feaad1d2-929c-4182-a720-bec2d4af3e39,sedation.la,available,27.99,27.99,medium,low,8,namesilo,,,01/10/2026 01:49
 5fe3483b-b2b6-4861-9254-8f930e7b6617,madeleine.la,available,27.99,27.99,high,low,9,namesilo,,,29/09/2026 14:18
 27b1835e-1109-4fc6-9aab-733803dd0ef8,susurrant.la,available,27.99,27.99,medium,low,9,namesilo,,,03/09/2026 11:08
+fc3ac438-d0d8-42dc-ac9f-eda07debf4f8,intruders.la,available,27.99,27.99,medium,low,9,namesilo,,,02/10/2026 23:29
 a1deb341-bb02-4381-8936-b8f2e9db990a,manning.la,resell,,,high,low,7,,,,02/10/2026 00:34
 224513a6-cf13-42f9-9be9-844ccc9467b3,slippery.la,available,27.99,27.99,medium,low,8,namesilo,,,10/09/2026 11:01
 c54c5037-948b-4d84-9a85-85f1d70b641b,traveled.la,available,27.99,27.99,high,low,8,namesilo,,,28/09/2026 09:30
 6d3fc633-0ab9-4d83-a732-c85a868db69c,apes.la,resell,,,medium,low,4,,,,29/09/2026 04:59
 bb7ed6b9-1f8f-4352-9179-4d58da11c34e,bases.la,available,32.98,41.98,medium,low,5,namecheap,,,17/09/2026 21:42
+15bfac16-f726-4a2b-8591-a1fb293bd22b,cox.la,resell,,,high,low,3,,,,03/10/2026 00:19
 94875027-ecfb-4235-a574-a040adbbb13f,unmarried.la,available,27.99,27.99,medium,low,9,namesilo,,,12/09/2026 15:26
 43232a44-e1e8-479f-9087-65005583f4c5,clathrate.la,available,27.99,27.99,medium,low,9,namesilo,,,11/08/2026 16:23
 c7863694-5f27-4422-81ac-99c8f7d54550,mughal.la,available,32.98,41.98,high,low,6,namecheap,,,28/09/2026 21:33
 14f00e68-ca6c-45d9-a347-87d1de8b2d6f,pamper.la,available,27.99,27.99,high,low,6,namesilo,,,29/09/2026 00:06
 d1abd8b0-4a9c-43b3-b5ef-99c9e9229404,greet.la,available,27.34,27.94,high,low,5,porkbun,,,30/09/2026 20:06
 47abe083-e8f5-4cc0-b9ec-364c9bdca552,angst.la,available,27.99,27.99,medium,low,5,namesilo,,,19/09/2026 07:24
+03785fd5-ff30-46fc-af42-837f64134ac2,deptford.la,available,32.98,41.98,medium,low,8,namecheap,,,02/10/2026 10:48
 028900be-99ec-4e59-8473-91daccb67bb1,temptable.la,available,27.99,27.99,medium,low,9,namesilo,,,11/09/2026 11:04
 e5e10db5-d09a-4e72-8f92-9b367dd7a5fc,unpowered.la,available,27.99,27.99,medium,low,9,namesilo,,,12/09/2026 17:18
 7e851a33-341d-4b75-ad5b-e24757e3a1e2,continually.la,available,27.99,27.99,medium,low,11,namesilo,,,01/10/2026 13:36
@@ -504,12 +554,14 @@ f0d2e634-2416-4d5a-84a1-15cfb28b6ced,convincing.la,available,27.99,27.99,high,lo
 60c0eefe-318d-406f-9b01-767f1b67ab73,inexpensive.la,resell,,,high,low,11,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2027 23:59,01/10/2026 01:44
 d5917a60-4274-4687-9be0-780e3da16405,brentford.la,available,27.99,27.99,medium,low,9,namesilo,,,30/09/2026 13:52
 445e149c-13aa-4075-86de-a2fd545e3e7b,malaysian.la,available,27.99,27.99,high,low,9,namesilo,,,24/08/2026 13:46
+4da19b96-e13b-4485-b15f-e5732ba97228,boils.la,available,27.99,27.99,low,low,5,namesilo,,,02/10/2026 22:15
 6f203813-c50b-4b3e-9f4b-967020c49e5b,laminal.la,available,32.98,41.98,medium,low,7,namecheap,,,22/08/2026 19:09
 83cc00cb-130c-4f03-a1f0-c2281f6114b0,concisely.la,available,27.99,27.99,medium,low,9,namesilo,,,14/09/2026 08:10
 73760e49-4abe-46dd-b169-c2d4f7f139f6,panicky.la,available,27.99,27.99,medium,low,7,namesilo,,,05/09/2026 00:54
 d41f58c5-78fa-41a2-ad47-1abd8806f58d,freud.la,available,27.99,27.99,medium,low,5,namesilo,,,28/09/2026 09:49
 803ae8ea-125b-47c7-b259-2e3dd5dfb9c6,bodied.la,available,27.99,27.99,medium,low,6,namesilo,,,10/08/2026 16:44
 b8926913-0fb5-4124-8c95-04ca2a3508fe,midlife.la,available,27.99,27.99,high,low,8,namesilo,,,
+a108f074-0d34-49ee-88ea-6cffbff8bbaa,subtract.la,available,27.99,27.99,high,low,8,namesilo,,,03/10/2026 02:29
 ad72a62c-316b-4f79-9f26-b2bab52af57b,mauritian.la,available,27.99,27.99,medium,low,9,namesilo,,,24/08/2026 17:35
 90d421c8-fcc3-4d1f-a05e-66fe69bec65a,apparition.la,available,32.98,41.98,high,low,10,namecheap,,,08/09/2026 18:34
 6431c952-4b47-4735-8aa9-07e46e3c81b9,bracelet.la,available,32.98,41.98,high,low,8,namecheap,,,22/09/2026 01:56
@@ -523,11 +575,12 @@ e1b8427f-6105-4533-8922-d3724ff637c2,sylvan.la,available,27.99,27.99,high,medium
 cc3b8bd9-a429-4f60-bb4c-8eb7461dc443,necessity.la,available,27.99,27.99,high,low,9,namesilo,,,24/09/2026 15:20
 e33735d7-41cf-4248-9434-23b33d5146ab,veinal.la,available,27.99,27.99,low,low,6,namesilo,,,13/09/2026 01:51
 e49f28bb-6d95-458b-90c8-1f53261051ab,yowl.la,available,32.98,41.98,medium,low,4,namecheap,,,23/09/2026 06:24
+70dcba86-6f0d-46ab-a75b-1eedd91c5be7,fuses.la,available,27.99,27.99,medium,low,5,namesilo,,,02/10/2026 13:29
 63a6004d-1e9d-4241-8aad-4f94ead51d7a,optimistic.la,available,27.99,27.99,high,low,10,namesilo,,,04/09/2026 17:07
 0821cedc-b2c8-4774-b884-b327f5bf096c,waxwork.la,available,32.98,41.98,medium,low,7,namecheap,,,18/09/2026 19:16
 b986cea4-6615-40b8-8509-bbfdf510133d,empathic.la,available,32.98,41.98,high,low,8,namecheap,,,16/08/2026 16:41
 46780784-a926-4594-82bd-227de74dd7d5,predominantly.la,available,32.98,41.98,medium,low,13,namecheap,,,01/10/2026 05:46
-a537e872-c702-446e-9f7e-928f15f291b6,rice.la,resell,,,high,low,4,LA Domain Names,08/12/2019 02:04,08/12/2026 23:59,28/09/2026 07:31
+a537e872-c702-446e-9f7e-928f15f291b6,rice.la,resell,,,high,low,4,LA Domain Names,08/12/2019 02:04,08/12/2026 23:59,02/10/2026 10:28
 e3b6e531-d757-4a2d-a56c-f697a7b57c5e,sock.la,available,32.98,41.98,high,low,4,namecheap,,,17/09/2026 21:43
 8e32f2e2-5874-4bb4-8a34-49821d386def,nucleate.la,available,27.99,27.99,medium,low,8,namesilo,,,03/09/2026 22:24
 48c2fdf7-e3a7-4da6-8fa9-e07045ade42c,adapters.la,available,27.99,27.99,medium,low,8,namesilo,,,01/10/2026 00:53
@@ -572,9 +625,10 @@ cf005a92-bf31-4ba2-b1ee-71278635c6a9,pentatonic.la,available,27.99,27.99,medium,
 c9a531df-f406-4deb-9b4b-45dfa11fff23,recessions.la,available,27.99,27.99,medium,low,10,namesilo,,,21/09/2026 06:29
 06624279-f5dc-42a1-a7e8-70c4ec23bd93,eventual.la,available,27.99,27.99,high,low,8,namesilo,,,30/09/2026 14:31
 0e5a2fe5-0d8a-4819-80e2-6e95b69ea04d,papaw.la,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 14:12
-c2a12e83-3775-48c4-a0ae-94de4d39d47e,canadas.la,available,39,,medium,low,7,name.com,,,
+c2a12e83-3775-48c4-a0ae-94de4d39d47e,canadas.la,available,27.99,27.99,medium,low,7,namesilo,,,03/10/2026 00:02
 a7d75a42-4246-4a62-a21a-5ba3a2fb9336,crash.la,resell,,,high,low,5,.LA Founders Premium Program,08/03/2016 01:28,08/03/2027 23:59,29/09/2026 09:51
 7fcf8c39-0931-40db-94a1-93fdd13eaf2c,semiformal.la,available,27.99,27.99,high,low,10,namesilo,,,10/08/2026 11:42
+ffcc9615-0598-490b-a8a2-c07dc9e76c97,burdett.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 08:39
 0f46b283-0b3f-4afd-8625-256a66710621,logged.la,available,27.99,27.99,medium,low,6,namesilo,,,29/09/2026 16:39
 18d9397e-269b-40cb-b401-aebc00fc81c0,seeing.la,resell,,,high,low,6,.LA Premium Names Program,30/04/2016 08:10,30/04/2027 23:59,27/09/2026 19:35
 e55762fb-1f28-4182-92f8-a56dc285582b,beret.la,available,27.99,27.99,high,low,5,namesilo,,,23/09/2026 09:15
@@ -589,8 +643,10 @@ d6be9eb6-5bc2-4f94-a752-ac85212e7d46,clxv.la,available,27.99,27.99,medium,low,4,
 b832a060-cbea-436c-b06a-de52397a7405,avaritia.la,available,27.99,27.99,medium,low,8,namesilo,,,21/09/2026 08:46
 375b897f-d471-4e1c-b560-4e675147987e,lick.la,resell,,,medium,low,4,LA Domain Names,28/06/2017 08:12,28/06/2027 23:59,29/09/2026 02:30
 ecc21bbe-6ac5-4042-aa1d-06ba38b5efe2,noisily.la,available,27.99,27.99,medium,low,7,namesilo,,,15/09/2026 16:46
+8ca7b103-2ce7-456a-9d76-ae840d398912,extinguisher.la,available,32.98,41.98,high,low,12,namecheap,,,02/10/2026 18:19
 f19acb36-6299-4c49-995f-70c554c1c281,shuttle.la,resell,,,high,low,7,,,,27/09/2026 15:53
 2660e770-970e-40da-8de3-b7a15fd9f082,blew.la,available,27.99,27.99,medium,low,4,namesilo,,,25/09/2026 11:11
+ae0dd87b-2fe9-447f-85a8-1ff35255911f,milly.la,available,27.99,27.99,medium,low,5,namesilo,,,03/10/2026 04:53
 9dadac17-31d8-40bf-a7a9-2aff32fcbef1,algerian.la,available,27.99,27.99,high,low,8,namesilo,,,
 9dddfa45-d438-4169-8063-6f002999323e,varied.la,available,27.95,27.95,high,low,6,dynadot,,,28/09/2026 10:09
 e2d0ecea-b149-4335-995a-a560c439712e,priceless.la,resell,,,high,medium,9,VIPDomains.LA  Founders Program,02/12/2022 12:35,02/12/2026 23:59,26/09/2026 08:19
@@ -610,14 +666,18 @@ c52bec23-abbd-4e76-ab4b-7467a7faa35d,yank.la,available,27.99,27.99,high,low,4,na
 e98ea332-c00b-487a-98af-74325be1ce38,suchlike.la,available,27.99,27.99,medium,low,8,namesilo,,,11/09/2026 01:00
 fd7ccf1c-89cc-4f37-8eba-fa56bb8b24ec,monaural.la,available,27.99,27.99,medium,low,8,namesilo,,,25/08/2026 04:20
 94aa4931-7521-4778-91d7-22787dba18af,unfenced.la,available,27.99,27.99,medium,low,8,namesilo,,,12/09/2026 10:10
+319f636d-6ccd-4d95-9a14-40b68f82936f,narrated.la,available,27.99,27.99,medium,low,8,namesilo,,,02/10/2026 13:47
 1170a3ab-57cd-404a-8229-a13542561755,armagnac.la,available,27.99,27.99,medium,low,8,namesilo,,,20/09/2026 06:29
 e8792d18-51ab-43a4-bc09-b8359d168cdd,bog.la,available,27.99,27.99,high,low,3,namesilo,,,30/09/2026 08:26
 a300faf8-20bd-4dac-8ccb-8aeba4f9f85e,baylor.la,available,27.99,27.99,medium,low,6,namesilo,,,27/09/2026 01:57
+9fd04b55-caae-48ee-93d5-a7c69779ed29,bartram.la,available,27.95,27.95,medium,low,7,dynadot,,,02/10/2026 19:58
 6da9f11e-96b9-4877-aa0a-66774d6b8da8,bret.la,available,27.99,27.99,medium,low,4,namesilo,,,29/09/2026 03:55
 680e8ba3-b9f3-4929-afe7-f49031036e4e,disciple.la,resell,,,high,low,8,LA Domain Names,01/04/2023 01:33,01/04/2027 23:59,26/09/2026 05:35
+3ae915f4-4e10-4ac1-8415-0c0e6d6ddd63,sonata.la,available,27.99,27.99,high,low,6,namesilo,,,03/10/2026 02:09
 a66332ba-bab4-4aad-93cc-f7cd2a4454e4,lubbock.la,available,27.99,27.99,high,low,7,namesilo,,,28/09/2026 10:18
 c737540e-78be-4a4e-86db-759bc2fda202,midautumn.la,available,27.99,27.99,high,low,9,namesilo,,,17/09/2026 10:02
 67b3e8b4-5864-47ef-97d2-9792ce03e177,anpu.la,available,32.98,41.98,medium,low,4,namecheap,,,19/09/2026 11:59
+6ed86708-bf54-42ac-9a3d-cc25301c8e80,lemons.la,available,27.99,27.99,medium,low,6,namesilo,,,02/10/2026 22:20
 8c24d2df-5ec6-4447-8f93-430a7a6353c9,apo.la,available,27.99,27.99,high,high,3,namesilo,,,30/09/2026 12:11
 55eeeb6f-c800-4aa2-b2bb-abd304f7b8c1,manioc.la,available,27.99,27.99,medium,low,6,namesilo,,,23/09/2026 22:51
 8d72d1bb-8537-447c-b08b-9fb76523369b,feynman.la,available,27.99,27.99,high,low,7,namesilo,,,02/10/2026 04:50
@@ -632,7 +692,7 @@ e302cdb8-d8f2-4ccf-a2fd-64f5f54dd9bd,gum.la,resell,,,high,low,3,Dynadot LLC,03/0
 afede3c9-6f37-4be0-8f0e-2a31dd22740a,signaling.la,available,27.99,27.99,high,medium,9,namesilo,,,10/09/2026 08:00
 942a1695-0c86-4340-9b3e-447cfc15b806,queenly.la,available,27.99,27.99,medium,low,7,namesilo,,,09/09/2026 07:52
 615d5a77-f5eb-4ff9-ab4e-aa141c996fe3,frustrate.la,available,27.99,27.99,medium,low,9,namesilo,,,24/09/2026 12:25
-9482bd65-a05a-46a0-b872-ca468b227fb6,ecological.la,available,32.98,41.98,high,low,10,namecheap,,,29/09/2026 21:02
+9482bd65-a05a-46a0-b872-ca468b227fb6,ecological.la,available,32.98,41.98,high,low,10,namecheap,,,02/10/2026 19:04
 814f9511-5f72-4bdb-a498-dcfd2b0776aa,puppylike.la,available,27.99,27.99,high,medium,9,namesilo,,,09/09/2026 06:10
 437196ea-87c0-49d5-9f05-0e8846c568dc,appendix.la,available,32.98,41.98,high,low,8,namecheap,,,19/09/2026 20:40
 b738720e-fd3d-4689-b514-1c962c066a5d,scheduled.la,available,27.99,27.99,high,low,9,namesilo,,,27/09/2026 18:26
@@ -653,7 +713,7 @@ f7134537-1625-4d87-9406-a5258c8fbcc0,marches.la,available,27.99,27.99,medium,low
 e4d73e26-107f-48ad-a614-299bfbe5420b,permanent.la,available,27.99,27.99,high,low,9,namesilo,,,22/08/2026 20:24
 4411bf6b-36dc-45d3-88c0-71ca5a5b7e73,motorcar.la,available,27.99,27.99,high,low,8,namesilo,,,21/09/2026 05:29
 6dc32df8-4d6d-4de0-a97d-5690b6df1300,buckner.la,available,27.99,27.99,medium,low,7,namesilo,,,29/09/2026 09:53
-5ee073c1-d270-490b-8c03-b1105ee600f7,rhianna.la,available,27.99,27.99,high,low,7,namesilo,,,
+5ee073c1-d270-490b-8c03-b1105ee600f7,rhianna.la,available,27.99,27.99,high,low,7,namesilo,,,02/10/2026 14:02
 a1d68158-9101-4e18-843c-ab3d7d36696d,division.la,available,27.34,27.94,high,low,8,porkbun,,,28/09/2026 19:33
 68ad1d87-2028-4d55-86f9-b2c95a1a77e9,bede.la,available,27.99,27.99,high,low,4,namesilo,,,21/09/2026 17:17
 20e3232c-a19b-4e83-9ed9-d47b085d7033,moreton.la,available,32.98,41.98,medium,low,7,namecheap,,,30/09/2026 12:45
@@ -661,6 +721,7 @@ a3a3fa99-1f36-43d1-a991-453887b0b088,turnbull.la,available,27.99,27.99,medium,lo
 6f712c40-c72d-498f-9947-4111e9281046,onset.la,available,27.99,27.99,high,low,5,namesilo,,,04/09/2026 14:29
 7bc38f31-cfcb-4279-a3d8-5d877aacaaef,subfusc.la,available,27.99,27.99,medium,low,7,namesilo,,,10/09/2026 23:47
 cc4088e6-a17a-42f0-8acb-29951c76c5b5,breda.la,available,32.98,41.98,medium,low,5,namecheap,,,30/09/2026 21:05
+bd19c9cf-9382-47d8-aed3-e091b714f32e,fribourg.la,available,27.95,27.95,medium,low,8,dynadot,,,02/10/2026 08:24
 3b60cafd-75c5-42ff-bcb9-936c10320a44,pathless.la,available,27.99,27.99,medium,low,8,namesilo,,,08/09/2026 10:25
 2faeaf89-d7ab-40f1-ba8a-33e0fcde8640,renunciant.la,available,27.99,27.99,medium,low,10,namesilo,,,09/09/2026 14:23
 eeaed2ec-6636-4491-aa41-3d2029e23fff,mouthy.la,available,39,,medium,low,6,name.com,,,
@@ -678,6 +739,7 @@ b70c8b8a-6332-475c-8963-ed026e1bdac7,ideas.la,resell,,,high,low,5,.LA Founders P
 f92cdff2-9ebc-4c92-afab-c0cad7b07474,richmond.la,available,27.99,27.99,high,low,8,namesilo,,,29/09/2026 07:18
 6e9577f8-8691-4535-849e-92516743c885,humped.la,available,27.99,27.99,medium,low,6,namesilo,,,13/08/2026 07:40
 d6c3ad6d-9bd2-4e65-815b-95696a2becaa,equivalent.la,available,27.99,27.99,high,low,10,namesilo,,,24/09/2026 14:50
+25abc724-030d-4bcb-972a-b5cd8df02c28,winterthur.la,available,27.99,27.99,high,low,10,namesilo,,,02/10/2026 09:54
 f5b6970e-449b-4f23-87cf-798ffcd06775,adapt.la,resell,,,high,low,5,,,,28/09/2026 11:08
 d543f000-605b-442d-8004-4f5237dac488,listened.la,available,32.98,41.98,medium,low,8,namecheap,,,25/09/2026 19:45
 3337c887-10f3-4849-b382-f349453fac2a,bernstein.la,available,27.99,27.99,high,low,9,namesilo,,,23/09/2026 10:01
@@ -690,6 +752,7 @@ f41a3045-5781-4eae-a9a6-a492d1b60b9e,bayesian.la,available,27.99,27.99,medium,lo
 578ab811-830f-431c-ae36-650b7baf8b3a,amiability.la,available,32.98,41.98,high,low,10,namecheap,,,17/09/2026 13:57
 9358b8ab-9087-48d0-9352-c607a40b15b2,unidentified.la,available,27.99,27.99,medium,low,12,namesilo,,,28/09/2026 08:18
 9addf448-6500-4164-bcf0-ee08b7f99177,fiendish.la,available,27.99,27.99,medium,low,8,namesilo,,,14/08/2026 01:31
+48152014-f9f7-4fbf-b2ce-9a16ed96b697,circulatory.la,available,27.99,27.99,high,low,11,namesilo,,,03/10/2026 03:21
 ee90b043-2af8-4141-8194-7050079720c1,execute.la,resell,,,high,low,7,,,,27/09/2026 16:26
 940aa234-a0a9-46fa-951e-4b7764946b4e,commandery.la,available,27.99,27.99,medium,low,10,namesilo,,,29/09/2026 00:27
 eb9ec9e9-a3f2-40ea-8640-af86a1f14d09,sympatric.la,available,27.99,27.99,medium,low,9,namesilo,,,11/09/2026 06:05
@@ -705,10 +768,13 @@ d8619572-7ceb-461e-9f2a-e99e8a8761a1,acarpelous.la,available,27.99,27.99,medium,
 ed13021b-2309-456e-920e-488a604452dc,pioneers.la,available,27.34,27.94,medium,low,8,porkbun,,,30/09/2026 07:17
 12e41a95-f3c3-439c-ba3c-39405844ba48,library.la,resell,,,high,low,7,.LA Founders Premium Program,05/03/2016 01:33,05/03/2027 23:59,28/09/2026 08:46
 6c37b54c-7453-4383-bcb6-d2112023cb18,kush.la,resell,,,high,low,4,,,,02/10/2026 00:37
+11af4bb5-4fa6-4f40-8009-14801929a1ec,sturges.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 11:05
 7de60216-7169-4f39-9c80-8f95283eb87b,counterfeit.la,available,27.34,27.94,high,low,11,porkbun,,,29/09/2026 08:25
 5505aa0c-9b7b-4fab-990f-fb6497357d3b,postsecondary.la,available,27.95,27.95,high,low,13,dynadot,,,30/09/2026 06:10
+c5947612-2439-4c33-8c45-2c9012acc9b3,narayana.la,available,27.99,27.99,medium,low,8,namesilo,,,03/10/2026 05:18
 3dfc5506-047f-49df-8c49-ebe42bc2da08,perot.la,available,27.99,27.99,medium,low,5,namesilo,,,01/10/2026 15:27
 f4202a91-26f0-4e1d-a0a2-2e00c8d9d4f0,devotes.la,available,27.99,27.99,medium,low,7,namesilo,,,20/09/2026 02:04
+35c8f396-f78c-4a0b-b467-3a35fafda0cb,yolk.la,available,27.99,27.99,high,low,4,namesilo,,,02/10/2026 14:58
 5bcda289-60f3-4282-84cb-6c0cd0c7a33f,antiserum.la,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 15:05
 6557d0ab-df65-4a82-ba15-52eed056d864,glaucous.la,available,27.99,27.99,medium,low,8,namesilo,,,20/08/2026 14:16
 287cd2d1-4978-481c-bc59-c4001b27eed0,powys.la,available,32.98,41.98,medium,low,5,namecheap,,,01/10/2026 20:09
@@ -748,6 +814,7 @@ a624e4d6-c611-4570-8c9e-f14a75d84bb7,arrives.la,available,27.99,27.99,medium,low
 9f30427b-6582-4cc2-99a3-79770d5e462c,reviewing.la,available,27.99,27.99,high,low,9,namesilo,,,29/09/2026 08:58
 b4e338db-5027-42a8-b3c6-a3b9b816c715,bedpan.la,available,27.99,27.99,medium,low,6,namesilo,,,22/09/2026 23:28
 c2a1d46a-8130-4a9f-98af-3fbb6046aefc,mrna.la,available,27.99,27.99,high,low,4,namesilo,,,25/09/2026 23:11
+4b60039b-6e43-48eb-a5bc-f913c8f04b59,patrolling.la,available,27.95,27.95,high,low,10,dynadot,,,02/10/2026 07:25
 c5331bbf-3d15-41fe-aaef-8e17768edbab,beriberi.la,available,27.99,27.99,medium,low,8,namesilo,,,23/09/2026 09:23
 cb35d5b9-5b69-41b2-aaf9-1f176a3daeaa,countable.la,available,27.99,27.99,high,low,9,namesilo,,,13/08/2026 03:28
 b7f666e7-a2e2-40e2-bf29-fbc114661c21,ted.la,resell,,,high,low,3,.LA Founders Premium Program,05/03/2016 01:34,05/03/2027 23:59,30/09/2026 12:54
@@ -762,13 +829,14 @@ a004398a-6ced-42a6-8996-be4cf2d52138,empowering.la,available,27.99,27.99,high,lo
 db828eb6-fc92-4600-87e2-a6a970fad246,miranda.la,resell,,,high,low,7,LA Domain Names,19/02/2019 15:37,19/02/2027 23:59,26/09/2026 07:34
 cef92935-90a5-47f7-92fe-3ce2020ab936,moan.la,available,27.34,27.94,medium,low,4,porkbun,,,01/10/2026 19:52
 01c64194-6c49-4e92-bcd2-c4d210d46df9,misprint.la,available,32.98,41.98,medium,low,8,namecheap,,,24/08/2026 02:49
+6851efec-c2d2-43c5-b0d7-359a51035082,interacting.la,available,27.34,27.94,high,low,11,porkbun,,,02/10/2026 07:08
 4e99b471-b3e0-44fa-9f2d-6ed3a609d493,raid.la,available,27.99,27.99,high,low,4,namesilo,,,28/09/2026 09:48
 2293d1fb-7797-4757-9abe-84c79b5e9cdd,bionomics.la,available,27.99,27.99,medium,low,9,namesilo,,,23/09/2026 18:43
 b6671f24-0590-45b8-9316-6632a7ec6b04,asterion.la,available,27.99,27.99,medium,low,8,namesilo,,,20/09/2026 17:10
 e0d6a667-d762-47f8-a84d-b691ca49cea6,avenues.la,available,27.99,27.99,medium,low,7,namesilo,,,01/10/2026 17:25
 8f9cd97b-58c6-47bb-b4c3-3bb177b83a85,peggy.la,available,32.98,41.98,high,low,5,namecheap,,,25/09/2026 13:02
 435031ed-0fd4-4e41-884e-d2d95ce4cb52,adust.la,available,27.99,27.99,medium,low,5,namesilo,,,
-99e0f46d-d382-4b7a-a17b-7977870caa87,yourselves.la,available,27.99,27.99,medium,low,10,namesilo,,,
+99e0f46d-d382-4b7a-a17b-7977870caa87,yourselves.la,available,27.99,27.99,medium,low,10,namesilo,,,03/10/2026 04:32
 29a034b3-a6fa-421b-8d08-12efc61b0129,marketing.la,resell,,,high,medium,9,Namecheap,01/03/2006 01:00,01/03/2027 23:59,01/10/2026 17:41
 163d60a5-0c2a-46d0-a8d4-fa8ac75283f8,uhf.la,available,27.99,27.99,high,low,3,namesilo,,,26/09/2026 00:28
 c0e13d93-0722-4086-9145-670d967851d0,insensitive.la,available,27.95,27.95,medium,low,11,dynadot,,,29/09/2026 03:19
@@ -780,6 +848,7 @@ df4bf8e8-33fb-4ad5-82c3-187389a3ea17,estelle.la,available,27.99,27.99,medium,low
 e95a76af-0a08-45fb-af87-2bfb4208291e,utilized.la,available,27.99,27.99,medium,low,8,namesilo,,,13/09/2026 00:05
 4826e2d0-f7ad-4ccb-9cd5-8b9f835d353e,steadied.la,available,32.98,41.98,medium,low,8,namecheap,,,10/09/2026 19:30
 ebe66ba2-7fcc-4fd9-9133-e6dfcb838b71,vodka.la,resell,,,high,low,5,LA Domain Names,01/04/2019 09:28,01/04/2027 23:59,30/09/2026 14:34
+ef851b4a-aeeb-41d5-b635-33a1f174962d,crossbow.la,available,27.95,27.95,high,low,8,dynadot,,,02/10/2026 14:48
 7ddee4b2-21ef-425e-a479-bf36d93a6d8c,brusque.la,available,27.99,27.99,medium,low,7,namesilo,,,11/08/2026 07:02
 f775cbc5-5c10-4df4-8072-8b789277c446,hemphill.la,available,27.95,27.95,medium,low,8,dynadot,,,01/10/2026 23:34
 08d43ea4-afaa-452b-89ab-aca29e946ecf,twirl.la,available,27.99,27.99,high,low,5,namesilo,,,02/10/2026 05:46
@@ -796,12 +865,15 @@ b99f4c6f-234b-4c7b-a63e-3ce6258bd5ae,antares.la,resell,,,medium,low,7,VIPDomains
 0cd96e99-d941-4cbe-9b27-1aa2e9727c96,fivefold.la,available,27.99,27.99,medium,low,8,namesilo,,,18/08/2026 05:56
 fd1801ea-2cb6-48de-91f6-d4a72c0e1c88,nailed.la,available,27.99,27.99,medium,low,6,namesilo,,,18/09/2026 21:49
 07f81987-8da5-4d49-bbd4-373290ed7cad,preparation.la,available,27.34,27.94,high,low,11,porkbun,,,28/09/2026 12:30
+3c2aab5f-6db7-4cbb-b49a-5021e243de1c,rmb.la,available,27.95,27.95,high,low,3,dynadot,,,02/10/2026 17:39
 d5574f9e-a069-4e0b-94c3-650fe0886d4a,madness.la,resell,,,high,low,7,,,,27/09/2026 04:07
+c2f65c73-1973-4bb6-aa69-9c0fedc4107c,bayside.la,available,27.95,27.95,high,low,7,dynadot,,,03/10/2026 03:48
 9b5acd97-2079-402f-935b-3ed698466fee,courteous.la,available,27.99,27.99,high,low,9,namesilo,,,24/09/2026 00:40
 106bff39-bd4d-4e71-962e-f83b9a000448,neutrophils.la,available,27.99,27.99,medium,low,11,namesilo,,,30/09/2026 14:46
 cacaff21-067e-460b-aef6-3e90009be19e,applier.la,available,27.99,27.99,medium,low,7,namesilo,,,19/09/2026 21:54
 c5aded0f-9ce1-4cbb-a841-d55c9ff2666f,pyle.la,available,27.95,27.95,medium,low,4,dynadot,,,29/09/2026 07:17
 88730438-2d15-4ea7-837f-d34b636baef9,otc.la,resell,,,high,low,3,LA Domain Names,08/03/2025 00:35,08/03/2027 23:59,26/09/2026 07:57
+a9c296c3-41d6-4877-aaf3-54f38c7f586f,vlsi.la,available,27.34,27.94,low,low,4,porkbun,,,02/10/2026 22:48
 a54cb69f-ba80-447a-9984-af592b2fafe5,discourse.la,available,32.98,41.98,high,low,9,namecheap,,,23/09/2026 22:52
 bc218db5-d244-474f-aa83-6c55cc00803b,immodest.la,available,32.98,41.98,medium,low,8,namecheap,,,21/08/2026 21:09
 2e4f5303-c8bc-4498-9744-97805b8165b4,aleatory.la,available,27.99,27.99,medium,low,8,namesilo,,,
@@ -818,11 +890,13 @@ af2f0607-012c-4d4f-87c8-6a4df3c722b0,specious.la,available,27.99,27.99,high,medi
 215995a9-7c95-49d6-a001-c6a2ce2b3b69,chaplain.la,available,27.95,27.95,medium,low,8,dynadot,,,30/09/2026 09:06
 2e1a5756-a540-456b-baac-8d91ed388150,visceral.la,available,27.99,27.99,medium,low,8,namesilo,,,10/09/2026 16:02
 24286524-4fd5-4ef2-93e4-c6769499230d,harrison.la,resell,,,high,low,8,.LA Founders Premium Program,21/06/2016 01:50,21/06/2027 23:59,26/09/2026 06:35
+a002878b-ebf5-447e-a8f0-a62e9de0fb35,chimes.la,available,27.95,27.95,medium,low,6,dynadot,,,02/10/2026 13:40
 461f3083-8990-4b02-b9d5-e7c8aaec87b0,club.la,resell,,,high,medium,4,LA Domain Names,12/01/2024 23:46,12/01/2027 23:59,29/09/2026 00:44
 bfccef7c-f7cd-4201-aa1a-1224f26a793d,odious.la,available,27.99,27.99,medium,low,6,namesilo,,,
 b1819816-835c-4c83-8f40-d98570279533,rationalism.la,available,27.95,27.95,high,low,11,dynadot,,,30/09/2026 05:54
 d98f2aa6-4538-471a-a9be-75d3de7fc92b,machiavelli.la,available,27.99,27.99,high,low,11,namesilo,,,30/09/2026 04:12
 fd126599-c3dd-4cbc-b7b7-8a56ec215262,pistons.la,available,27.99,27.99,medium,low,7,namesilo,,,01/10/2026 00:56
+b2214d4f-563b-4f09-9cf1-4a2cf42ff806,kitt.la,available,27.99,27.99,high,low,4,namesilo,,,03/10/2026 03:13
 e80e70ca-54a0-47a2-a736-af12c5fcfff9,perfidy.la,available,27.99,27.99,medium,low,7,namesilo,,,23/09/2026 11:25
 ad8133db-cb9d-4690-a19a-5a56974767e2,adventitia.la,available,27.99,27.99,medium,low,10,namesilo,,,17/09/2026 10:36
 4b218129-af16-46b5-98a1-9228d28890d9,montenegro.la,available,27.95,27.95,high,high,10,dynadot,,,27/09/2026 12:47
@@ -835,6 +909,7 @@ e4e65600-5f29-427c-839d-75fc7dfa7895,unwanted.la,available,27.99,27.99,medium,lo
 c5764e7f-6f1e-4d3b-a0d5-c5c2f8b91bdf,medusa.la,available,32.98,41.98,high,low,6,namecheap,,,24/08/2026 19:13
 40f0ec15-26dd-4944-94a0-2998cc5007b4,bahaism.la,available,32.98,41.98,medium,low,7,namecheap,,,21/09/2026 18:33
 aba1b8b8-e01f-4fa4-a1f6-af2a29fc7a8e,francisco.la,resell,,,high,low,9,.LA Founders Premium Program,29/02/2020 19:33,28/02/2027 23:59,26/09/2026 06:14
+d3e780a5-f345-4678-ba0b-6f23435e4975,spilling.la,available,27.99,27.99,high,low,8,namesilo,,,02/10/2026 13:21
 0eb0816d-9952-40fd-a2d5-71c2a2e57d95,soundless.la,available,27.99,27.99,high,medium,9,namesilo,,,10/09/2026 08:06
 97ab81fc-bcfb-4df8-98f6-3cf5b75fad9e,hertford.la,available,27.34,27.94,medium,low,8,porkbun,,,29/09/2026 22:01
 79815ecb-a7a9-4017-9c9a-410c93ace3e3,slaphappy.la,available,27.99,27.99,medium,low,9,namesilo,,,14/08/2026 05:04
@@ -842,7 +917,7 @@ aba1b8b8-e01f-4fa4-a1f6-af2a29fc7a8e,francisco.la,resell,,,high,low,9,.LA Founde
 bf854484-9bab-40db-95b3-1d0889310754,oats.la,available,27.99,27.99,medium,low,4,namesilo,,,29/09/2026 16:28
 289faab5-bfd4-4087-a983-37ccb3dddda4,sco.la,resell,,,high,high,3,,,,29/09/2026 21:02
 bf9f9d88-fdd1-4fdc-96b1-08d7e81c357d,mclaughlin.la,resell,,,medium,low,10,VIPDomains.LA  Founders Program,27/08/2020 19:35,27/08/2027 23:59,27/09/2026 01:56
-00b492b1-c652-4201-8b3a-0bcd8f159693,advertisement.la,resell,,,high,low,13,"GoDaddy.com, Inc.",04/08/2023 04:38,04/08/2027 23:59,26/09/2026 01:24
+00b492b1-c652-4201-8b3a-0bcd8f159693,advertisement.la,resell,,,high,low,13,"GoDaddy.com, Inc.",04/08/2023 04:38,04/08/2027 23:59,02/10/2026 15:22
 2414e5cb-434c-44bd-9882-b5502f3e8c2b,initially.la,available,27.34,27.94,medium,low,9,porkbun,,,28/09/2026 11:32
 506d91ab-a5a6-401d-b4db-25a8ad6ee33f,isidore.la,available,27.99,27.99,medium,low,7,namesilo,,,30/09/2026 00:09
 6dae764e-177e-4dd9-9b6f-d76209c03fe4,newfoundland.la,available,27.99,27.99,high,low,12,namesilo,,,01/10/2026 22:17
@@ -873,7 +948,7 @@ f4e0c2ee-8cc9-4019-9ff2-6e8ed661c0e2,uninviting.la,available,27.99,27.99,medium,
 acf146eb-6716-47f8-9d8b-82e5925efb8d,eve.la,resell,,,high,medium,3,"GoDaddy.com, Inc.",22/03/2016 16:51,22/03/2027 23:59,26/09/2026 05:54
 b25ce55d-8f5a-446d-9884-562c846a540d,marcellus.la,available,27.99,27.99,medium,low,9,namesilo,,,29/09/2026 15:33
 e02232f2-0e1c-46f9-87fb-a453ef499310,tearless.la,available,32.98,41.98,medium,low,8,namecheap,,,14/08/2026 20:31
-76dca867-27e3-4b26-af18-36dbb2c2c88c,advisors.la,resell,,,medium,low,8,LA Domain Names,28/08/2021 23:46,28/08/2027 23:59,28/09/2026 17:13
+76dca867-27e3-4b26-af18-36dbb2c2c88c,advisors.la,resell,,,high,low,8,LA Domain Names,28/08/2021 23:46,28/08/2027 23:59,02/10/2026 20:03
 93cddb44-6f3f-4f6d-ae8f-888a14d73f96,sameness.la,available,27.99,27.99,medium,low,8,namesilo,,,21/08/2026 15:12
 d66e8a42-9a41-4ece-bf19-c0e2d1adec7e,shoeless.la,available,32.98,41.98,medium,low,8,namecheap,,,08/08/2026 19:04
 e073bfad-3fe7-4b91-a875-fea30eef7c96,alderfly.la,available,27.99,27.99,medium,low,8,namesilo,,,18/09/2026 04:32
@@ -885,6 +960,7 @@ c09cb613-aa89-4406-9c60-a8e4b0785e10,lilies.la,available,27.99,27.99,medium,low,
 0929e9d2-394d-4615-971b-009e48b6ce06,confirm.la,available,27.99,27.99,high,low,7,namesilo,,,27/09/2026 05:57
 7ea2568e-ecb2-40b3-a049-65389395b4d1,exodus.la,resell,,,high,low,6,LA Domain Names,10/08/2022 10:13,10/08/2027 23:59,26/09/2026 05:56
 ce0e6be3-c8dc-4385-af51-dcc22c8643b8,potential.la,resell,,,high,low,9,.LA Founders Premium Program,29/02/2020 18:22,28/02/2027 23:59,27/09/2026 04:46
+618049b7-7ed7-4452-b365-8b6d9e1f0bc1,brantley.la,resell,,,medium,low,8,,,,02/10/2026 20:34
 2a712413-85a2-4679-988e-d62be1c74943,churl.la,available,27.99,27.99,medium,low,5,namesilo,,,13/08/2026 05:00
 4b16e34f-3299-423a-b278-effbdbaa0fbf,trumpet.la,available,32.98,41.98,high,low,7,namecheap,,,24/09/2026 18:17
 e6c07ea8-5b34-4f15-b504-256bd99a0c5e,capsulize.la,available,32.98,41.98,medium,low,9,namecheap,,,11/08/2026 18:15
@@ -893,7 +969,7 @@ cf7ee99a-cba0-4113-8634-e6e69af9f0e3,asarum.la,available,32.98,41.98,medium,low,
 c8f09ddb-e811-464d-88e1-189cc18e9e32,lyndon.la,available,27.99,27.99,medium,low,6,namesilo,,,25/09/2026 16:09
 6d4adf15-9df4-4a95-9e24-2e61b45d04df,frock.la,available,32.98,41.98,medium,low,5,namecheap,,,14/08/2026 18:55
 913091bc-582d-4329-b797-6bceb9eaf2f7,backyard.la,resell,,,high,low,9,LA Domain Names,28/12/2023 08:17,28/12/2026 23:59,26/09/2026 04:12
-c4935fec-2918-4e8e-9c15-effac43dd5d1,resignation.la,available,39,,high,low,11,name.com,,,
+c4935fec-2918-4e8e-9c15-effac43dd5d1,resignation.la,available,27.95,27.95,high,low,11,dynadot,,,02/10/2026 16:46
 c3871187-873b-4d3a-b8ee-a0eae4949258,repay.la,available,27.95,27.95,high,low,5,dynadot,,,28/09/2026 06:39
 9944d837-a20b-42ff-aba4-089c38a5fcaf,xxxvii.la,available,27.99,27.99,medium,low,6,namesilo,,,
 f25eff33-f828-4714-bd56-15c473586b3a,overlap.la,available,32.98,41.98,high,low,7,namecheap,,,30/09/2026 02:25
@@ -913,89 +989,13 @@ c7c589e4-7ce8-49b7-acc0-f1d22b780ba8,twinkle.la,available,27.99,27.99,high,low,7
 5a12bf3d-ab0c-4d91-8b0c-bf2b036568f1,developed.la,resell,,,high,low,9,LA Domain Names,08/03/2017 18:18,08/03/2027 23:59,26/09/2026 05:31
 ae3caf85-59f1-4f75-a90c-37a74bbb9760,xanax.la,available,27.99,27.99,medium,low,5,namesilo,,,18/09/2026 14:09
 a58c6d11-90b4-47e1-b778-fc404d9acf6d,pimply.la,available,27.99,27.99,medium,low,6,namesilo,,,
-0395ced4-e441-402c-92bc-d5fc15cf87c7,playdate.la,available,39,,high,low,9,name.com,,,
 66ee4a70-32d2-4515-863e-172a7fe5aed5,slovaks.la,available,27.99,27.99,medium,low,7,namesilo,,,02/10/2026 03:51
 2b69bb8d-3d72-45f4-a83a-dc40ca7302c2,admiring.la,available,27.34,27.94,high,low,8,porkbun,,,30/09/2026 19:19
 9bf0d563-edec-4bef-b791-db647ca02309,vanadium.la,available,27.99,27.99,medium,low,8,namesilo,,,20/09/2026 22:37
 48f65a35-d1d0-4aae-a2f7-6aa27c627509,shipowner.la,available,27.34,27.94,high,low,9,porkbun,,,01/10/2026 21:39
-d5e810b9-b345-41ff-9c8b-de274b7a6913,covid.la,resell,,,high,low,5,LA Domain Names,03/06/2025 00:05,03/06/2027 23:59,26/09/2026 05:18
+d5e810b9-b345-41ff-9c8b-de274b7a6913,covid.la,resell,,,high,low,5,LA Domain Names,03/06/2025 00:05,03/06/2027 23:59,02/10/2026 07:05
 1715fd4c-2c97-4cea-85d1-300221ca6b32,bentonite.la,available,27.99,27.99,high,low,9,namesilo,,,23/09/2026 08:46
 772c00ac-1ae4-4e85-bc3f-a3657fd6d2a2,myopic.la,available,27.99,27.99,medium,low,6,namesilo,,,03/09/2026 12:14
 bd9c00ce-952d-43c3-8488-f9d75f05e29f,abortions.la,available,27.95,27.95,low,low,9,dynadot,,,02/10/2026 03:54
 a6e89c49-c480-4686-8a9c-e07b4d915d6a,bicyclist.la,available,27.99,27.99,high,low,9,namesilo,,,23/09/2026 13:22
 0d79e6d3-d98f-46bf-9341-0e5a6d31d73e,ominous.la,available,32.98,41.98,medium,low,7,namecheap,,,24/08/2026 20:00
-63bcfa9a-c865-4a8e-b320-9bd6a57709dc,reviewed.la,available,27.95,27.95,medium,low,8,dynadot,,,29/09/2026 05:52
-f90bc6b1-6836-4d89-b575-7fd124bbd82b,kda.la,available,32.98,41.98,medium,low,3,namecheap,,,29/09/2026 17:27
-17c15918-a599-4c45-9474-ce04bbb508b2,spherical.la,available,27.99,27.99,high,low,9,namesilo,,,08/08/2026 10:21
-2febcc0c-f5f7-4a13-ab17-90570d0a0484,arachis.la,available,27.99,27.99,medium,low,7,namesilo,,,19/09/2026 23:37
-cf59f877-30c5-4486-9b7c-34c0ffd86b88,combining.la,available,27.95,27.95,high,low,9,dynadot,,,29/09/2026 18:23
-aa179935-cacb-4ac5-80bb-7d2ed6664b42,adrenaline.la,resell,,,high,low,10,VIPDomains.LA  Founders Program,28/05/2024 16:51,28/05/2027 23:59,26/09/2026 01:23
-2258beaf-0f6f-41de-a52e-e095d6b1720a,pivot.la,resell,,,high,medium,5,LA Domain Names,27/01/2018 01:24,27/01/2027 23:59,30/09/2026 06:56
-8dadde34-854f-4469-9a01-0cf227ab4ce1,unquestionable.la,available,39,,medium,low,14,name.com,,,
-1a34276d-13ac-4aaa-8e73-7bb63d601de9,birdfeeder.la,available,32.98,41.98,medium,low,10,namecheap,,,23/09/2026 19:53
-af09b3f4-146f-41be-8917-09d3292a3533,alary.la,available,27.99,27.99,medium,low,5,namesilo,,,
-3cb03591-81a2-44f5-8fda-72f820c5ed72,startled.la,available,32.98,41.98,medium,low,8,namecheap,,,10/09/2026 19:00
-16c33411-c4e4-4c85-9bb1-c9b11bfadceb,appro.la,available,32.98,41.98,medium,low,5,namecheap,,,19/09/2026 22:20
-d9624c00-266a-40f1-a473-d0a7afe2ef15,seymour.la,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 07:56
-01a3f068-8924-4c6a-bf27-c7e8058b3c0f,howe.la,available,32.98,41.98,high,low,4,namecheap,,,30/09/2026 17:09
-bbbe2876-2ebf-4785-99f0-63098ff9cac8,tilden.la,available,27.99,27.99,medium,low,6,namesilo,,,23/09/2026 14:08
-21cf9a56-ef22-4de8-a4b1-701369988f85,filter.la,resell,,,high,low,6,LA Domain Names,24/04/2017 12:43,24/04/2027 23:59,26/09/2026 06:04
-07388dc0-c8e0-437a-bdcd-b4d443d15c1e,distorted.la,available,27.99,27.99,medium,low,9,namesilo,,,13/08/2026 23:39
-2d3d55ac-5333-4fba-a579-905e72f7c9f6,ellicott.la,available,32.98,41.98,medium,low,8,namecheap,,,01/10/2026 12:35
-8fd42be6-3b19-4ebc-89d4-e60101e193e5,paulson.la,available,27.99,27.99,medium,low,7,namesilo,,,30/09/2026 13:15
-b34c807e-b011-4546-afca-aa9e9c098310,gifts.la,resell,,,medium,low,5,TLD Registrar Solutions Ltd,20/11/2000 01:00,20/11/2026 23:59,26/09/2026 06:22
-d3b2e358-0495-495d-9acf-c0a40208a69c,anthidium.la,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 13:22
-8ba3e145-781d-4c6e-922a-487dd2b7ae0e,address.la,resell,,,high,low,7,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59,01/10/2026 16:50
-6044e384-cf00-4f98-b497-4e7387766cef,bataan.la,available,27.99,27.99,medium,low,6,namesilo,,,22/09/2026 13:10
-649f3ead-40c0-460a-bbe9-94831862c864,ceased.la,available,27.95,27.95,medium,low,6,dynadot,,,29/09/2026 23:45
-61b0f70f-c496-4b2c-af5f-246dc60f8ab5,olof.la,available,27.99,27.99,medium,low,4,namesilo,,,02/10/2026 00:16
-4f04ff3f-5989-4de8-a2bf-20d8eeef33ee,anubis.la,available,27.99,27.99,medium,low,6,namesilo,,,19/09/2026 11:58
-4b581c1d-fb7a-42dc-9726-d8bd9e10445c,daring.la,available,27.99,27.99,high,low,6,namesilo,,,07/08/2026 21:39
-0f418acb-06a0-45b2-b64a-47e7bd45df6f,download.la,resell,,,high,low,8,,,,28/09/2026 06:58
-c0ccf6d6-7150-46c8-ad27-d166a33800b4,epiphytic.la,available,27.99,27.99,high,medium,9,namesilo,,,17/08/2026 11:07
-1661ba3a-ab4b-4ed4-9759-9a35017721ae,bicycler.la,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 13:23
-c8bdcd81-563c-4e77-815f-61d9fbb7e69e,likelihood.la,available,27.99,27.99,high,low,10,namesilo,,,29/09/2026 01:35
-ad11d46b-d4b3-4b0c-99eb-f5deb62f5ded,gorge.la,available,27.99,27.99,medium,low,5,namesilo,,,23/09/2026 17:20
-cf63d8b7-ab92-4fd2-8c67-544a7279ca5b,internship.la,available,27.34,27.94,high,low,10,porkbun,,,28/09/2026 10:09
-9929ccbd-618b-44b1-94c5-87a4d1b9f565,saurian.la,available,32.98,41.98,medium,low,7,namecheap,,,22/08/2026 17:55
-66df6766-e205-4338-b6e9-99b716cc5137,careers.la,resell,,,high,low,7,,,,28/09/2026 23:00
-31610ba2-1a54-45e4-85b1-e6f0187a271e,pull.la,available,27.99,27.99,high,low,4,namesilo,,,29/09/2026 16:48
-56ac56f0-2ec8-4549-8fd8-16f1b2a3840b,suggested.la,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 13:48
-85ea1a8e-663c-4796-91bb-38fd9a0a3d78,pla.la,resell,,,high,low,3,,,,27/09/2026 18:08
-93a4e268-32d6-4b1d-ad65-bc82f362fb0b,ungummed.la,available,27.99,27.99,low,low,8,namesilo,,,12/09/2026 11:43
-fcbb1aad-f591-4533-9c7c-f5b6614b7728,chap.la,available,27.99,27.99,medium,low,4,namesilo,,,24/09/2026 06:13
-205cf49d-d008-411d-81e9-a83c55377606,ctr.la,resell,,,high,low,3,,,,01/10/2026 22:35
-6e7ca783-58aa-4116-848e-67bd7424c837,delaying.la,available,27.99,27.99,medium,low,8,namesilo,,,30/09/2026 04:10
-af4af519-2e1f-46c1-b8b4-c57e06bfccc4,frequently.la,available,27.99,27.99,medium,low,10,namesilo,,,28/09/2026 14:57
-d700d24e-1d6b-4552-8b5e-ab9580268e40,buttermilk.la,available,32.98,41.98,high,low,10,namecheap,,,24/09/2026 11:20
-c2e60cb9-51d4-4a5e-be2f-71802500209b,operators.la,available,32.98,41.98,medium,low,9,namecheap,,,28/09/2026 09:08
-a925cb6a-78b5-4168-8942-6977bd1653ae,hushed.la,available,27.99,27.99,medium,low,6,namesilo,,,21/08/2026 15:54
-671cd0aa-332a-46c8-825f-144af666b3b0,stare.la,available,27.99,27.99,high,low,5,namesilo,,,28/09/2026 09:52
-0749149c-19b9-42da-84d2-b6cee2c69ea2,linden.la,available,27.99,27.99,medium,low,6,namesilo,,,22/09/2026 12:37
-0cc125a9-8171-4733-8ebd-e6c83674eda3,missing.la,resell,,,high,low,7,VIPDomains.LA  Founders Program,04/03/2015 05:19,04/03/2027 23:59,26/09/2026 07:35
-b6790e1e-2f78-48fa-9ab0-85a56bb19393,grown.la,available,27.99,27.99,high,low,5,namesilo,,,08/09/2026 15:16
-9ca15a47-7537-4f3d-a663-3d4b5402810d,studios.la,resell,,,medium,low,7,LA Domain Names,22/05/2017 11:57,22/05/2027 23:59,26/09/2026 09:22
-7e761308-a779-44b3-92e3-becbb2103ccf,unlivable.la,available,27.99,27.99,medium,low,9,namesilo,,,12/09/2026 14:57
-47d677c9-62b3-486a-8896-07ebf1537fd0,fruitful.la,available,27.99,27.99,high,low,8,namesilo,,,18/08/2026 17:02
-34ff8748-da1b-44e1-b52f-bb801dba5020,undertaking.la,available,27.95,27.95,high,low,11,dynadot,,,29/09/2026 21:13
-cbc6cb67-d0e7-464f-9631-e934d963ef3b,piggy.la,available,27.99,27.99,high,low,5,namesilo,,,21/08/2026 10:19
-478f708a-f140-4ca6-8f99-cb2d35220783,chaparral.la,available,27.99,27.99,medium,low,9,namesilo,,,10/09/2026 00:21
-ed6766f4-f87a-4139-8989-9ca9e5de352e,positivist.la,available,27.99,27.99,medium,low,10,namesilo,,,09/09/2026 00:12
-090d2c31-1108-4baf-8591-a0070d41786d,charity.la,resell,,,high,low,7,LA Domain Names,22/03/2023 08:47,22/03/2027 23:59,26/09/2026 04:52
-d6a44bde-8609-4de7-bb4a-142e3c562344,valdez.la,resell,,,medium,low,6,,,,28/09/2026 20:43
-1d3dcbd4-dfcf-4b51-9fff-de5080d89d89,event.la,resell,,,high,medium,5,LA Domain Names,05/04/2017 00:11,05/04/2027 23:59,29/09/2026 08:05
-efb68a6b-e6ff-4a58-8dda-a981431d456d,egocentric.la,available,27.99,27.99,medium,low,10,namesilo,,,15/08/2026 19:41
-5bfc0e30-e832-4d82-af41-ae3d9510f3d7,unrested.la,available,32.98,41.98,medium,low,8,namecheap,,,12/09/2026 18:02
-12765628-df55-4503-86a7-0181d85ed0df,undermining.la,available,27.34,27.94,medium,low,11,porkbun,,,01/10/2026 15:46
-bbc83686-be4f-4b28-a324-74b8be1bb3f5,backspacer.la,available,27.99,27.99,medium,low,10,namesilo,,,21/09/2026 16:02
-49cd0079-594f-4027-916b-44b42e861d97,dishy.la,available,27.99,27.99,medium,low,5,namesilo,,,14/08/2026 11:03
-631b3135-1991-4696-aad8-a768a9b9dcbf,engines.la,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 19:59
-d5f58de4-5c90-4c2e-995b-981cfea85e93,fought.la,available,27.99,27.99,medium,low,6,namesilo,,,
-33b4efa1-51c1-43c4-8744-bd746a8f8213,agnostic.la,available,27.99,27.99,high,low,8,namesilo,,,21/09/2026 23:11
-5d9c802c-11b1-4aac-b0e3-9609e2b99f89,palpatory.la,available,27.99,27.99,medium,low,9,namesilo,,,05/09/2026 00:12
-b664fdbf-6bd3-4649-b931-258cdd34c9fe,racial.la,available,27.99,27.99,high,low,6,namesilo,,,09/09/2026 09:19
-75ad09a9-f6ba-4b10-8097-3a0b968dfea5,scenarios.la,available,27.99,27.99,medium,low,9,namesilo,,,29/09/2026 17:21
-efcb59ba-f78c-4d4d-9877-0c2d1a86c77f,resilient.la,resell,,,high,low,9,VIPDomains.LA  Founders Program,28/08/2015 23:55,28/08/2027 23:59,26/09/2026 08:37
-582f690b-58f4-4d69-8002-821067ba2bc5,revenge.la,resell,,,high,low,7,LA Domain Names,21/03/2017 21:07,21/03/2027 23:59,26/09/2026 08:39
-cb134050-9424-4bcc-99c9-b34fa573cd4a,monitor.la,resell,,,high,low,7,LA Domain Names,02/12/2018 08:01,02/12/2026 23:59,28/09/2026 18:50
-ab7ccf52-faaf-4c9d-8279-1c4b2f470a7b,modigliani.la,available,32.98,41.98,medium,low,10,namecheap,,,18/09/2026 17:54
